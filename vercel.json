@@ -2,10 +2,7 @@
   "outputDirectory": "artifacts/counselling/dist/public",
   "rewrites": [
     { "source": "/api/(.*)", "destination": "/api" },
-    {
-      "source": "^/(?!assets/|logos/|fonts/|favicon\\.png$|robots\\.txt$).*",
-      "destination": "/index.html"
-    }
+    { "source": "/(.*)", "destination": "/index.html" }
   ],
   "functions": {
     "api/index.ts": {
@@ -13,4 +10,3 @@
     }
   }
 }
-

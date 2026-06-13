@@ -1,23 +1,6 @@
-import { readFileSync } from "fs";
-import { join, dirname, resolve } from "path";
-import { fileURLToPath } from "url";
+import { createRequire } from "module";
 
-const __dirname = dirname(fileURLToPath(import.meta.url));
-const DATA_DIR = resolve(__dirname, "../src/data");
-
-function loadJson<T>(filename: string): T {
-  const candidates = [
-    join(DATA_DIR, filename),
-    join(__dirname, filename),
-  ];
-  for (const filePath of candidates) {
-    try {
-      return JSON.parse(readFileSync(filePath, "utf-8")) as T;
-    } catch {
-    }
-  }
-  throw new Error(`Cannot find data file: ${filename} (tried ${candidates.join(", ")})`);
-}
+const require = createRequire(import.meta.url);
 
 interface Counselling {
   id: string;
@@ -158,14 +141,14 @@ interface InternshipData {
   conversionToFullTime: number | null;
 }
 
-export const counsellings = loadJson<Counselling[]>("counsellings.json");
-export const colleges = loadJson<College[]>("colleges.json");
-export const rounds = loadJson<Round[]>("rounds.json");
-export const cutoffs = loadJson<Cutoff[]>("cutoffs.json");
-export const placements = loadJson<Record<string, PlacementData>>("placements.json");
-export const hostels = loadJson<Record<string, HostelData>>("hostels.json");
-export const departments = loadJson<Record<string, Department[]>>("departments.json");
-export const internships = loadJson<Record<string, InternshipData>>("internships.json");
+export const counsellings = require("./counsellings.json") as Counselling[];
+export const colleges = require("./colleges.json") as College[];
+export const rounds = require("./rounds.json") as Round[];
+export const cutoffs = require("./cutoffs.json") as Cutoff[];
+export const placements = require("./placements.json") as Record<string, PlacementData>;
+export const hostels = require("./hostels.json") as Record<string, HostelData>;
+export const departments = require("./departments.json") as Record<string, Department[]>;
+export const internships = require("./internships.json") as Record<string, InternshipData>;
 
 export const counsellingBySlug = new Map(counsellings.map((c) => [c.slug, c]));
 export const counsellingById = new Map(counsellings.map((c) => [c.id, c]));
