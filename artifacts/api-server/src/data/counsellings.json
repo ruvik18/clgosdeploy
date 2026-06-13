@@ -1,0 +1,263 @@
+[
+  {
+    "id": "josaa",
+    "name": "JoSAA",
+    "slug": "josaa",
+    "type": "Engineering",
+    "level": "National",
+    "states": ["National"],
+    "startMonth": "Jun",
+    "endMonth": "Sep",
+    "startYear": 2026,
+    "logoUrl": null,
+    "description": "Joint Seat Allocation Authority — the single window for IIT, NIT, IIIT and GFTI seat allotment based on JEE Advanced and JEE Main ranks.",
+    "about": "JoSAA conducts joint seat allocation for admissions to 118 institutes including 23 IITs, 31 NITs, 25 IIITs and 39 GFTIs. Candidates who qualify JEE Advanced or JEE Main can participate in JoSAA counselling.",
+    "totalColleges": 118,
+    "totalSeats": 57000,
+    "rounds": 6,
+    "importantDates": [
+      { "event": "Registration Opens", "date": "Jun 12, 2026" },
+      { "event": "Round 1 Allotment", "date": "Jun 22, 2026" },
+      { "event": "Round 2 Allotment", "date": "Jul 01, 2026" },
+      { "event": "Round 3 Allotment", "date": "Jul 09, 2026" },
+      { "event": "Round 4 Allotment", "date": "Jul 17, 2026" },
+      { "event": "Round 5 Allotment", "date": "Jul 24, 2026" },
+      { "event": "Round 6 Allotment", "date": "Aug 01, 2026" }
+    ]
+  },
+  {
+    "id": "csab",
+    "name": "CSAB",
+    "slug": "csab",
+    "type": "Engineering",
+    "level": "National",
+    "states": ["National"],
+    "startMonth": "Sep",
+    "endMonth": "Oct",
+    "startYear": 2026,
+    "logoUrl": null,
+    "description": "Central Seat Allocation Board — fills vacant NIT, IIIT and GFTI seats after JoSAA rounds close.",
+    "about": "CSAB SFWE (Special Full-time Edition) conducts two rounds of counselling to fill remaining seats in NITs, IIITs and GFTIs after JoSAA.",
+    "totalColleges": 95,
+    "totalSeats": 8000,
+    "rounds": 2,
+    "importantDates": [
+      { "event": "Registration Opens", "date": "Sep 10, 2026" },
+      { "event": "Round 1 Allotment", "date": "Sep 20, 2026" },
+      { "event": "Round 2 Allotment", "date": "Oct 02, 2026" }
+    ]
+  },
+  {
+    "id": "jac-delhi",
+    "name": "JAC Delhi",
+    "slug": "jac-delhi",
+    "type": "Engineering + Architecture",
+    "level": "State",
+    "states": ["Delhi"],
+    "startMonth": "Jul",
+    "endMonth": "Aug",
+    "startYear": 2026,
+    "logoUrl": null,
+    "description": "Joint Admission Counselling Delhi — admissions to Delhi technical institutions including DTU, NSUT, IGDTUW and IIIT Delhi.",
+    "about": "JAC Delhi conducts centralized counselling for admissions to Delhi State Universities — DTU, NSUT, IGDTUW, IIITD — based on JEE Main ranks.",
+    "totalColleges": 8,
+    "totalSeats": 7200,
+    "rounds": 4,
+    "importantDates": [
+      { "event": "Registration Opens", "date": "Jul 05, 2026" },
+      { "event": "Round 1 Allotment", "date": "Jul 18, 2026" },
+      { "event": "Round 2 Allotment", "date": "Jul 28, 2026" },
+      { "event": "Round 3 Allotment", "date": "Aug 08, 2026" }
+    ]
+  },
+  {
+    "id": "jac-chandigarh",
+    "name": "JAC Chandigarh",
+    "slug": "jac-chandigarh",
+    "type": "Engineering + Architecture",
+    "level": "State",
+    "states": ["Chandigarh", "Punjab"],
+    "startMonth": "Jul",
+    "endMonth": "Aug",
+    "startYear": 2026,
+    "logoUrl": null,
+    "description": "Joint Advisory Committee Chandigarh — admissions to PEC University of Technology and allied institutions in Chandigarh region.",
+    "about": "JAC Chandigarh manages seat allocation for engineering admissions in Chandigarh UT institutions.",
+    "totalColleges": 5,
+    "totalSeats": 2400,
+    "rounds": 3,
+    "importantDates": [
+      { "event": "Registration Opens", "date": "Jul 08, 2026" },
+      { "event": "Round 1 Allotment", "date": "Jul 22, 2026" },
+      { "event": "Round 2 Allotment", "date": "Aug 02, 2026" }
+    ]
+  },
+  {
+    "id": "apeapcet",
+    "name": "APEAPCET",
+    "slug": "apeapcet",
+    "type": "Engineering",
+    "level": "State",
+    "states": ["Andhra Pradesh"],
+    "startMonth": "Jul",
+    "endMonth": "Sep",
+    "startYear": 2026,
+    "logoUrl": null,
+    "description": "AP Engineering, Agriculture and Pharmacy Common Entrance Test — state-level counselling for Andhra Pradesh engineering colleges.",
+    "about": "APEAPCET is conducted by APSCHE for admissions to engineering and pharmacy colleges in Andhra Pradesh.",
+    "totalColleges": 480,
+    "totalSeats": 145000,
+    "rounds": 3,
+    "importantDates": [
+      { "event": "Registration Opens", "date": "Jul 12, 2026" },
+      { "event": "Round 1 Allotment", "date": "Aug 02, 2026" }
+    ]
+  },
+  {
+    "id": "tgeapcet",
+    "name": "TGEAPCET",
+    "slug": "tgeapcet",
+    "type": "Engineering",
+    "level": "State",
+    "states": ["Telangana"],
+    "startMonth": "Jul",
+    "endMonth": "Sep",
+    "startYear": 2026,
+    "logoUrl": null,
+    "description": "Telangana State Engineering, Agriculture and Pharmacy Common Entrance Test — state-level engineering counselling for Telangana.",
+    "about": "TGEAPCET is conducted by TSCHE for admissions to engineering colleges across Telangana.",
+    "totalColleges": 220,
+    "totalSeats": 80000,
+    "rounds": 3,
+    "importantDates": [
+      { "event": "Registration Opens", "date": "Jul 14, 2026" },
+      { "event": "Round 1 Allotment", "date": "Aug 05, 2026" }
+    ]
+  },
+  {
+    "id": "ipu-delhi",
+    "name": "IPU Delhi",
+    "slug": "ipu-delhi",
+    "type": "Engineering",
+    "level": "State",
+    "states": ["Delhi NCR"],
+    "startMonth": "Jul",
+    "endMonth": "Sep",
+    "startYear": 2026,
+    "logoUrl": null,
+    "description": "Indraprastha University Common Entrance Test counselling — engineering admissions to IPU affiliated colleges.",
+    "about": "IPU Delhi conducts centralized counselling for admissions to GGSIPU affiliated engineering colleges.",
+    "totalColleges": 42,
+    "totalSeats": 18000,
+    "rounds": 3,
+    "importantDates": [
+      { "event": "Registration Opens", "date": "Jul 10, 2026" },
+      { "event": "Round 1 Allotment", "date": "Aug 01, 2026" }
+    ]
+  },
+  {
+    "id": "uptac",
+    "name": "UPTAC / AKTU",
+    "slug": "uptac",
+    "type": "Engineering",
+    "level": "State",
+    "states": ["Uttar Pradesh"],
+    "startMonth": "Aug",
+    "endMonth": "Sep",
+    "startYear": 2026,
+    "logoUrl": null,
+    "description": "Uttar Pradesh Technical Admission Counselling — centralized counselling for AKTU affiliated colleges in UP.",
+    "about": "UPTAC is the single-window counselling authority for engineering admissions in Uttar Pradesh under Dr. APJ Abdul Kalam Technical University.",
+    "totalColleges": 740,
+    "totalSeats": 240000,
+    "rounds": 4,
+    "importantDates": [
+      { "event": "Registration Opens", "date": "Aug 01, 2026" },
+      { "event": "Round 1 Allotment", "date": "Aug 20, 2026" }
+    ]
+  },
+  {
+    "id": "mpdte",
+    "name": "MPDTE",
+    "slug": "mpdte",
+    "type": "Engineering",
+    "level": "State",
+    "states": ["Madhya Pradesh"],
+    "startMonth": "Aug",
+    "endMonth": "Sep",
+    "startYear": 2026,
+    "logoUrl": null,
+    "description": "Madhya Pradesh Directorate of Technical Education counselling for engineering colleges in MP.",
+    "about": "MPDTE conducts centralized counselling for engineering and polytechnic admissions in Madhya Pradesh.",
+    "totalColleges": 210,
+    "totalSeats": 65000,
+    "rounds": 3,
+    "importantDates": [
+      { "event": "Registration Opens", "date": "Aug 08, 2026" },
+      { "event": "Round 1 Allotment", "date": "Aug 25, 2026" }
+    ]
+  },
+  {
+    "id": "reap",
+    "name": "REAP",
+    "slug": "reap",
+    "type": "Engineering",
+    "level": "State",
+    "states": ["Rajasthan"],
+    "startMonth": "Aug",
+    "endMonth": "Sep",
+    "startYear": 2026,
+    "logoUrl": null,
+    "description": "Rajasthan Engineering Admission Process — centralized counselling for engineering admissions in Rajasthan.",
+    "about": "REAP is conducted by the Board of Technical Education Rajasthan for admissions to state engineering colleges.",
+    "totalColleges": 185,
+    "totalSeats": 55000,
+    "rounds": 3,
+    "importantDates": [
+      { "event": "Registration Opens", "date": "Aug 10, 2026" },
+      { "event": "Round 1 Allotment", "date": "Aug 28, 2026" }
+    ]
+  },
+  {
+    "id": "bitsat",
+    "name": "BITSAT",
+    "slug": "bitsat",
+    "type": "Engineering",
+    "level": "National",
+    "states": ["National"],
+    "startMonth": "Jul",
+    "endMonth": "Aug",
+    "startYear": 2026,
+    "logoUrl": null,
+    "description": "BITS Pilani Admission Test — entrance for BITS Pilani, Goa and Hyderabad campuses.",
+    "about": "BITSAT is a computer-based online test for admissions to all integrated first degree programmes of BITS Pilani, BITS Goa and BITS Hyderabad.",
+    "totalColleges": 3,
+    "totalSeats": 2500,
+    "rounds": 2,
+    "importantDates": [
+      { "event": "Iteration 1 Allotment", "date": "Jul 20, 2026" },
+      { "event": "Iteration 2 Allotment", "date": "Aug 05, 2026" }
+    ]
+  },
+  {
+    "id": "comedk",
+    "name": "COMEDK",
+    "slug": "comedk",
+    "type": "Engineering",
+    "level": "State",
+    "states": ["Karnataka"],
+    "startMonth": "Jul",
+    "endMonth": "Aug",
+    "startYear": 2026,
+    "logoUrl": null,
+    "description": "Consortium of Medical Engineering and Dental Colleges of Karnataka — engineering admissions in Karnataka.",
+    "about": "COMEDK conducts centralized counselling for admissions to engineering colleges under its member institutions in Karnataka.",
+    "totalColleges": 160,
+    "totalSeats": 51000,
+    "rounds": 3,
+    "importantDates": [
+      { "event": "Registration Opens", "date": "Jul 16, 2026" },
+      { "event": "Round 1 Allotment", "date": "Aug 01, 2026" }
+    ]
+  }
+]

@@ -1,0 +1,2373 @@
+[
+  {
+    "id": "iit-guwahati",
+    "name": "IIT Guwahati",
+    "slug": "iit-guwahati",
+    "location": "Guwahati",
+    "state": "Assam",
+    "type": "IIT",
+    "established": 1994,
+    "naacGrade": "A++",
+    "logoUrl": null,
+    "coverImageUrl": null,
+    "tagline": "Most scenic campus — strong CSE and design intake.",
+    "description": "IIT Guwahati is the sixth member of the IIT fraternity established in 1994. Situated on the northern banks of the Brahmaputra river, it is surrounded by scenic hills and lush greenery.",
+    "about": "IIT Guwahati is a premier engineering institute in Northeast India. Known for its beautiful riverside campus, strong research culture, and excellent placement record in software, core and finance sectors.",
+    "admissionThrough": "JEE Advanced → JoSAA",
+    "website": "https://www.iitg.ac.in",
+    "avgPackageLPA": 25.21,
+    "medianPackageLPA": 19.48,
+    "peakPackageCR": 1.25,
+    "peakInternationalPackageCR": 2.4,
+    "cseCutoffRank": 593,
+    "nirfRank": 8,
+    "nirfRankCategory": "Engineering",
+    "qsWorldRank": 334,
+    "placementPercent": 62,
+    "totalOffers": 891,
+    "linkedinAlumni": 48000,
+    "totalFaculty": 320,
+    "totalStudents": 5200,
+    "campusAreaAcres": 700,
+    "counsellings": [
+      "josaa"
+    ],
+    "topRecruiters": [
+      "Google",
+      "Apple",
+      "Microsoft",
+      "Amazon",
+      "Qualcomm",
+      "Uber",
+      "JP Morgan Chase",
+      "Goldman Sachs",
+      "Schlumberger",
+      "DE Shaw",
+      "Deutsche Bank",
+      "HSBC",
+      "Nomura",
+      "Airbus",
+      "Accenture",
+      "Deloitte",
+      "Adobe",
+      "Samsung",
+      "Nvidia",
+      "Oracle",
+      "Flipkart",
+      "Capgemini",
+      "GAIL",
+      "IOCL",
+      "BPCL",
+      "NTPC",
+      "DRDO",
+      "HAL",
+      "BEL",
+      "L&T",
+      "Bosch",
+      "Hero Moto Corp"
+    ],
+    "facilities": [
+      "Central Library",
+      "Sports Complex",
+      "Swimming Pool",
+      "Indoor Stadium",
+      "24x7 Medical Center",
+      "Multiple Cafeterias",
+      "Workshop",
+      "Student Activity Center"
+    ],
+    "labs": [
+      {
+        "name": "Supercomputing Facility",
+        "description": "High-performance computing cluster for research"
+      },
+      {
+        "name": "VLSI Lab",
+        "description": "Advanced chip design and testing facility"
+      },
+      {
+        "name": "AI & Machine Learning Lab",
+        "description": "Dedicated GPU cluster for AI research"
+      },
+      {
+        "name": "Robotics Lab",
+        "description": "Autonomous systems and robotics research"
+      }
+    ],
+    "tags": [
+      "IIT",
+      "Institute of National Importance",
+      "NAAC A++",
+      "JEE Advanced"
+    ],
+    "featured": true
+  },
+  {
+    "id": "iit-bhu-varanasi",
+    "name": "IIT BHU Varanasi",
+    "slug": "iit-bhu-varanasi",
+    "location": "Varanasi",
+    "state": "Uttar Pradesh",
+    "type": "IIT",
+    "established": 1919,
+    "naacGrade": "A++",
+    "logoUrl": null,
+    "coverImageUrl": null,
+    "tagline": "Ceramic + metallurgy heritage — newest IIT to scale CSE.",
+    "description": "IIT (BHU) Varanasi emerged from IT-BHU, one of India's oldest technical institutions. Located within the Banaras Hindu University campus, it offers a unique academic environment.",
+    "about": "IIT BHU is among India's oldest technical institutions, established in 1919 as the Benaras Engineering College. Known for metallurgy, ceramics and now rapidly growing in CSE placement.",
+    "admissionThrough": "JEE Advanced → JoSAA",
+    "website": "https://www.iitbhu.ac.in",
+    "avgPackageLPA": 20,
+    "medianPackageLPA": 14.8,
+    "peakPackageCR": 1.6,
+    "peakInternationalPackageCR": 1.8,
+    "cseCutoffRank": 414,
+    "nirfRank": 12,
+    "nirfRankCategory": "Engineering",
+    "qsWorldRank": 601,
+    "placementPercent": 68,
+    "totalOffers": 754,
+    "linkedinAlumni": 62000,
+    "totalFaculty": 410,
+    "totalStudents": 6800,
+    "campusAreaAcres": 1300,
+    "counsellings": [
+      "josaa"
+    ],
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Flipkart",
+      "Samsung",
+      "Intel",
+      "Adobe",
+      "Goldman Sachs",
+      "Nomura",
+      "HSBC",
+      "L&T",
+      "BHEL",
+      "SAIL",
+      "ONGC",
+      "GAIL",
+      "DRDO",
+      "HAL"
+    ],
+    "facilities": [
+      "Central Library",
+      "Sports Complex",
+      "Indoor Stadium",
+      "Medical Center",
+      "Shopping Complex",
+      "Multiple Hostels"
+    ],
+    "labs": [
+      {
+        "name": "Ceramic Technology Lab",
+        "description": "World-class ceramics research facility"
+      },
+      {
+        "name": "Materials Science Lab",
+        "description": "Advanced materials characterization"
+      },
+      {
+        "name": "Computer Centre",
+        "description": "High-speed computing infrastructure"
+      }
+    ],
+    "tags": [
+      "IIT",
+      "Institute of National Importance",
+      "NAAC A++",
+      "JEE Advanced"
+    ],
+    "featured": true
+  },
+  {
+    "id": "nit-trichy",
+    "name": "NIT Trichy",
+    "slug": "nit-trichy",
+    "location": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "type": "NIT",
+    "established": 1964,
+    "naacGrade": "A++",
+    "logoUrl": null,
+    "coverImageUrl": null,
+    "tagline": "Top NIT for placements — cracks the IIT-grade salary band.",
+    "description": "National Institute of Technology, Tiruchirappalli is consistently ranked among the top NITs in India. Known for excellent placements and a vibrant campus culture.",
+    "about": "NIT Trichy (NITT) is the premier NIT in South India. Its placement statistics rival several IITs, with CSE consistently achieving top packages from global tech companies.",
+    "admissionThrough": "JEE Main → JoSAA",
+    "website": "https://www.nitt.edu",
+    "avgPackageLPA": 17,
+    "medianPackageLPA": 12.5,
+    "peakPackageCR": 1.4,
+    "peakInternationalPackageCR": 1.4,
+    "cseCutoffRank": 1185,
+    "nirfRank": 10,
+    "nirfRankCategory": "NIT",
+    "qsWorldRank": null,
+    "placementPercent": 88,
+    "totalOffers": 1245,
+    "linkedinAlumni": 55000,
+    "totalFaculty": 380,
+    "totalStudents": 6500,
+    "campusAreaAcres": 800,
+    "counsellings": [
+      "josaa",
+      "csab"
+    ],
+    "topRecruiters": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Qualcomm",
+      "Samsung",
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Goldman Sachs",
+      "Morgan Stanley",
+      "JP Morgan",
+      "Deloitte",
+      "Accenture",
+      "ISRO",
+      "DRDO",
+      "L&T"
+    ],
+    "facilities": [
+      "Library",
+      "Indoor Stadium",
+      "Swimming Pool",
+      "Hospital",
+      "Shopping Complex"
+    ],
+    "labs": [
+      {
+        "name": "Embedded Systems Lab",
+        "description": "Real-time systems research"
+      },
+      {
+        "name": "HPC Cluster",
+        "description": "Parallel computing facility"
+      }
+    ],
+    "tags": [
+      "NIT",
+      "Institute of National Importance",
+      "NAAC A++",
+      "JEE Main"
+    ],
+    "featured": true
+  },
+  {
+    "id": "nit-surathkal",
+    "name": "NIT Surathkal",
+    "slug": "nit-surathkal",
+    "location": "Mangalore",
+    "state": "Karnataka",
+    "type": "NIT",
+    "established": 1960,
+    "naacGrade": "A",
+    "logoUrl": null,
+    "coverImageUrl": null,
+    "tagline": "Beachside campus — best NIT culture for clubs and fests.",
+    "description": "National Institute of Technology Karnataka, Surathkal is a premier NIT with a beautiful coastal campus. Known for technical fests, strong alumni network and excellent placements.",
+    "about": "NITK Surathkal is one of the oldest NITs, situated on the scenic Surathkal beach. It has a strong focus on technology and has produced many industry leaders.",
+    "admissionThrough": "JEE Main → JoSAA",
+    "website": "https://www.nitk.ac.in",
+    "avgPackageLPA": 20,
+    "medianPackageLPA": 13.2,
+    "peakPackageCR": 1,
+    "peakInternationalPackageCR": 1.2,
+    "cseCutoffRank": 1864,
+    "nirfRank": 15,
+    "nirfRankCategory": "NIT",
+    "qsWorldRank": null,
+    "placementPercent": 85,
+    "totalOffers": 980,
+    "linkedinAlumni": 41000,
+    "totalFaculty": 295,
+    "totalStudents": 4800,
+    "campusAreaAcres": 295,
+    "counsellings": [
+      "josaa",
+      "csab"
+    ],
+    "topRecruiters": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Flipkart",
+      "Cisco",
+      "Qualcomm",
+      "TCS",
+      "Infosys",
+      "Goldman Sachs",
+      "Deutsche Bank",
+      "L&T",
+      "ISRO",
+      "DRDO"
+    ],
+    "facilities": [
+      "Beach Campus",
+      "Library",
+      "Sports Complex",
+      "Medical Center"
+    ],
+    "labs": [
+      {
+        "name": "Signal Processing Lab",
+        "description": "Communication systems research"
+      },
+      {
+        "name": "Networking Lab",
+        "description": "Computer networks and security"
+      }
+    ],
+    "tags": [
+      "NIT",
+      "Institute of National Importance",
+      "NAAC A",
+      "JEE Main"
+    ],
+    "featured": true
+  },
+  {
+    "id": "nit-warangal",
+    "name": "NIT Warangal",
+    "slug": "nit-warangal",
+    "location": "Warangal",
+    "state": "Telangana",
+    "type": "NIT",
+    "established": 1959,
+    "naacGrade": "A++",
+    "logoUrl": null,
+    "coverImageUrl": null,
+    "tagline": "Heritage NIT — strongest brand recall in the south.",
+    "description": "National Institute of Technology Warangal, the first NIT in India, established in 1959. Known for its rich heritage, strong alumni base and consistently high placements.",
+    "about": "NIT Warangal is the oldest NIT in India and one of the most prestigious. It has an exceptional placement record and strong alumni presence in top tech companies worldwide.",
+    "admissionThrough": "JEE Main → JoSAA",
+    "website": "https://www.nitw.ac.in",
+    "avgPackageLPA": 17,
+    "medianPackageLPA": 12,
+    "peakPackageCR": 0.98,
+    "peakInternationalPackageCR": 1.1,
+    "cseCutoffRank": 2188,
+    "nirfRank": 18,
+    "nirfRankCategory": "NIT",
+    "qsWorldRank": null,
+    "placementPercent": 82,
+    "totalOffers": 1180,
+    "linkedinAlumni": 58000,
+    "totalFaculty": 340,
+    "totalStudents": 5600,
+    "campusAreaAcres": 250,
+    "counsellings": [
+      "josaa",
+      "csab",
+      "tgeapcet"
+    ],
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Samsung",
+      "Qualcomm",
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Capgemini",
+      "Goldman Sachs",
+      "HSBC",
+      "L&T",
+      "DRDO",
+      "ISRO"
+    ],
+    "facilities": [
+      "Library",
+      "Indoor Stadium",
+      "Swimming Pool",
+      "Hostels",
+      "Medical Center"
+    ],
+    "labs": [
+      {
+        "name": "Computational Intelligence Lab",
+        "description": "AI and data science research"
+      },
+      {
+        "name": "Power Systems Lab",
+        "description": "Electrical engineering research"
+      }
+    ],
+    "tags": [
+      "NIT",
+      "Institute of National Importance",
+      "First NIT India",
+      "JEE Main"
+    ],
+    "featured": true
+  },
+  {
+    "id": "iit-bombay",
+    "name": "IIT Bombay",
+    "slug": "iit-bombay",
+    "location": "Mumbai",
+    "state": "Maharashtra",
+    "type": "IIT",
+    "established": 1958,
+    "naacGrade": "A++",
+    "logoUrl": null,
+    "coverImageUrl": null,
+    "tagline": "India's premier tech institution — deepest industry network.",
+    "description": "IIT Bombay is one of India's most prestigious institutions, located in the financial capital. Known for innovation, entrepreneurship and highest placements among all IITs.",
+    "about": "IIT Bombay consistently ranks #1 in India for placements and industry connect. The institution has the highest number of alumni startups and the deepest industry relationships.",
+    "admissionThrough": "JEE Advanced → JoSAA",
+    "website": "https://www.iitb.ac.in",
+    "avgPackageLPA": 35.8,
+    "medianPackageLPA": 22.5,
+    "peakPackageCR": 3.8,
+    "peakInternationalPackageCR": 5.2,
+    "cseCutoffRank": 67,
+    "nirfRank": 3,
+    "nirfRankCategory": "Engineering",
+    "qsWorldRank": 118,
+    "placementPercent": 78,
+    "totalOffers": 1420,
+    "linkedinAlumni": 128000,
+    "totalFaculty": 620,
+    "totalStudents": 10500,
+    "campusAreaAcres": 550,
+    "counsellings": [
+      "josaa"
+    ],
+    "topRecruiters": [
+      "Google",
+      "Apple",
+      "Meta",
+      "Netflix",
+      "Stripe",
+      "Uber",
+      "Microsoft",
+      "Amazon",
+      "Goldman Sachs",
+      "McKinsey",
+      "BCG",
+      "Bain",
+      "D.E. Shaw",
+      "Citadel",
+      "Two Sigma",
+      "Jane Street",
+      "Optiver"
+    ],
+    "facilities": [
+      "Library",
+      "Olympic Pool",
+      "Football Ground",
+      "Indoor Stadium",
+      "Hospital",
+      "Shopping Complex",
+      "Multiple Cafeterias"
+    ],
+    "labs": [
+      {
+        "name": "C-DAC Supercomputer",
+        "description": "National supercomputing hub"
+      },
+      {
+        "name": "Wadhwani AI Lab",
+        "description": "AI for social good research"
+      },
+      {
+        "name": "CUSE Lab",
+        "description": "Centre for Urban Science and Engineering"
+      }
+    ],
+    "tags": [
+      "IIT",
+      "Institute of National Importance",
+      "NAAC A++",
+      "JEE Advanced"
+    ],
+    "featured": true
+  },
+  {
+    "id": "iit-delhi",
+    "name": "IIT Delhi",
+    "slug": "iit-delhi",
+    "location": "New Delhi",
+    "state": "Delhi",
+    "type": "IIT",
+    "established": 1961,
+    "naacGrade": "A++",
+    "logoUrl": null,
+    "coverImageUrl": null,
+    "tagline": "Capital city IIT — strongest consulting and finance recruiting.",
+    "description": "IIT Delhi, located in South Delhi, is one of India's top engineering institutions. Known for its urban location, strong placements in consulting and finance, and vibrant entrepreneurship culture.",
+    "about": "IIT Delhi benefits from its proximity to Delhi's corporate hub. It has exceptional placements in management consulting, finance and technology sectors.",
+    "admissionThrough": "JEE Advanced → JoSAA",
+    "website": "https://home.iitd.ac.in",
+    "avgPackageLPA": 32.4,
+    "medianPackageLPA": 20.8,
+    "peakPackageCR": 3.2,
+    "peakInternationalPackageCR": 4.5,
+    "cseCutoffRank": 98,
+    "nirfRank": 2,
+    "nirfRankCategory": "Engineering",
+    "qsWorldRank": 150,
+    "placementPercent": 76,
+    "totalOffers": 1280,
+    "linkedinAlumni": 115000,
+    "totalFaculty": 580,
+    "totalStudents": 9800,
+    "campusAreaAcres": 320,
+    "counsellings": [
+      "josaa"
+    ],
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Goldman Sachs",
+      "McKinsey",
+      "BCG",
+      "Bain",
+      "Amazon",
+      "Meta",
+      "Uber",
+      "Qualcomm",
+      "Samsung",
+      "Intel",
+      "D.E. Shaw",
+      "Nomura",
+      "Morgan Stanley"
+    ],
+    "facilities": [
+      "Library",
+      "Swimming Pool",
+      "Indoor Stadium",
+      "Hospital",
+      "Metro Connectivity"
+    ],
+    "labs": [
+      {
+        "name": "HPC Facility",
+        "description": "High performance computing cluster"
+      },
+      {
+        "name": "Design Innovation Centre",
+        "description": "Product design and prototyping"
+      }
+    ],
+    "tags": [
+      "IIT",
+      "Institute of National Importance",
+      "NAAC A++",
+      "JEE Advanced"
+    ],
+    "featured": true
+  },
+  {
+    "id": "iit-madras",
+    "name": "IIT Madras",
+    "slug": "iit-madras",
+    "location": "Chennai",
+    "state": "Tamil Nadu",
+    "type": "IIT",
+    "established": 1959,
+    "naacGrade": "A++",
+    "logoUrl": null,
+    "coverImageUrl": null,
+    "tagline": "NIRF #1 institute — India's finest research ecosystem.",
+    "description": "IIT Madras consistently tops the NIRF rankings. Located in a forested campus in Chennai, it excels in research, innovation and deep tech.",
+    "about": "IIT Madras is India's No.1 ranked institution by NIRF. Known for research excellence, deep tech innovation, and a unique campus with deer roaming freely in the forest.",
+    "admissionThrough": "JEE Advanced → JoSAA",
+    "website": "https://www.iitm.ac.in",
+    "avgPackageLPA": 30.2,
+    "medianPackageLPA": 21,
+    "peakPackageCR": 2.9,
+    "peakInternationalPackageCR": 4,
+    "cseCutoffRank": 78,
+    "nirfRank": 1,
+    "nirfRankCategory": "Engineering",
+    "qsWorldRank": 227,
+    "placementPercent": 74,
+    "totalOffers": 1380,
+    "linkedinAlumni": 110000,
+    "totalFaculty": 600,
+    "totalStudents": 10200,
+    "campusAreaAcres": 617,
+    "counsellings": [
+      "josaa"
+    ],
+    "topRecruiters": [
+      "Google",
+      "Apple",
+      "Qualcomm",
+      "Texas Instruments",
+      "Intel",
+      "Nvidia",
+      "Microsoft",
+      "Amazon",
+      "Goldman Sachs",
+      "Morgan Stanley",
+      "D.E. Shaw",
+      "Two Sigma",
+      "Schlumberger",
+      "ISRO"
+    ],
+    "facilities": [
+      "Library",
+      "Forest Campus",
+      "Swimming Pool",
+      "Research Park",
+      "Hospital"
+    ],
+    "labs": [
+      {
+        "name": "National Centre for Combustion Research",
+        "description": "Advanced propulsion research"
+      },
+      {
+        "name": "Robert Bosch Centre for Cyber-Physical Systems",
+        "description": "IoT and CPS research"
+      }
+    ],
+    "tags": [
+      "IIT",
+      "Institute of National Importance",
+      "NIRF #1",
+      "NAAC A++",
+      "JEE Advanced"
+    ],
+    "featured": true
+  },
+  {
+    "id": "nit-calicut",
+    "name": "NIT Calicut",
+    "slug": "nit-calicut",
+    "location": "Calicut",
+    "state": "Kerala",
+    "type": "NIT",
+    "established": 1961,
+    "naacGrade": "A+",
+    "logoUrl": null,
+    "coverImageUrl": null,
+    "tagline": "Kerala's flagship NIT — consistent top-3 NIT for CSE placements.",
+    "description": "National Institute of Technology Calicut is one of Kerala's premier engineering institutions. Known for a strong technical culture and exceptional placement records.",
+    "about": "NIT Calicut is consistently ranked among the top NITs. Its serene campus and strong faculty make it a preferred destination for aspirants from all over India.",
+    "admissionThrough": "JEE Main → JoSAA",
+    "website": "https://www.nitc.ac.in",
+    "avgPackageLPA": 15.8,
+    "medianPackageLPA": 11.5,
+    "peakPackageCR": 0.95,
+    "peakInternationalPackageCR": 1,
+    "cseCutoffRank": 2250,
+    "nirfRank": 22,
+    "nirfRankCategory": "NIT",
+    "qsWorldRank": null,
+    "placementPercent": 87,
+    "totalOffers": 840,
+    "linkedinAlumni": 34000,
+    "totalFaculty": 270,
+    "totalStudents": 4200,
+    "campusAreaAcres": 300,
+    "counsellings": [
+      "josaa",
+      "csab"
+    ],
+    "topRecruiters": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Samsung",
+      "Qualcomm",
+      "Goldman Sachs",
+      "Deloitte",
+      "L&T"
+    ],
+    "facilities": [
+      "Library",
+      "Sports Complex",
+      "Indoor Games",
+      "Medical Center"
+    ],
+    "labs": [
+      {
+        "name": "Data Analytics Lab",
+        "description": "Big data and analytics research"
+      },
+      {
+        "name": "Control Systems Lab",
+        "description": "Automation and control research"
+      }
+    ],
+    "tags": [
+      "NIT",
+      "Institute of National Importance",
+      "NAAC A+",
+      "JEE Main"
+    ],
+    "featured": false
+  },
+  {
+    "id": "iiit-hyderabad",
+    "name": "IIIT Hyderabad",
+    "slug": "iiit-hyderabad",
+    "location": "Hyderabad",
+    "state": "Telangana",
+    "type": "IIIT",
+    "established": 1998,
+    "naacGrade": "A++",
+    "logoUrl": null,
+    "coverImageUrl": null,
+    "tagline": "Research-focused IIIT — best AI and language tech institute in India.",
+    "description": "IIIT Hyderabad is a research university focused on computer science and information technology. It is known for its UGRC program and excellence in AI, NLP and computer vision.",
+    "about": "IIIT-H is unique for its research-oriented BTech + MS dual degree program (UGRC). Alumni are well-placed in top AI research labs and tech companies globally.",
+    "admissionThrough": "JEE Main → JoSAA + UGEE",
+    "website": "https://www.iiit.ac.in",
+    "avgPackageLPA": 28.4,
+    "medianPackageLPA": 20,
+    "peakPackageCR": 2.1,
+    "peakInternationalPackageCR": 2.8,
+    "cseCutoffRank": 800,
+    "nirfRank": 30,
+    "nirfRankCategory": "University",
+    "qsWorldRank": null,
+    "placementPercent": 92,
+    "totalOffers": 620,
+    "linkedinAlumni": 22000,
+    "totalFaculty": 180,
+    "totalStudents": 2800,
+    "campusAreaAcres": 66,
+    "counsellings": [
+      "josaa",
+      "tgeapcet"
+    ],
+    "topRecruiters": [
+      "Google",
+      "Apple",
+      "Meta",
+      "Amazon",
+      "Microsoft",
+      "Nvidia",
+      "Qualcomm",
+      "Adobe",
+      "Samsung Research",
+      "Goldman Sachs",
+      "JP Morgan"
+    ],
+    "facilities": [
+      "Library",
+      "Sports Facilities",
+      "Research Labs",
+      "Cafeteria"
+    ],
+    "labs": [
+      {
+        "name": "Language Technologies Research Centre",
+        "description": "NLP and speech research"
+      },
+      {
+        "name": "Centre for Visual Information Technology",
+        "description": "Computer vision research"
+      },
+      {
+        "name": "Cognitive Science Lab",
+        "description": "Interdisciplinary cognitive computing"
+      }
+    ],
+    "tags": [
+      "IIIT",
+      "Autonomous University",
+      "NAAC A++",
+      "Research Institute"
+    ],
+    "featured": true
+  },
+  {
+    "id": "dtu-delhi",
+    "name": "DTU Delhi",
+    "slug": "dtu-delhi",
+    "location": "New Delhi",
+    "state": "Delhi",
+    "type": "State University",
+    "established": 1941,
+    "naacGrade": "A+",
+    "logoUrl": null,
+    "coverImageUrl": null,
+    "tagline": "Delhi's top state engineering university — unbeatable value at rank 5000+.",
+    "description": "Delhi Technological University (formerly DCE) is Delhi's premier state engineering university. Known for excellent placements and vibrant campus life.",
+    "about": "DTU is the go-to college for Delhi students who narrowly miss IIT/NIT cutoffs. With strong industry ties and reasonable cutoffs, it offers exceptional return on investment.",
+    "admissionThrough": "JEE Main → JAC Delhi",
+    "website": "https://www.dtu.ac.in",
+    "avgPackageLPA": 12.5,
+    "medianPackageLPA": 8.2,
+    "peakPackageCR": 1,
+    "peakInternationalPackageCR": 1.2,
+    "cseCutoffRank": 4200,
+    "nirfRank": 35,
+    "nirfRankCategory": "Engineering",
+    "qsWorldRank": null,
+    "placementPercent": 78,
+    "totalOffers": 2100,
+    "linkedinAlumni": 48000,
+    "totalFaculty": 420,
+    "totalStudents": 9800,
+    "campusAreaAcres": 164,
+    "counsellings": [
+      "jac-delhi"
+    ],
+    "topRecruiters": [
+      "Amazon",
+      "Microsoft",
+      "Google",
+      "Samsung",
+      "Paytm",
+      "Zomato",
+      "Flipkart",
+      "Infosys",
+      "TCS",
+      "Wipro",
+      "Goldman Sachs",
+      "Deloitte"
+    ],
+    "facilities": [
+      "Library",
+      "Indoor Stadium",
+      "Swimming Pool",
+      "Hospital"
+    ],
+    "labs": [
+      {
+        "name": "Machine Learning Lab",
+        "description": "Applied ML research"
+      },
+      {
+        "name": "IoT Research Center",
+        "description": "Internet of Things lab"
+      }
+    ],
+    "tags": [
+      "State University",
+      "NAAC A+",
+      "JEE Main",
+      "JAC Delhi"
+    ],
+    "featured": false
+  },
+  {
+    "id": "bits-pilani",
+    "name": "BITS Pilani",
+    "slug": "bits-pilani",
+    "location": "Pilani",
+    "state": "Rajasthan",
+    "type": "Deemed University",
+    "established": 1964,
+    "naacGrade": "A++",
+    "logoUrl": null,
+    "coverImageUrl": null,
+    "tagline": "Best private engineering college in India — legendary Practice School.",
+    "description": "BITS Pilani is India's top private engineering institution. The Practice School program gives students real industry experience while studying.",
+    "about": "BITS Pilani's unique dual-degree + Practice School model has produced some of India's most successful entrepreneurs and engineers. The autonomous curriculum allows flexibility.",
+    "admissionThrough": "BITSAT",
+    "website": "https://www.bits-pilani.ac.in",
+    "avgPackageLPA": 22,
+    "medianPackageLPA": 16.5,
+    "peakPackageCR": 2.2,
+    "peakInternationalPackageCR": 3,
+    "cseCutoffRank": 300,
+    "nirfRank": 25,
+    "nirfRankCategory": "Engineering",
+    "qsWorldRank": 700,
+    "placementPercent": 89,
+    "totalOffers": 890,
+    "linkedinAlumni": 65000,
+    "totalFaculty": 430,
+    "totalStudents": 7200,
+    "campusAreaAcres": 328,
+    "counsellings": [
+      "bitsat"
+    ],
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Uber",
+      "Amazon",
+      "Goldman Sachs",
+      "McKinsey",
+      "BCG",
+      "Morgan Stanley",
+      "Qualcomm",
+      "Samsung",
+      "Nvidia"
+    ],
+    "facilities": [
+      "Library",
+      "Sports Complex",
+      "Swimming Pool",
+      "Medical Center",
+      "Innovation Hub"
+    ],
+    "labs": [
+      {
+        "name": "BITS Research Center",
+        "description": "Multidisciplinary research labs"
+      },
+      {
+        "name": "Maker's Asylum",
+        "description": "Prototyping and innovation space"
+      }
+    ],
+    "tags": [
+      "Deemed University",
+      "NAAC A++",
+      "BITSAT",
+      "Private"
+    ],
+    "featured": true
+  },
+  {
+    "id": "iit-kanpur",
+    "name": "IIT Kanpur",
+    "slug": "iit-kanpur",
+    "location": "Kanpur",
+    "state": "Uttar Pradesh",
+    "type": "IIT",
+    "established": 1959,
+    "naacGrade": "A++",
+    "logoUrl": null,
+    "coverImageUrl": null,
+    "tagline": "Research powerhouse — strongest core engineering and sciences.",
+    "description": "IIT Kanpur is one of India's most respected engineering institutes, known for excellent academics, advanced research opportunities, and highly experienced faculty.",
+    "about": "IIT Kanpur continues to be one of the most respected engineering institutes in India. Known for its excellent academics, advanced research opportunities, and highly experienced faculty guiding students in academics and personal development.",
+    "admissionThrough": "JEE Advanced → JoSAA",
+    "website": "https://www.iitk.ac.in",
+    "avgPackageLPA": 25,
+    "medianPackageLPA": 18.5,
+    "peakPackageCR": 1.9,
+    "peakInternationalPackageCR": 2.5,
+    "cseCutoffRank": 400,
+    "nirfRank": 4,
+    "nirfRankCategory": "Engineering",
+    "qsWorldRank": 263,
+    "placementPercent": 95,
+    "totalOffers": 1100,
+    "linkedinAlumni": 85000,
+    "totalFaculty": 450,
+    "totalStudents": 7500,
+    "campusAreaAcres": 1055,
+    "counsellings": [
+      "josaa"
+    ],
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Goldman Sachs",
+      "Samsung",
+      "Intel",
+      "Qualcomm",
+      "Adobe",
+      "Flipkart",
+      "ISRO",
+      "DRDO",
+      "BHEL",
+      "L&T",
+      "TCS",
+      "Infosys"
+    ],
+    "facilities": [
+      "Library",
+      "Sports Complex",
+      "Swimming Pool",
+      "Hospital",
+      "Student Activity Center",
+      "Workshop"
+    ],
+    "labs": [
+      {
+        "name": "National Wind Tunnel Facility",
+        "description": "Aerospace and aerodynamics research"
+      },
+      {
+        "name": "Advanced Imaging Lab",
+        "description": "Computer vision and imaging research"
+      },
+      {
+        "name": "HPC Cluster",
+        "description": "High-performance computing facility"
+      }
+    ],
+    "tags": [
+      "IIT",
+      "Institute of National Importance",
+      "NAAC A++",
+      "JEE Advanced"
+    ],
+    "featured": true
+  },
+  {
+    "id": "iit-kharagpur",
+    "name": "IIT Kharagpur",
+    "slug": "iit-kharagpur",
+    "location": "Kharagpur",
+    "state": "West Bengal",
+    "type": "IIT",
+    "established": 1951,
+    "naacGrade": "A++",
+    "logoUrl": null,
+    "coverImageUrl": null,
+    "tagline": "First IIT ever — largest campus, strongest alumni network.",
+    "description": "IIT Kharagpur is the first IIT ever founded. It has the largest campus among all IITs and a strong legacy in traditional engineering.",
+    "about": "IIT Kharagpur is the first IIT ever founded in 1951. It has the largest campus (2,100 acres) and consistently crosses 1,700+ total offers annually. Strong in traditional engineering with excellent placement records.",
+    "admissionThrough": "JEE Advanced → JoSAA",
+    "website": "https://www.iitkgp.ac.in",
+    "avgPackageLPA": 22,
+    "medianPackageLPA": 17,
+    "peakPackageCR": 2.68,
+    "peakInternationalPackageCR": 3.5,
+    "cseCutoffRank": 420,
+    "nirfRank": 5,
+    "nirfRankCategory": "Engineering",
+    "qsWorldRank": 271,
+    "placementPercent": 92,
+    "totalOffers": 1811,
+    "linkedinAlumni": 95000,
+    "totalFaculty": 520,
+    "totalStudents": 12000,
+    "campusAreaAcres": 2100,
+    "counsellings": [
+      "josaa"
+    ],
+    "topRecruiters": [
+      "Microsoft",
+      "Amazon",
+      "Google",
+      "JP Morgan",
+      "Goldman Sachs",
+      "Samsung",
+      "Intel",
+      "Qualcomm",
+      "Adobe",
+      "Flipkart",
+      "ISRO",
+      "DRDO",
+      "BHEL",
+      "L&T",
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Accenture",
+      "Deloitte"
+    ],
+    "facilities": [
+      "Central Library",
+      "Sports Complex",
+      "Swimming Pool",
+      "Hospital",
+      "Shopping Complex",
+      "Multiple Hostels",
+      "Workshop"
+    ],
+    "labs": [
+      {
+        "name": "Aerospace Engineering Lab",
+        "description": "Aerospace and flight research"
+      },
+      {
+        "name": "Materials Science Lab",
+        "description": "Advanced materials research"
+      },
+      {
+        "name": "HPC Facility",
+        "description": "High-performance computing"
+      }
+    ],
+    "tags": [
+      "IIT",
+      "Institute of National Importance",
+      "First IIT India",
+      "NAAC A++",
+      "JEE Advanced"
+    ],
+    "featured": true
+  },
+  {
+    "id": "iit-roorkee",
+    "name": "IIT Roorkee",
+    "slug": "iit-roorkee",
+    "location": "Roorkee",
+    "state": "Uttarakhand",
+    "type": "IIT",
+    "established": 1847,
+    "naacGrade": "A++",
+    "logoUrl": null,
+    "coverImageUrl": null,
+    "tagline": "Oldest engineering institution in Asia — civil engineering legend.",
+    "description": "IIT Roorkee is the oldest engineering institution in Asia. Known for civil engineering, earthquake engineering, and strong technical heritage.",
+    "about": "IIT Roorkee is the oldest engineering institution in Asia (est. 1847). Known for civil engineering excellence, earthquake engineering, and strong placement records. NIRF Rank 6 with 99.07% CSE placement rate.",
+    "admissionThrough": "JEE Advanced → JoSAA",
+    "website": "https://www.iitr.ac.in",
+    "avgPackageLPA": 20.5,
+    "medianPackageLPA": 18,
+    "peakPackageCR": 2.05,
+    "peakInternationalPackageCR": 2.5,
+    "cseCutoffRank": 650,
+    "nirfRank": 6,
+    "nirfRankCategory": "Engineering",
+    "qsWorldRank": 369,
+    "placementPercent": 95,
+    "totalOffers": 1100,
+    "linkedinAlumni": 78000,
+    "totalFaculty": 480,
+    "totalStudents": 8500,
+    "campusAreaAcres": 365,
+    "counsellings": [
+      "josaa"
+    ],
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Goldman Sachs",
+      "Samsung",
+      "Intel",
+      "Qualcomm",
+      "Adobe",
+      "ISRO",
+      "DRDO",
+      "BHEL",
+      "L&T",
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Accenture",
+      "Deloitte",
+      "KPMG",
+      "EY"
+    ],
+    "facilities": [
+      "Library",
+      "Sports Complex",
+      "Swimming Pool",
+      "Hospital",
+      "Student Activity Center",
+      "Workshop",
+      "Indoor Stadium"
+    ],
+    "labs": [
+      {
+        "name": "Earthquake Engineering Lab",
+        "description": "Structural and seismic research"
+      },
+      {
+        "name": "Water Resources Lab",
+        "description": "Hydrology and water management"
+      },
+      {
+        "name": "HPC Cluster",
+        "description": "High-performance computing"
+      }
+    ],
+    "tags": [
+      "IIT",
+      "Institute of National Importance",
+      "Oldest Engineering College Asia",
+      "NAAC A++",
+      "JEE Advanced"
+    ],
+    "featured": true
+  },
+  {
+    "id": "iit-hyderabad",
+    "name": "IIT Hyderabad",
+    "slug": "iit-hyderabad",
+    "location": "Hyderabad",
+    "state": "Telangana",
+    "type": "IIT",
+    "established": 2008,
+    "naacGrade": "A++",
+    "logoUrl": null,
+    "coverImageUrl": null,
+    "tagline": "Fastest rising IIT — AI and fractal academics pioneer.",
+    "description": "IIT Hyderabad is one of the fastest rising IITs. Known for its modern fractal academic system, AI focus, and sustainable 576-acre campus.",
+    "about": "IIT Hyderabad (est. 2008) is the fastest rising IIT, overtaking IIT Guwahati in NIRF 2025. Known for its modern fractal academic system, AI department, sustainable campus with radiant cooling, and iTIC incubator.",
+    "admissionThrough": "JEE Advanced → JoSAA",
+    "website": "https://www.iith.ac.in",
+    "avgPackageLPA": 24,
+    "medianPackageLPA": 20,
+    "peakPackageCR": 0.9,
+    "peakInternationalPackageCR": 1.5,
+    "cseCutoffRank": 600,
+    "nirfRank": 7,
+    "nirfRankCategory": "Engineering",
+    "qsWorldRank": 664,
+    "placementPercent": 98,
+    "totalOffers": 710,
+    "linkedinAlumni": 25000,
+    "totalFaculty": 220,
+    "totalStudents": 3500,
+    "campusAreaAcres": 576,
+    "counsellings": [
+      "josaa"
+    ],
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Goldman Sachs",
+      "Flipkart",
+      "TSMC",
+      "Adobe",
+      "Schlumberger",
+      "Samsung",
+      "Qualcomm",
+      "Intel",
+      "Nvidia",
+      "Deloitte",
+      "Accenture"
+    ],
+    "facilities": [
+      "Library",
+      "Sports Complex",
+      "Swimming Pool",
+      "Hospital",
+      "5G Labs",
+      "Innovation Hub",
+      "Research Park"
+    ],
+    "labs": [
+      {
+        "name": "CRIAI",
+        "description": "Centre for Research in Artificial Intelligence"
+      },
+      {
+        "name": "5G/6G Lab",
+        "description": "Next-gen communication research"
+      },
+      {
+        "name": "ISRO Aerospace Lab",
+        "description": "Space technology research"
+      },
+      {
+        "name": "HPC Centre",
+        "description": "92-node GPU cluster"
+      }
+    ],
+    "tags": [
+      "IIT",
+      "Institute of National Importance",
+      "NAAC A++",
+      "JEE Advanced",
+      "AI Focus"
+    ],
+    "featured": true
+  },
+  {
+    "id": "iit-indore",
+    "name": "IIT Indore",
+    "slug": "iit-indore",
+    "location": "Indore",
+    "state": "Madhya Pradesh",
+    "type": "IIT",
+    "established": 2009,
+    "naacGrade": "A++",
+    "logoUrl": null,
+    "coverImageUrl": null,
+    "tagline": "Fastest-rising new IIT — cracked top 15 within 15 years.",
+    "description": "IIT Indore is one of the fastest-rising new IITs. It has cracked the top 15 NIRF rankings within 15 years of establishment with excellent placements.",
+    "about": "IIT Indore (est. 2009) is a well-known technical education institute with excellent global and national rankings. Known for strong CSE placements with 96.83% placement rate and highest package of Rs 68 LPA.",
+    "admissionThrough": "JEE Advanced → JoSAA",
+    "website": "https://www.iiti.ac.in",
+    "avgPackageLPA": 24.42,
+    "medianPackageLPA": 19.48,
+    "peakPackageCR": 0.68,
+    "peakInternationalPackageCR": 0.68,
+    "cseCutoffRank": 1500,
+    "nirfRank": 15,
+    "nirfRankCategory": "Engineering",
+    "qsWorldRank": 401,
+    "placementPercent": 89,
+    "totalOffers": 400,
+    "linkedinAlumni": 18000,
+    "totalFaculty": 180,
+    "totalStudents": 2800,
+    "campusAreaAcres": 501,
+    "counsellings": [
+      "josaa"
+    ],
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Samsung",
+      "Goldman Sachs",
+      "Flipkart",
+      "Walmart",
+      "Oracle",
+      "Accenture",
+      "Texas Instruments",
+      "Palo Alto Networks",
+      "Zomato",
+      "Jaguar Land Rover"
+    ],
+    "facilities": [
+      "Library",
+      "Sports Complex",
+      "Swimming Pool",
+      "Hospital",
+      "Student Activity Center",
+      "Workshop"
+    ],
+    "labs": [
+      {
+        "name": "HPC Cluster",
+        "description": "High-performance computing facility"
+      },
+      {
+        "name": "Robotics Lab",
+        "description": "Autonomous systems research"
+      },
+      {
+        "name": "Material Science Lab",
+        "description": "Advanced materials research"
+      }
+    ],
+    "tags": [
+      "IIT",
+      "Institute of National Importance",
+      "NAAC A++",
+      "JEE Advanced"
+    ],
+    "featured": false
+  },
+  {
+    "id": "iit-ism-dhanbad",
+    "name": "IIT (ISM) Dhanbad",
+    "slug": "iit-ism-dhanbad",
+    "location": "Dhanbad",
+    "state": "Jharkhand",
+    "type": "IIT",
+    "established": 1926,
+    "naacGrade": "A++",
+    "logoUrl": null,
+    "coverImageUrl": null,
+    "tagline": "Mining heritage meets modern tech — unique petroleum and mineral programs.",
+    "description": "IIT (ISM) Dhanbad is the oldest mining institute in India, established in 1926. It got IIT status in 2016 and is known for unique programs in mining, petroleum, and metallurgy.",
+    "about": "IIT (ISM) Dhanbad is the oldest mining institute in India (est. 1926, IIT status 2016). Known for unique programs in mining, petroleum, and metallurgy with strong placement records. 300+ companies visit for placements.",
+    "admissionThrough": "JEE Advanced → JoSAA",
+    "website": "https://www.iitism.ac.in",
+    "avgPackageLPA": 18.5,
+    "medianPackageLPA": 13.45,
+    "peakPackageCR": 0.66,
+    "peakInternationalPackageCR": 1,
+    "cseCutoffRank": 2000,
+    "nirfRank": 19,
+    "nirfRankCategory": "Engineering",
+    "qsWorldRank": 501,
+    "placementPercent": 78,
+    "totalOffers": 1120,
+    "linkedinAlumni": 45000,
+    "totalFaculty": 350,
+    "totalStudents": 6000,
+    "campusAreaAcres": 393,
+    "counsellings": [
+      "josaa"
+    ],
+    "topRecruiters": [
+      "Microsoft",
+      "Google",
+      "Amazon",
+      "Samsung",
+      "Goldman Sachs",
+      "Accenture",
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "L&T",
+      "BHEL",
+      "SAIL",
+      "ONGC",
+      "GAIL",
+      "Coal India",
+      "Vedanta",
+      "Tata Steel"
+    ],
+    "facilities": [
+      "Library",
+      "Sports Complex",
+      "Swimming Pool",
+      "Hospital",
+      "Student Activity Center",
+      "Workshop"
+    ],
+    "labs": [
+      {
+        "name": "Mining Engineering Lab",
+        "description": "Mining technology and safety research"
+      },
+      {
+        "name": "Petroleum Engineering Lab",
+        "description": "Oil and gas exploration research"
+      },
+      {
+        "name": "HPC Facility",
+        "description": "High-performance computing"
+      }
+    ],
+    "tags": [
+      "IIT",
+      "Institute of National Importance",
+      "Mining Heritage",
+      "NAAC A++",
+      "JEE Advanced"
+    ],
+    "featured": false
+  },
+  {
+    "id": "iit-patna",
+    "name": "IIT Patna",
+    "slug": "iit-patna",
+    "location": "Patna",
+    "state": "Bihar",
+    "type": "IIT",
+    "established": 2008,
+    "naacGrade": "A++",
+    "logoUrl": null,
+    "coverImageUrl": null,
+    "tagline": "Fastest growing new IIT — jumped 15 ranks in NIRF 2025.",
+    "description": "IIT Patna is one of the leading new IITs, established in 2008. It jumped 15 ranks in NIRF 2025 and is known for strong academics and research.",
+    "about": "IIT Patna (est. 2008) is one of the fastest growing new IITs, jumping from NIRF 34 to 19 in 2025. Known for strong academics, research, innovation, and entrepreneurship. 501 UG and 270 PG students placed in 2024-25.",
+    "admissionThrough": "JEE Advanced → JoSAA",
+    "website": "https://www.iitp.ac.in",
+    "avgPackageLPA": 22,
+    "medianPackageLPA": 28.5,
+    "peakPackageCR": 0.8,
+    "peakInternationalPackageCR": 1.2,
+    "cseCutoffRank": 2800,
+    "nirfRank": 19,
+    "nirfRankCategory": "Engineering",
+    "qsWorldRank": 801,
+    "placementPercent": 86,
+    "totalOffers": 771,
+    "linkedinAlumni": 15000,
+    "totalFaculty": 124,
+    "totalStudents": 2243,
+    "campusAreaAcres": 500,
+    "counsellings": [
+      "josaa"
+    ],
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Samsung",
+      "Goldman Sachs",
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Accenture",
+      "Deloitte",
+      "L&T",
+      "ISRO",
+      "DRDO"
+    ],
+    "facilities": [
+      "Library",
+      "Sports Complex",
+      "Swimming Pool",
+      "Hospital",
+      "Student Activity Center"
+    ],
+    "labs": [
+      {
+        "name": "HPC Cluster",
+        "description": "High-performance computing"
+      },
+      {
+        "name": "Robotics Lab",
+        "description": "Autonomous systems research"
+      },
+      {
+        "name": "Data Science Lab",
+        "description": "Big data and analytics"
+      }
+    ],
+    "tags": [
+      "IIT",
+      "Institute of National Importance",
+      "NAAC A++",
+      "JEE Advanced"
+    ],
+    "featured": false
+  },
+  {
+    "id": "iit-ropar",
+    "name": "IIT Ropar",
+    "slug": "iit-ropar",
+    "location": "Ropar",
+    "state": "Punjab",
+    "type": "IIT",
+    "established": 2008,
+    "naacGrade": "A++",
+    "logoUrl": null,
+    "coverImageUrl": null,
+    "tagline": "Rapidly growing IIT — strong research and innovation focus.",
+    "description": "IIT Ropar is a rapidly growing new IIT established in 2008. Known for strong research output and innovation focus.",
+    "about": "IIT Ropar (est. 2008) is a rapidly growing IIT with strong research and innovation focus. Known for good placement rates across branches and modern campus infrastructure.",
+    "admissionThrough": "JEE Advanced → JoSAA",
+    "website": "https://www.iitrpr.ac.in",
+    "avgPackageLPA": 18,
+    "medianPackageLPA": 15,
+    "peakPackageCR": 0.65,
+    "peakInternationalPackageCR": 1,
+    "cseCutoffRank": 2500,
+    "nirfRank": 22,
+    "nirfRankCategory": "Engineering",
+    "qsWorldRank": 801,
+    "placementPercent": 75,
+    "totalOffers": 350,
+    "linkedinAlumni": 12000,
+    "totalFaculty": 110,
+    "totalStudents": 2000,
+    "campusAreaAcres": 501,
+    "counsellings": [
+      "josaa"
+    ],
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Samsung",
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Accenture",
+      "L&T",
+      "ISRO"
+    ],
+    "facilities": [
+      "Library",
+      "Sports Complex",
+      "Swimming Pool",
+      "Hospital",
+      "Student Activity Center"
+    ],
+    "labs": [
+      {
+        "name": "HPC Cluster",
+        "description": "High-performance computing"
+      },
+      {
+        "name": "Robotics Lab",
+        "description": "Autonomous systems research"
+      }
+    ],
+    "tags": [
+      "IIT",
+      "Institute of National Importance",
+      "NAAC A++",
+      "JEE Advanced"
+    ],
+    "featured": false
+  },
+  {
+    "id": "iit-gandhinagar",
+    "name": "IIT Gandhinagar",
+    "slug": "iit-gandhinagar",
+    "location": "Gandhinagar",
+    "state": "Gujarat",
+    "type": "IIT",
+    "established": 2008,
+    "naacGrade": "A++",
+    "logoUrl": null,
+    "coverImageUrl": null,
+    "tagline": "Liberal arts + engineering — unique foundation program.",
+    "description": "IIT Gandhinagar is known for its unique foundation program and liberal arts approach to engineering education.",
+    "about": "IIT Gandhinagar (est. 2008) is known for its unique foundation program blending liberal arts with engineering. Strong placement records with 90%+ CSE placement rate.",
+    "admissionThrough": "JEE Advanced → JoSAA",
+    "website": "https://www.iitgn.ac.in",
+    "avgPackageLPA": 19,
+    "medianPackageLPA": 16,
+    "peakPackageCR": 0.7,
+    "peakInternationalPackageCR": 1,
+    "cseCutoffRank": 2800,
+    "nirfRank": 23,
+    "nirfRankCategory": "Engineering",
+    "qsWorldRank": 801,
+    "placementPercent": 85,
+    "totalOffers": 300,
+    "linkedinAlumni": 10000,
+    "totalFaculty": 100,
+    "totalStudents": 1800,
+    "campusAreaAcres": 400,
+    "counsellings": [
+      "josaa"
+    ],
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Flipkart",
+      "Samsung",
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Accenture",
+      "Deloitte",
+      "L&T",
+      "Amul",
+      "Capgemini",
+      "HDFC Bank",
+      "Honda"
+    ],
+    "facilities": [
+      "Library",
+      "Sports Complex",
+      "Swimming Pool",
+      "Hospital",
+      "Student Activity Center",
+      "Innovation Hub"
+    ],
+    "labs": [
+      {
+        "name": "HPC Cluster",
+        "description": "High-performance computing"
+      },
+      {
+        "name": "Design Lab",
+        "description": "Product design and innovation"
+      }
+    ],
+    "tags": [
+      "IIT",
+      "Institute of National Importance",
+      "NAAC A++",
+      "JEE Advanced",
+      "Liberal Arts"
+    ],
+    "featured": false
+  },
+  {
+    "id": "iit-mandi",
+    "name": "IIT Mandi",
+    "slug": "iit-mandi",
+    "location": "Mandi",
+    "state": "Himachal Pradesh",
+    "type": "IIT",
+    "established": 2009,
+    "naacGrade": "A++",
+    "logoUrl": null,
+    "coverImageUrl": null,
+    "tagline": "Himalayan IIT — most scenic new IIT campus.",
+    "description": "IIT Mandi is nestled in the Himalayan foothills of Himachal Pradesh. Known for its breathtaking campus, strong research culture, and innovation rankings.",
+    "about": "IIT Mandi (est. 2009) is located in the Himalayan foothills at Kamand, Himachal Pradesh. Known for its breathtaking campus, strong research culture, and NIRF Innovation Rank #10. NIRF Engineering Rank 26.",
+    "admissionThrough": "JEE Advanced → JoSAA",
+    "website": "https://www.iitmandi.ac.in",
+    "avgPackageLPA": 17.5,
+    "medianPackageLPA": 14,
+    "peakPackageCR": 0.65,
+    "peakInternationalPackageCR": 0.9,
+    "cseCutoffRank": 3500,
+    "nirfRank": 26,
+    "nirfRankCategory": "Engineering",
+    "qsWorldRank": 801,
+    "placementPercent": 82,
+    "totalOffers": 320,
+    "linkedinAlumni": 12000,
+    "totalFaculty": 150,
+    "totalStudents": 2200,
+    "campusAreaAcres": 538,
+    "counsellings": [
+      "josaa"
+    ],
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Samsung",
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Accenture",
+      "Deloitte",
+      "L&T",
+      "ISRO",
+      "DRDO",
+      "Nvidia"
+    ],
+    "facilities": [
+      "Library",
+      "Sports Complex",
+      "Swimming Pool",
+      "Hospital",
+      "Student Activity Center",
+      "Hiking Trails",
+      "Mountain View Hostels"
+    ],
+    "labs": [
+      {
+        "name": "HPC Cluster",
+        "description": "High-performance computing"
+      },
+      {
+        "name": "Robotics Lab",
+        "description": "Autonomous systems research"
+      },
+      {
+        "name": "Innovation Centre",
+        "description": "Startup and entrepreneurship hub"
+      }
+    ],
+    "tags": [
+      "IIT",
+      "Institute of National Importance",
+      "NAAC A++",
+      "JEE Advanced",
+      "Himalayan Campus"
+    ],
+    "featured": false
+  },
+  {
+    "id": "iit-jodhpur",
+    "name": "IIT Jodhpur",
+    "slug": "iit-jodhpur",
+    "location": "Jodhpur",
+    "state": "Rajasthan",
+    "type": "IIT",
+    "established": 2008,
+    "naacGrade": "A++",
+    "logoUrl": null,
+    "coverImageUrl": null,
+    "tagline": "Desert city IIT — AI, digital humanities, and bioengineering pioneer.",
+    "description": "IIT Jodhpur is a fast-growing new IIT in Rajasthan. Known for AI, digital humanities, bioengineering, and a sprawling 852-acre campus.",
+    "about": "IIT Jodhpur (est. 2008) is located on NH-65, Nagaur Road, Karwar, Rajasthan. Known for AI, digital humanities, bioengineering, and a sprawling 852-acre campus. NIRF Engineering Rank 27 with 500+ offers in 2025.",
+    "admissionThrough": "JEE Advanced → JoSAA",
+    "website": "https://www.iitj.ac.in",
+    "avgPackageLPA": 16.5,
+    "medianPackageLPA": 13.65,
+    "peakPackageCR": 0.5,
+    "peakInternationalPackageCR": 0.8,
+    "cseCutoffRank": 3000,
+    "nirfRank": 27,
+    "nirfRankCategory": "Engineering",
+    "qsWorldRank": 801,
+    "placementPercent": 85,
+    "totalOffers": 500,
+    "linkedinAlumni": 10000,
+    "totalFaculty": 140,
+    "totalStudents": 2000,
+    "campusAreaAcres": 852,
+    "counsellings": [
+      "josaa"
+    ],
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Samsung",
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Accenture",
+      "Deloitte",
+      "L&T",
+      "ISRO",
+      "DRDO",
+      "Adobe",
+      "Goldman Sachs"
+    ],
+    "facilities": [
+      "Library",
+      "Sports Complex",
+      "Swimming Pool",
+      "Hospital",
+      "Student Activity Center",
+      "Workshop",
+      "Auditorium"
+    ],
+    "labs": [
+      {
+        "name": "AI Lab",
+        "description": "Artificial intelligence and machine learning research"
+      },
+      {
+        "name": "Bioengineering Lab",
+        "description": "Biomedical and bioengineering research"
+      },
+      {
+        "name": "Digital Humanities Lab",
+        "description": "Interdisciplinary humanities and tech research"
+      }
+    ],
+    "tags": [
+      "IIT",
+      "Institute of National Importance",
+      "NAAC A++",
+      "JEE Advanced"
+    ],
+    "featured": false
+  },
+  {
+    "id": "iit-bhubaneswar",
+    "name": "IIT Bhubaneswar",
+    "slug": "iit-bhubaneswar",
+    "location": "Bhubaneswar",
+    "state": "Odisha",
+    "type": "IIT",
+    "established": 2008,
+    "naacGrade": "A++",
+    "logoUrl": null,
+    "coverImageUrl": null,
+    "tagline": "Gateway IIT for Eastern India — earth sciences and climate research hub.",
+    "description": "IIT Bhubaneswar is the leading technical institution in Odisha. Known for its 936-acre permanent campus at Barunei Hill, earth sciences programs, and strong placement growth.",
+    "about": "IIT Bhubaneswar (est. 2008) operates from its sprawling 936-acre permanent campus in Argul, Khordha, Odisha. Known for unique B.Tech in Earth, Ocean and Climate Sciences and strong placement growth. NIRF Engineering Rank 39.",
+    "admissionThrough": "JEE Advanced → JoSAA",
+    "website": "https://www.iitbbs.ac.in",
+    "avgPackageLPA": 20,
+    "medianPackageLPA": 13.3,
+    "peakPackageCR": 0.67,
+    "peakInternationalPackageCR": 1.4,
+    "cseCutoffRank": 4200,
+    "nirfRank": 39,
+    "nirfRankCategory": "Engineering",
+    "qsWorldRank": 951,
+    "placementPercent": 90,
+    "totalOffers": 243,
+    "linkedinAlumni": 12000,
+    "totalFaculty": 145,
+    "totalStudents": 2200,
+    "campusAreaAcres": 936,
+    "counsellings": [
+      "josaa"
+    ],
+    "topRecruiters": [
+      "Microsoft",
+      "Amazon",
+      "Google",
+      "Qualcomm",
+      "Texas Instruments",
+      "Samsung",
+      "Intel",
+      "Adobe",
+      "Goldman Sachs",
+      "Morgan Stanley",
+      "Deloitte",
+      "EY",
+      "BCG",
+      "McKinsey",
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Flipkart",
+      "Zomato",
+      "CRED",
+      "Reliance",
+      "L&T",
+      "Tata Steel",
+      "JSW Steel",
+      "NTPC",
+      "ONGC",
+      "SAIL",
+      "DRDO",
+      "ISRO",
+      "Coal India"
+    ],
+    "facilities": [
+      "Library",
+      "Sports Complex",
+      "Gym",
+      "Hospital",
+      "Student Activity Center",
+      "WiFi Campus",
+      "Cafeteria",
+      "Auditorium",
+      "Guest House",
+      "Convenience Store"
+    ],
+    "labs": [
+      {
+        "name": "Ocean Science Lab",
+        "description": "Marine and climate research"
+      },
+      {
+        "name": "Seismic Research Station",
+        "description": "Earthquake and geophysics research"
+      },
+      {
+        "name": "Central Instruments Facility",
+        "description": "Advanced materials characterization"
+      },
+      {
+        "name": "Materials Characterisation Lab",
+        "description": "Materials science and engineering"
+      }
+    ],
+    "tags": [
+      "IIT",
+      "Institute of National Importance",
+      "NAAC A++",
+      "JEE Advanced",
+      "Earth Sciences"
+    ],
+    "featured": false
+  },
+  {
+    "id": "iit-tirupati",
+    "name": "IIT Tirupati",
+    "slug": "iit-tirupati",
+    "location": "Tirupati",
+    "state": "Andhra Pradesh",
+    "type": "IIT",
+    "established": 2015,
+    "naacGrade": "A++",
+    "logoUrl": null,
+    "coverImageUrl": null,
+    "tagline": "Fastest-growing 3rd-gen IIT — backed by IIT Madras mentorship.",
+    "description": "IIT Tirupati is the fastest-growing 3rd-generation IIT, established in 2015 with mentorship from IIT Madras. Known for strong academics and growing placement records.",
+    "about": "IIT Tirupati (est. 2015) is the fastest-growing 3rd-generation IIT with mentorship from IIT Madras. NIRF Engineering Rank 57. Strong placement growth with median package of Rs 15 LPA for UG students.",
+    "admissionThrough": "JEE Advanced → JoSAA",
+    "website": "https://www.iittp.ac.in",
+    "avgPackageLPA": 15,
+    "medianPackageLPA": 15,
+    "peakPackageCR": 0.45,
+    "peakInternationalPackageCR": 0.7,
+    "cseCutoffRank": 6000,
+    "nirfRank": 57,
+    "nirfRankCategory": "Engineering",
+    "qsWorldRank": null,
+    "placementPercent": 78,
+    "totalOffers": 128,
+    "linkedinAlumni": 5000,
+    "totalFaculty": 80,
+    "totalStudents": 1200,
+    "campusAreaAcres": 200,
+    "counsellings": [
+      "josaa"
+    ],
+    "topRecruiters": [
+      "Microsoft",
+      "Samsung",
+      "Amazon",
+      "TCS",
+      "Cognizant",
+      "Mathworks",
+      "Mentor",
+      "Toshiba",
+      "Infosys",
+      "Wipro",
+      "Accenture",
+      "Deloitte"
+    ],
+    "facilities": [
+      "Library",
+      "Sports Complex",
+      "Gym",
+      "Hospital",
+      "Student Activity Center",
+      "WiFi Campus",
+      "Cafeteria",
+      "Auditorium"
+    ],
+    "labs": [
+      {
+        "name": "HPC Cluster",
+        "description": "High-performance computing"
+      },
+      {
+        "name": "Robotics Lab",
+        "description": "Autonomous systems research"
+      }
+    ],
+    "tags": [
+      "IIT",
+      "Institute of National Importance",
+      "NAAC A++",
+      "JEE Advanced"
+    ],
+    "featured": false
+  },
+  {
+    "id": "iit-palakkad",
+    "name": "IIT Palakkad",
+    "slug": "iit-palakkad",
+    "location": "Palakkad",
+    "state": "Kerala",
+    "type": "IIT",
+    "established": 2015,
+    "naacGrade": "A++",
+    "logoUrl": null,
+    "coverImageUrl": null,
+    "tagline": "Kerala's IIT — growing research and placement ecosystem.",
+    "description": "IIT Palakkad is a 3rd-generation IIT established in 2015 in Kerala. Known for growing research output and improving placement records.",
+    "about": "IIT Palakkad (est. 2015) is Kerala's IIT with a growing research and placement ecosystem. NIRF Engineering Rank 64. Campus is still under development with ongoing construction.",
+    "admissionThrough": "JEE Advanced → JoSAA",
+    "website": "https://www.iitpkd.ac.in",
+    "avgPackageLPA": 13.89,
+    "medianPackageLPA": 11,
+    "peakPackageCR": 0.47,
+    "peakInternationalPackageCR": 0.6,
+    "cseCutoffRank": 6500,
+    "nirfRank": 64,
+    "nirfRankCategory": "Engineering",
+    "qsWorldRank": null,
+    "placementPercent": 67,
+    "totalOffers": 100,
+    "linkedinAlumni": 4000,
+    "totalFaculty": 70,
+    "totalStudents": 1000,
+    "campusAreaAcres": 196,
+    "counsellings": [
+      "josaa"
+    ],
+    "topRecruiters": [
+      "Google",
+      "Amazon",
+      "TCS",
+      "Accenture",
+      "Tech Mahindra",
+      "HCL",
+      "HDFC Bank",
+      "ICICI Bank",
+      "L&T",
+      "VMware",
+      "Daikin",
+      "Titan",
+      "AMD",
+      "Arista Networks",
+      "Timken",
+      "Sprinklr"
+    ],
+    "facilities": [
+      "Library",
+      "Computer Labs",
+      "Laboratory",
+      "Sports",
+      "Medical",
+      "Hostel",
+      "Classrooms",
+      "Transport",
+      "Canteen"
+    ],
+    "labs": [
+      {
+        "name": "Data Analytics Lab",
+        "description": "Big data and analytics research"
+      },
+      {
+        "name": "HPC Cluster",
+        "description": "High-performance computing"
+      }
+    ],
+    "tags": [
+      "IIT",
+      "Institute of National Importance",
+      "NAAC A++",
+      "JEE Advanced"
+    ],
+    "featured": false
+  },
+  {
+    "id": "iit-dharwad",
+    "name": "IIT Dharwad",
+    "slug": "iit-dharwad",
+    "location": "Dharwad",
+    "state": "Karnataka",
+    "type": "IIT",
+    "established": 2016,
+    "naacGrade": "A++",
+    "logoUrl": null,
+    "coverImageUrl": null,
+    "tagline": "Karnataka's newest IIT — rapidly improving infrastructure and placements.",
+    "description": "IIT Dharwad is Karnataka's newest IIT, established in 2016. Known for rapidly improving infrastructure, strong academics, and growing placement records.",
+    "about": "IIT Dharwad (est. 2016) is Karnataka's newest IIT with a 470-acre permanent campus. NIRF Engineering Rank 77. Strong placement growth with median package of Rs 13.25 LPA for UG students.",
+    "admissionThrough": "JEE Advanced → JoSAA",
+    "website": "https://www.iitdh.ac.in",
+    "avgPackageLPA": 14,
+    "medianPackageLPA": 13.25,
+    "peakPackageCR": 0.4,
+    "peakInternationalPackageCR": 0.6,
+    "cseCutoffRank": 7200,
+    "nirfRank": 77,
+    "nirfRankCategory": "Engineering",
+    "qsWorldRank": null,
+    "placementPercent": 88,
+    "totalOffers": 110,
+    "linkedinAlumni": 3000,
+    "totalFaculty": 48,
+    "totalStudents": 800,
+    "campusAreaAcres": 470,
+    "counsellings": [
+      "josaa"
+    ],
+    "topRecruiters": [
+      "Microsoft",
+      "Amazon",
+      "Google",
+      "Samsung",
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Accenture",
+      "Deloitte",
+      "L&T",
+      "ISRO",
+      "DRDO"
+    ],
+    "facilities": [
+      "Library",
+      "Sports Complex",
+      "Gym",
+      "Hospital",
+      "Student Activity Center",
+      "WiFi Campus",
+      "Cafeteria",
+      "Auditorium"
+    ],
+    "labs": [
+      {
+        "name": "HPC Cluster",
+        "description": "High-performance computing"
+      },
+      {
+        "name": "Robotics Lab",
+        "description": "Autonomous systems research"
+      }
+    ],
+    "tags": [
+      "IIT",
+      "Institute of National Importance",
+      "NAAC A++",
+      "JEE Advanced"
+    ],
+    "featured": false
+  },
+  {
+    "id": "iit-bhilai",
+    "name": "IIT Bhilai",
+    "slug": "iit-bhilai",
+    "location": "Bhilai",
+    "state": "Chhattisgarh",
+    "type": "IIT",
+    "established": 2016,
+    "naacGrade": "A++",
+    "logoUrl": null,
+    "coverImageUrl": null,
+    "tagline": "Chhattisgarh's IIT — data science and AI focus with strong industry ties.",
+    "description": "IIT Bhilai is Chhattisgarh's IIT, established in 2016. Known for data science, AI programs, and strong industry ties with improving placement records.",
+    "about": "IIT Bhilai (est. 2016) is Chhattisgarh's IIT located in Kutelabhata, Durg. Known for data science and AI programs with strong industry ties. NIRF Engineering Rank 72. Median package Rs 12 LPA.",
+    "admissionThrough": "JEE Advanced → JoSAA",
+    "website": "https://www.iitbhilai.ac.in",
+    "avgPackageLPA": 13.09,
+    "medianPackageLPA": 12,
+    "peakPackageCR": 0.49,
+    "peakInternationalPackageCR": 0.7,
+    "cseCutoffRank": 7500,
+    "nirfRank": 72,
+    "nirfRankCategory": "Engineering",
+    "qsWorldRank": null,
+    "placementPercent": 72,
+    "totalOffers": 90,
+    "linkedinAlumni": 2500,
+    "totalFaculty": 60,
+    "totalStudents": 700,
+    "campusAreaAcres": 200,
+    "counsellings": [
+      "josaa"
+    ],
+    "topRecruiters": [
+      "Accenture",
+      "Deloitte",
+      "HCLTech",
+      "Infosys",
+      "L&T",
+      "Mahindra",
+      "Merilytics",
+      "Nvidia",
+      "Publicis Sapient",
+      "Siemens",
+      "Tata AutoComp",
+      "TCS",
+      "Thoughtworks",
+      "ThyssenKrupp",
+      "Wiley Edge"
+    ],
+    "facilities": [
+      "Library",
+      "Sports Complex",
+      "Gym",
+      "Hospital",
+      "Student Activity Center",
+      "WiFi Campus",
+      "Cafeteria"
+    ],
+    "labs": [
+      {
+        "name": "Data Science Lab",
+        "description": "Big data and AI research"
+      },
+      {
+        "name": "HPC Cluster",
+        "description": "High-performance computing"
+      }
+    ],
+    "tags": [
+      "IIT",
+      "Institute of National Importance",
+      "NAAC A++",
+      "JEE Advanced"
+    ],
+    "featured": false
+  },
+  {
+    "id": "iit-goa",
+    "name": "IIT Goa",
+    "slug": "iit-goa",
+    "location": "Goa",
+    "state": "Goa",
+    "type": "IIT",
+    "established": 2016,
+    "naacGrade": "A++",
+    "logoUrl": null,
+    "coverImageUrl": null,
+    "tagline": "Goa's IIT — beachside campus with growing tech ecosystem.",
+    "description": "IIT Goa is Goa's IIT, established in 2016. Known for its beachside location, growing tech ecosystem, and improving placement records.",
+    "about": "IIT Goa (est. 2016) is Goa's IIT with a growing tech ecosystem and improving placement records. Known for its beachside location and strong faculty mentorship.",
+    "admissionThrough": "JEE Advanced → JoSAA",
+    "website": "https://www.iitgoa.ac.in",
+    "avgPackageLPA": 13,
+    "medianPackageLPA": 11.5,
+    "peakPackageCR": 0.35,
+    "peakInternationalPackageCR": 0.5,
+    "cseCutoffRank": 8000,
+    "nirfRank": 81,
+    "nirfRankCategory": "Engineering",
+    "qsWorldRank": null,
+    "placementPercent": 75,
+    "totalOffers": 80,
+    "linkedinAlumni": 2000,
+    "totalFaculty": 50,
+    "totalStudents": 600,
+    "campusAreaAcres": 150,
+    "counsellings": [
+      "josaa"
+    ],
+    "topRecruiters": [
+      "Microsoft",
+      "Amazon",
+      "Google",
+      "Samsung",
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Accenture",
+      "Deloitte",
+      "L&T",
+      "ISRO",
+      "DRDO"
+    ],
+    "facilities": [
+      "Library",
+      "Sports Complex",
+      "Gym",
+      "Hospital",
+      "Student Activity Center",
+      "WiFi Campus",
+      "Cafeteria"
+    ],
+    "labs": [
+      {
+        "name": "HPC Cluster",
+        "description": "High-performance computing"
+      },
+      {
+        "name": "Robotics Lab",
+        "description": "Autonomous systems research"
+      }
+    ],
+    "tags": [
+      "IIT",
+      "Institute of National Importance",
+      "NAAC A++",
+      "JEE Advanced"
+    ],
+    "featured": false
+  },
+  {
+    "id": "iit-jammu",
+    "name": "IIT Jammu",
+    "slug": "iit-jammu",
+    "location": "Jammu",
+    "state": "Jammu and Kashmir",
+    "type": "IIT",
+    "established": 2016,
+    "naacGrade": "A++",
+    "logoUrl": null,
+    "coverImageUrl": null,
+    "tagline": "J&K's IIT — strategic location with growing research focus.",
+    "description": "IIT Jammu is Jammu and Kashmir's IIT, established in 2016. Known for its strategic location, growing research focus, and improving placement records.",
+    "about": "IIT Jammu (est. 2016) is Jammu and Kashmir's IIT with a growing research focus and improving placement records. Known for its strategic location in the northern region.",
+    "admissionThrough": "JEE Advanced → JoSAA",
+    "website": "https://www.iitjammu.ac.in",
+    "avgPackageLPA": 12.5,
+    "medianPackageLPA": 10.5,
+    "peakPackageCR": 0.3,
+    "peakInternationalPackageCR": 0.45,
+    "cseCutoffRank": 8500,
+    "nirfRank": 85,
+    "nirfRankCategory": "Engineering",
+    "qsWorldRank": null,
+    "placementPercent": 70,
+    "totalOffers": 70,
+    "linkedinAlumni": 1500,
+    "totalFaculty": 45,
+    "totalStudents": 500,
+    "campusAreaAcres": 160,
+    "counsellings": [
+      "josaa"
+    ],
+    "topRecruiters": [
+      "Microsoft",
+      "Amazon",
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Accenture",
+      "Deloitte",
+      "L&T",
+      "ISRO",
+      "DRDO"
+    ],
+    "facilities": [
+      "Library",
+      "Sports Complex",
+      "Gym",
+      "Hospital",
+      "Student Activity Center",
+      "WiFi Campus",
+      "Cafeteria"
+    ],
+    "labs": [
+      {
+        "name": "HPC Cluster",
+        "description": "High-performance computing"
+      },
+      {
+        "name": "Robotics Lab",
+        "description": "Autonomous systems research"
+      }
+    ],
+    "tags": [
+      "IIT",
+      "Institute of National Importance",
+      "NAAC A++",
+      "JEE Advanced"
+    ],
+    "featured": false
+  }
+]

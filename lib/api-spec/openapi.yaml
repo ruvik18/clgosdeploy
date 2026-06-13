@@ -1,0 +1,747 @@
+openapi: 3.1.0
+info:
+  title: Api
+  version: 0.1.0
+  description: College Counselling Platform API
+servers:
+  - url: /api
+    description: Base API path
+tags:
+  - name: health
+    description: Health operations
+  - name: counsellings
+    description: Counselling exams (JoSAA, CSAB, JAC Delhi, etc.)
+  - name: colleges
+    description: College data
+  - name: stats
+    description: Platform summary stats
+
+paths:
+  /healthz:
+    get:
+      operationId: healthCheck
+      tags: [health]
+      summary: Health check
+      responses:
+        "200":
+          description: Healthy
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/HealthStatus"
+
+  /counsellings:
+    get:
+      operationId: listCounsellings
+      tags: [counsellings]
+      summary: List all counsellings
+      responses:
+        "200":
+          description: List of counsellings
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: "#/components/schemas/Counselling"
+
+  /counsellings/{id}:
+    get:
+      operationId: getCounselling
+      tags: [counsellings]
+      summary: Get a counselling by ID
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        "200":
+          description: Counselling details
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/CounsellingDetail"
+        "404":
+          description: Not found
+
+  /counsellings/{id}/rounds:
+    get:
+      operationId: getCounsellingRounds
+      tags: [counsellings]
+      summary: Get rounds for a counselling
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        "200":
+          description: Rounds list
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: "#/components/schemas/Round"
+
+  /colleges:
+    get:
+      operationId: listColleges
+      tags: [colleges]
+      summary: List colleges with optional filters
+      parameters:
+        - name: search
+          in: query
+          required: false
+          schema:
+            type: string
+        - name: counsellingId
+          in: query
+          required: false
+          schema:
+            type: string
+        - name: state
+          in: query
+          required: false
+          schema:
+            type: string
+        - name: type
+          in: query
+          required: false
+          schema:
+            type: string
+        - name: featured
+          in: query
+          required: false
+          schema:
+            type: boolean
+      responses:
+        "200":
+          description: List of colleges
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: "#/components/schemas/CollegeCard"
+
+  /colleges/{id}:
+    get:
+      operationId: getCollege
+      tags: [colleges]
+      summary: Get a college by ID
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        "200":
+          description: College details
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/College"
+        "404":
+          description: Not found
+
+  /colleges/{id}/placements:
+    get:
+      operationId: getCollegePlacements
+      tags: [colleges]
+      summary: Get placement data for a college
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        "200":
+          description: Placement data
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/PlacementData"
+
+  /colleges/{id}/cutoffs:
+    get:
+      operationId: getCollegeCutoffs
+      tags: [colleges]
+      summary: Get cutoffs for a college
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: string
+        - name: counsellingId
+          in: query
+          required: false
+          schema:
+            type: string
+        - name: round
+          in: query
+          required: false
+          schema:
+            type: integer
+        - name: year
+          in: query
+          required: false
+          schema:
+            type: integer
+        - name: branch
+          in: query
+          required: false
+          schema:
+            type: string
+        - name: category
+          in: query
+          required: false
+          schema:
+            type: string
+      responses:
+        "200":
+          description: Cutoff data
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: "#/components/schemas/Cutoff"
+
+  /colleges/{id}/hostels:
+    get:
+      operationId: getCollegeHostels
+      tags: [colleges]
+      summary: Get hostel data for a college
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        "200":
+          description: Hostel data
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/HostelData"
+
+  /colleges/{id}/departments:
+    get:
+      operationId: getCollegeDepartments
+      tags: [colleges]
+      summary: Get all departments for a college
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        "200":
+          description: Departments list
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: "#/components/schemas/Department"
+
+  /colleges/{id}/internships:
+    get:
+      operationId: getCollegeInternships
+      tags: [colleges]
+      summary: Get internship data for a college
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        "200":
+          description: Internship data
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/InternshipData"
+
+  /stats:
+    get:
+      operationId: getPlatformStats
+      tags: [stats]
+      summary: Get platform-level summary stats
+      responses:
+        "200":
+          description: Platform stats
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/PlatformStats"
+
+components:
+  schemas:
+    HealthStatus:
+      type: object
+      properties:
+        status:
+          type: string
+      required:
+        - status
+
+    Counselling:
+      type: object
+      required: [id, name, slug, type, level, states, startMonth, endMonth, startYear, logoUrl, description]
+      properties:
+        id:
+          type: string
+        name:
+          type: string
+        slug:
+          type: string
+        type:
+          type: string
+          description: "e.g. Engineering, Architecture"
+        level:
+          type: string
+          description: "e.g. National, State"
+        states:
+          type: array
+          items:
+            type: string
+        startMonth:
+          type: string
+        endMonth:
+          type: string
+        startYear:
+          type: integer
+        logoUrl:
+          type: ["string", "null"]
+        description:
+          type: string
+        totalColleges:
+          type: ["integer", "null"]
+        totalSeats:
+          type: ["integer", "null"]
+
+    CounsellingDetail:
+      type: object
+      required: [id, name, slug, type, level, states, startMonth, endMonth, startYear, logoUrl, description, rounds, colleges]
+      properties:
+        id:
+          type: string
+        name:
+          type: string
+        slug:
+          type: string
+        type:
+          type: string
+        level:
+          type: string
+        states:
+          type: array
+          items:
+            type: string
+        startMonth:
+          type: string
+        endMonth:
+          type: string
+        startYear:
+          type: integer
+        logoUrl:
+          type: ["string", "null"]
+        description:
+          type: string
+        about:
+          type: ["string", "null"]
+        totalColleges:
+          type: ["integer", "null"]
+        totalSeats:
+          type: ["integer", "null"]
+        rounds:
+          type: integer
+        colleges:
+          type: array
+          items:
+            $ref: "#/components/schemas/CollegeCard"
+        importantDates:
+          type: array
+          items:
+            $ref: "#/components/schemas/ImportantDate"
+
+    ImportantDate:
+      type: object
+      required: [event, date]
+      properties:
+        event:
+          type: string
+        date:
+          type: string
+
+    Round:
+      type: object
+      required: [id, counsellingId, roundNumber, name, registrationStart, registrationEnd, resultDate, year]
+      properties:
+        id:
+          type: string
+        counsellingId:
+          type: string
+        roundNumber:
+          type: integer
+        name:
+          type: string
+        registrationStart:
+          type: string
+        registrationEnd:
+          type: string
+        resultDate:
+          type: string
+        year:
+          type: integer
+        notes:
+          type: ["string", "null"]
+
+    CollegeCard:
+      type: object
+      required: [id, name, slug, location, state, type, established, naacGrade, logoUrl, avgPackageLPA, peakPackageCR, cseCutoffRank]
+      properties:
+        id:
+          type: string
+        name:
+          type: string
+        slug:
+          type: string
+        location:
+          type: string
+        state:
+          type: string
+        type:
+          type: string
+          description: "IIT, NIT, IIIT, GFTI, etc."
+        established:
+          type: integer
+        naacGrade:
+          type: ["string", "null"]
+        logoUrl:
+          type: ["string", "null"]
+        tagline:
+          type: ["string", "null"]
+        avgPackageLPA:
+          type: ["number", "null"]
+        peakPackageCR:
+          type: ["number", "null"]
+        cseCutoffRank:
+          type: ["integer", "null"]
+        nirfRank:
+          type: ["integer", "null"]
+        featured:
+          type: boolean
+
+    College:
+      type: object
+      required: [id, name, slug, location, state, type, established, naacGrade, logoUrl, description, avgPackageLPA, peakPackageCR, cseCutoffRank]
+      properties:
+        id:
+          type: string
+        name:
+          type: string
+        slug:
+          type: string
+        location:
+          type: string
+        state:
+          type: string
+        type:
+          type: string
+        established:
+          type: integer
+        naacGrade:
+          type: ["string", "null"]
+        logoUrl:
+          type: ["string", "null"]
+        coverImageUrl:
+          type: ["string", "null"]
+        description:
+          type: string
+        about:
+          type: ["string", "null"]
+        admissionThrough:
+          type: string
+        website:
+          type: ["string", "null"]
+        avgPackageLPA:
+          type: ["number", "null"]
+        medianPackageLPA:
+          type: ["number", "null"]
+        peakPackageCR:
+          type: ["number", "null"]
+        peakInternationalPackageCR:
+          type: ["number", "null"]
+        cseCutoffRank:
+          type: ["integer", "null"]
+        nirfRank:
+          type: ["integer", "null"]
+        nirfRankCategory:
+          type: ["string", "null"]
+        qsWorldRank:
+          type: ["integer", "null"]
+        placementPercent:
+          type: ["number", "null"]
+        totalOffers:
+          type: ["integer", "null"]
+        linkedinAlumni:
+          type: ["integer", "null"]
+        totalFaculty:
+          type: ["integer", "null"]
+        totalStudents:
+          type: ["integer", "null"]
+        campusAreaAcres:
+          type: ["number", "null"]
+        counsellings:
+          type: array
+          items:
+            type: string
+        topRecruiters:
+          type: array
+          items:
+            type: string
+        facilities:
+          type: array
+          items:
+            type: string
+        labs:
+          type: array
+          items:
+            $ref: "#/components/schemas/Lab"
+        tags:
+          type: array
+          items:
+            type: string
+
+    Lab:
+      type: object
+      required: [name, description]
+      properties:
+        name:
+          type: string
+        description:
+          type: string
+
+    PlacementData:
+      type: object
+      required: [collegeId, year, totalOffers, companiesRegistered, companiesOffered, internationalOffers, placementPercent, avgPackageLPA, medianPackageLPA, peakPackageCR, topRecruiters, sectorBreakdown]
+      properties:
+        collegeId:
+          type: string
+        year:
+          type: integer
+        totalOffers:
+          type: integer
+        companiesRegistered:
+          type: integer
+        companiesOffered:
+          type: integer
+        internationalOffers:
+          type: integer
+        placementPercent:
+          type: number
+        avgPackageLPA:
+          type: number
+        medianPackageLPA:
+          type: number
+        peakPackageCR:
+          type: number
+        mbdPlacedPercent:
+          type: ["number", "null"]
+        topRecruiters:
+          type: array
+          items:
+            type: string
+        sectorBreakdown:
+          type: array
+          items:
+            $ref: "#/components/schemas/SectorBreakdown"
+        yearWiseTrend:
+          type: array
+          items:
+            $ref: "#/components/schemas/YearPlacement"
+
+    SectorBreakdown:
+      type: object
+      required: [sector, firms, percentage]
+      properties:
+        sector:
+          type: string
+        firms:
+          type: integer
+        percentage:
+          type: number
+
+    YearPlacement:
+      type: object
+      required: [year, avgPackageLPA, peakPackageCR, totalOffers, placementPercent]
+      properties:
+        year:
+          type: integer
+        avgPackageLPA:
+          type: number
+        peakPackageCR:
+          type: number
+        totalOffers:
+          type: integer
+        placementPercent:
+          type: number
+
+    Cutoff:
+      type: object
+      required: [id, collegeId, counsellingId, year, round, branch, category, openRank, closeRank]
+      properties:
+        id:
+          type: string
+        collegeId:
+          type: string
+        counsellingId:
+          type: string
+        year:
+          type: integer
+        round:
+          type: integer
+        branch:
+          type: string
+        branchCode:
+          type: ["string", "null"]
+        category:
+          type: string
+        quota:
+          type: ["string", "null"]
+        openRank:
+          type: integer
+        closeRank:
+          type: integer
+        gender:
+          type: ["string", "null"]
+
+    HostelData:
+      type: object
+      required: [collegeId, totalHostels, boysHostels, girlsHostels, totalCapacity]
+      properties:
+        collegeId:
+          type: string
+        totalHostels:
+          type: integer
+        boysHostels:
+          type: integer
+        girlsHostels:
+          type: integer
+        totalCapacity:
+          type: integer
+        boysCapacity:
+          type: ["integer", "null"]
+        girlsCapacity:
+          type: ["integer", "null"]
+        feePerYear:
+          type: ["number", "null"]
+        description:
+          type: ["string", "null"]
+        amenities:
+          type: array
+          items:
+            type: string
+        hostels:
+          type: array
+          items:
+            $ref: "#/components/schemas/Hostel"
+
+    Hostel:
+      type: object
+      required: [name, type, capacity]
+      properties:
+        name:
+          type: string
+        type:
+          type: string
+          description: "Boys or Girls"
+        capacity:
+          type: integer
+        feePerYear:
+          type: ["number", "null"]
+        floors:
+          type: ["integer", "null"]
+        amenities:
+          type: array
+          items:
+            type: string
+
+    Department:
+      type: object
+      required: [id, collegeId, name, code, seats, avgPackageLPA, cseCutoffRank]
+      properties:
+        id:
+          type: string
+        collegeId:
+          type: string
+        name:
+          type: string
+        code:
+          type: string
+        seats:
+          type: integer
+        avgPackageLPA:
+          type: ["number", "null"]
+        peakPackageLPA:
+          type: ["number", "null"]
+        cseCutoffRank:
+          type: ["integer", "null"]
+        duration:
+          type: string
+        description:
+          type: ["string", "null"]
+
+    InternshipData:
+      type: object
+      required: [collegeId, year, totalInterns, avgStipendPerMonth, topCompanies, internationalInternships]
+      properties:
+        collegeId:
+          type: string
+        year:
+          type: integer
+        totalInterns:
+          type: integer
+        avgStipendPerMonth:
+          type: number
+        peakStipendPerMonth:
+          type: ["number", "null"]
+        topCompanies:
+          type: array
+          items:
+            type: string
+        internationalInternships:
+          type: integer
+        conversionToFullTime:
+          type: ["number", "null"]
+
+    PlatformStats:
+      type: object
+      required: [totalColleges, totalCounsellings, totalCutoffRecords, totalStates, lastUpdated]
+      properties:
+        totalColleges:
+          type: integer
+        totalCounsellings:
+          type: integer
+        totalCutoffRecords:
+          type: integer
+        totalStates:
+          type: integer
+        lastUpdated:
+          type: string
+        topIITs:
+          type: integer
+        topNITs:
+          type: integer

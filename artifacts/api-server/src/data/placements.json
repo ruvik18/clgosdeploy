@@ -1,0 +1,3204 @@
+{
+  "iit-bombay": {
+    "collegeId": "iit-bombay",
+    "year": 2025,
+    "totalOffers": 1475,
+    "companiesRegistered": 543,
+    "companiesOffered": 388,
+    "internationalOffers": 78,
+    "placementPercent": 74.53,
+    "avgPackageLPA": 23.5,
+    "medianPackageLPA": 18.5,
+    "peakPackageCR": 3.67,
+    "mbdPlacedPercent": 100,
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Apple",
+      "Meta",
+      "Uber",
+      "Goldman Sachs",
+      "JP Morgan",
+      "Morgan Stanley",
+      "Deutsche Bank",
+      "McKinsey",
+      "BCG",
+      "Bain",
+      "Qualcomm",
+      "Nvidia",
+      "Samsung",
+      "Adobe",
+      "Oracle",
+      "Flipkart",
+      "PhonePe",
+      "Sprinklr",
+      "Cohesity",
+      "HUL",
+      "P&G",
+      "ITC",
+      "Tata Steel",
+      "Reliance",
+      "Schlumberger",
+      "Shell",
+      "ExxonMobil"
+    ],
+    "sectorBreakdown": [
+      {
+        "sector": "Product / Tech",
+        "firms": 5,
+        "percentage": 42
+      },
+      {
+        "sector": "Finance / Banking",
+        "firms": 1,
+        "percentage": 20
+      },
+      {
+        "sector": "Consulting",
+        "firms": 2,
+        "percentage": 15
+      },
+      {
+        "sector": "Core / Manufacturing",
+        "firms": 3,
+        "percentage": 15
+      },
+      {
+        "sector": "Other",
+        "firms": 4,
+        "percentage": 8
+      }
+    ],
+    "yearWiseTrend": [
+      {
+        "year": 2021,
+        "avgPackageLPA": 17.5,
+        "peakPackageCR": 2.05,
+        "totalOffers": 1150,
+        "placementPercent": 68
+      },
+      {
+        "year": 2022,
+        "avgPackageLPA": 19.5,
+        "peakPackageCR": 2.5,
+        "totalOffers": 1250,
+        "placementPercent": 70
+      },
+      {
+        "year": 2023,
+        "avgPackageLPA": 21.5,
+        "peakPackageCR": 3,
+        "totalOffers": 1350,
+        "placementPercent": 72
+      },
+      {
+        "year": 2024,
+        "avgPackageLPA": 22,
+        "peakPackageCR": 3.2,
+        "totalOffers": 1400,
+        "placementPercent": 73
+      },
+      {
+        "year": 2025,
+        "avgPackageLPA": 23.5,
+        "peakPackageCR": 3.67,
+        "totalOffers": 1475,
+        "placementPercent": 74.53
+      }
+    ]
+  },
+  "iit-delhi": {
+    "collegeId": "iit-delhi",
+    "year": 2025,
+    "totalOffers": 1200,
+    "companiesRegistered": 480,
+    "companiesOffered": 350,
+    "internationalOffers": 55,
+    "placementPercent": 94,
+    "avgPackageLPA": 17.6,
+    "medianPackageLPA": 18,
+    "peakPackageCR": 2.05,
+    "mbdPlacedPercent": 100,
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Apple",
+      "Meta",
+      "Uber",
+      "Goldman Sachs",
+      "JP Morgan",
+      "Morgan Stanley",
+      "Deutsche Bank",
+      "McKinsey",
+      "BCG",
+      "Bain",
+      "Qualcomm",
+      "Nvidia",
+      "Samsung",
+      "Adobe",
+      "Oracle",
+      "Flipkart",
+      "PhonePe",
+      "Sprinklr",
+      "HUL",
+      "P&G",
+      "ITC",
+      "Tata Steel",
+      "Reliance",
+      "Schlumberger",
+      "Shell",
+      "ExxonMobil",
+      "Intel"
+    ],
+    "sectorBreakdown": [
+      {
+        "sector": "Product / Tech",
+        "firms": 5,
+        "percentage": 40
+      },
+      {
+        "sector": "Finance / Banking",
+        "firms": 1,
+        "percentage": 22
+      },
+      {
+        "sector": "Consulting",
+        "firms": 2,
+        "percentage": 14
+      },
+      {
+        "sector": "Core / Manufacturing",
+        "firms": 3,
+        "percentage": 16
+      },
+      {
+        "sector": "Other",
+        "firms": 4,
+        "percentage": 8
+      }
+    ],
+    "yearWiseTrend": [
+      {
+        "year": 2021,
+        "avgPackageLPA": 16,
+        "peakPackageCR": 1.5,
+        "totalOffers": 950,
+        "placementPercent": 88
+      },
+      {
+        "year": 2022,
+        "avgPackageLPA": 17,
+        "peakPackageCR": 1.8,
+        "totalOffers": 1050,
+        "placementPercent": 90
+      },
+      {
+        "year": 2023,
+        "avgPackageLPA": 18,
+        "peakPackageCR": 2,
+        "totalOffers": 1100,
+        "placementPercent": 92
+      },
+      {
+        "year": 2024,
+        "avgPackageLPA": 17,
+        "peakPackageCR": 2,
+        "totalOffers": 1150,
+        "placementPercent": 93
+      },
+      {
+        "year": 2025,
+        "avgPackageLPA": 17.6,
+        "peakPackageCR": 2.05,
+        "totalOffers": 1200,
+        "placementPercent": 94
+      }
+    ]
+  },
+  "iit-madras": {
+    "collegeId": "iit-madras",
+    "year": 2025,
+    "totalOffers": 1100,
+    "companiesRegistered": 450,
+    "companiesOffered": 320,
+    "internationalOffers": 45,
+    "placementPercent": 94,
+    "avgPackageLPA": 17,
+    "medianPackageLPA": 17.5,
+    "peakPackageCR": 1.31,
+    "mbdPlacedPercent": 100,
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Apple",
+      "Meta",
+      "Uber",
+      "Goldman Sachs",
+      "JP Morgan",
+      "Morgan Stanley",
+      "Deutsche Bank",
+      "McKinsey",
+      "BCG",
+      "Bain",
+      "Qualcomm",
+      "Nvidia",
+      "Samsung",
+      "Adobe",
+      "Oracle",
+      "Flipkart",
+      "PhonePe",
+      "HUL",
+      "P&G",
+      "ITC",
+      "Tata Steel",
+      "Reliance",
+      "Schlumberger",
+      "Shell",
+      "Intel",
+      "AMD",
+      "Texas Instruments"
+    ],
+    "sectorBreakdown": [
+      {
+        "sector": "Product / Tech",
+        "firms": 5,
+        "percentage": 38
+      },
+      {
+        "sector": "Finance / Banking",
+        "firms": 1,
+        "percentage": 20
+      },
+      {
+        "sector": "Consulting",
+        "firms": 2,
+        "percentage": 15
+      },
+      {
+        "sector": "Core / Manufacturing",
+        "firms": 3,
+        "percentage": 18
+      },
+      {
+        "sector": "Other",
+        "firms": 4,
+        "percentage": 9
+      }
+    ],
+    "yearWiseTrend": [
+      {
+        "year": 2021,
+        "avgPackageLPA": 15.5,
+        "peakPackageCR": 1,
+        "totalOffers": 850,
+        "placementPercent": 88
+      },
+      {
+        "year": 2022,
+        "avgPackageLPA": 16.5,
+        "peakPackageCR": 1.2,
+        "totalOffers": 950,
+        "placementPercent": 90
+      },
+      {
+        "year": 2023,
+        "avgPackageLPA": 17,
+        "peakPackageCR": 1.25,
+        "totalOffers": 1000,
+        "placementPercent": 92
+      },
+      {
+        "year": 2024,
+        "avgPackageLPA": 16.5,
+        "peakPackageCR": 1.3,
+        "totalOffers": 1050,
+        "placementPercent": 93
+      },
+      {
+        "year": 2025,
+        "avgPackageLPA": 17,
+        "peakPackageCR": 1.31,
+        "totalOffers": 1100,
+        "placementPercent": 94
+      }
+    ]
+  },
+  "iit-kanpur": {
+    "collegeId": "iit-kanpur",
+    "year": 2025,
+    "totalOffers": 950,
+    "companiesRegistered": 400,
+    "companiesOffered": 290,
+    "internationalOffers": 40,
+    "placementPercent": 90,
+    "avgPackageLPA": 26.27,
+    "medianPackageLPA": 17,
+    "peakPackageCR": 1.9,
+    "mbdPlacedPercent": 100,
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Apple",
+      "Meta",
+      "Uber",
+      "Goldman Sachs",
+      "JP Morgan",
+      "Morgan Stanley",
+      "Deutsche Bank",
+      "McKinsey",
+      "BCG",
+      "Bain",
+      "Qualcomm",
+      "Nvidia",
+      "Samsung",
+      "Adobe",
+      "Oracle",
+      "Flipkart",
+      "PhonePe",
+      "HUL",
+      "P&G",
+      "ITC",
+      "Tata Steel",
+      "Reliance",
+      "Schlumberger",
+      "Shell",
+      "Intel",
+      "AMD",
+      "Texas Instruments"
+    ],
+    "sectorBreakdown": [
+      {
+        "sector": "Product / Tech",
+        "firms": 5,
+        "percentage": 35
+      },
+      {
+        "sector": "Finance / Banking",
+        "firms": 1,
+        "percentage": 25
+      },
+      {
+        "sector": "Consulting",
+        "firms": 2,
+        "percentage": 15
+      },
+      {
+        "sector": "Core / Manufacturing",
+        "firms": 3,
+        "percentage": 18
+      },
+      {
+        "sector": "Other",
+        "firms": 4,
+        "percentage": 7
+      }
+    ],
+    "yearWiseTrend": [
+      {
+        "year": 2021,
+        "avgPackageLPA": 18,
+        "peakPackageCR": 1.2,
+        "totalOffers": 700,
+        "placementPercent": 82
+      },
+      {
+        "year": 2022,
+        "avgPackageLPA": 20,
+        "peakPackageCR": 1.5,
+        "totalOffers": 800,
+        "placementPercent": 85
+      },
+      {
+        "year": 2023,
+        "avgPackageLPA": 22,
+        "peakPackageCR": 1.7,
+        "totalOffers": 850,
+        "placementPercent": 87
+      },
+      {
+        "year": 2024,
+        "avgPackageLPA": 24,
+        "peakPackageCR": 1.85,
+        "totalOffers": 900,
+        "placementPercent": 88
+      },
+      {
+        "year": 2025,
+        "avgPackageLPA": 26.27,
+        "peakPackageCR": 1.9,
+        "totalOffers": 950,
+        "placementPercent": 90
+      }
+    ]
+  },
+  "iit-kharagpur": {
+    "collegeId": "iit-kharagpur",
+    "year": 2025,
+    "totalOffers": 750,
+    "companiesRegistered": 380,
+    "companiesOffered": 280,
+    "internationalOffers": 35,
+    "placementPercent": 90,
+    "avgPackageLPA": 24,
+    "medianPackageLPA": 16.5,
+    "peakPackageCR": 2.68,
+    "mbdPlacedPercent": 100,
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Apple",
+      "Meta",
+      "Uber",
+      "Goldman Sachs",
+      "JP Morgan",
+      "Morgan Stanley",
+      "Deutsche Bank",
+      "McKinsey",
+      "BCG",
+      "Bain",
+      "Qualcomm",
+      "Nvidia",
+      "Samsung",
+      "Adobe",
+      "Oracle",
+      "Flipkart",
+      "PhonePe",
+      "HUL",
+      "P&G",
+      "ITC",
+      "Tata Steel",
+      "Reliance",
+      "Schlumberger",
+      "Shell",
+      "Intel",
+      "AMD",
+      "Texas Instruments"
+    ],
+    "sectorBreakdown": [
+      {
+        "sector": "Product / Tech",
+        "firms": 5,
+        "percentage": 38
+      },
+      {
+        "sector": "Finance / Banking",
+        "firms": 1,
+        "percentage": 22
+      },
+      {
+        "sector": "Consulting",
+        "firms": 2,
+        "percentage": 12
+      },
+      {
+        "sector": "Core / Manufacturing",
+        "firms": 3,
+        "percentage": 20
+      },
+      {
+        "sector": "Other",
+        "firms": 4,
+        "percentage": 8
+      }
+    ],
+    "yearWiseTrend": [
+      {
+        "year": 2021,
+        "avgPackageLPA": 15,
+        "peakPackageCR": 1.2,
+        "totalOffers": 550,
+        "placementPercent": 80
+      },
+      {
+        "year": 2022,
+        "avgPackageLPA": 17,
+        "peakPackageCR": 1.5,
+        "totalOffers": 650,
+        "placementPercent": 83
+      },
+      {
+        "year": 2023,
+        "avgPackageLPA": 19,
+        "peakPackageCR": 2,
+        "totalOffers": 700,
+        "placementPercent": 86
+      },
+      {
+        "year": 2024,
+        "avgPackageLPA": 21,
+        "peakPackageCR": 2.4,
+        "totalOffers": 720,
+        "placementPercent": 88
+      },
+      {
+        "year": 2025,
+        "avgPackageLPA": 24,
+        "peakPackageCR": 2.68,
+        "totalOffers": 750,
+        "placementPercent": 90
+      }
+    ]
+  },
+  "iit-roorkee": {
+    "collegeId": "iit-roorkee",
+    "year": 2025,
+    "totalOffers": 900,
+    "companiesRegistered": 420,
+    "companiesOffered": 300,
+    "internationalOffers": 42,
+    "placementPercent": 88,
+    "avgPackageLPA": 18.3,
+    "medianPackageLPA": 16,
+    "peakPackageCR": 1.3,
+    "mbdPlacedPercent": 100,
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Apple",
+      "Meta",
+      "Uber",
+      "Goldman Sachs",
+      "JP Morgan",
+      "Morgan Stanley",
+      "Deutsche Bank",
+      "McKinsey",
+      "BCG",
+      "Bain",
+      "Qualcomm",
+      "Nvidia",
+      "Samsung",
+      "Adobe",
+      "Oracle",
+      "Flipkart",
+      "PhonePe",
+      "HUL",
+      "P&G",
+      "ITC",
+      "Tata Steel",
+      "Reliance",
+      "Schlumberger",
+      "Shell",
+      "Intel",
+      "AMD",
+      "Texas Instruments"
+    ],
+    "sectorBreakdown": [
+      {
+        "sector": "Product / Tech",
+        "firms": 5,
+        "percentage": 40
+      },
+      {
+        "sector": "Finance / Banking",
+        "firms": 1,
+        "percentage": 18
+      },
+      {
+        "sector": "Consulting",
+        "firms": 2,
+        "percentage": 14
+      },
+      {
+        "sector": "Core / Manufacturing",
+        "firms": 3,
+        "percentage": 20
+      },
+      {
+        "sector": "Other",
+        "firms": 4,
+        "percentage": 8
+      }
+    ],
+    "yearWiseTrend": [
+      {
+        "year": 2021,
+        "avgPackageLPA": 14,
+        "peakPackageCR": 0.8,
+        "totalOffers": 650,
+        "placementPercent": 80
+      },
+      {
+        "year": 2022,
+        "avgPackageLPA": 15.5,
+        "peakPackageCR": 1,
+        "totalOffers": 750,
+        "placementPercent": 83
+      },
+      {
+        "year": 2023,
+        "avgPackageLPA": 16.5,
+        "peakPackageCR": 1.15,
+        "totalOffers": 800,
+        "placementPercent": 85
+      },
+      {
+        "year": 2024,
+        "avgPackageLPA": 17,
+        "peakPackageCR": 1.25,
+        "totalOffers": 850,
+        "placementPercent": 87
+      },
+      {
+        "year": 2025,
+        "avgPackageLPA": 18.3,
+        "peakPackageCR": 1.3,
+        "totalOffers": 900,
+        "placementPercent": 88
+      }
+    ]
+  },
+  "iit-guwahati": {
+    "collegeId": "iit-guwahati",
+    "year": 2025,
+    "totalOffers": 891,
+    "companiesRegistered": 260,
+    "companiesOffered": 260,
+    "internationalOffers": 20,
+    "placementPercent": 62,
+    "avgPackageLPA": 25.21,
+    "medianPackageLPA": 19.48,
+    "peakPackageCR": 1.25,
+    "mbdPlacedPercent": 92.86,
+    "topRecruiters": [
+      "Google",
+      "Apple",
+      "Microsoft",
+      "Amazon",
+      "Qualcomm",
+      "Uber",
+      "JP Morgan Chase",
+      "Goldman Sachs",
+      "Schlumberger",
+      "DE Shaw",
+      "Deutsche Bank",
+      "HSBC",
+      "Nomura",
+      "Airbus",
+      "Accenture",
+      "Deloitte",
+      "Adobe",
+      "Samsung",
+      "Nvidia",
+      "Oracle",
+      "Flipkart",
+      "Capgemini",
+      "GAIL",
+      "IOCL",
+      "BPCL",
+      "NTPC",
+      "DRDO",
+      "HAL",
+      "BEL",
+      "L&T",
+      "Bosch",
+      "Hero Moto Corp"
+    ],
+    "sectorBreakdown": [
+      {
+        "sector": "Product / Tech",
+        "firms": 5,
+        "percentage": 48
+      },
+      {
+        "sector": "Finance / Banking",
+        "firms": 1,
+        "percentage": 18
+      },
+      {
+        "sector": "Core / Manufacturing",
+        "firms": 3,
+        "percentage": 22
+      },
+      {
+        "sector": "Consulting",
+        "firms": 2,
+        "percentage": 8
+      },
+      {
+        "sector": "Other",
+        "firms": 4,
+        "percentage": 4
+      }
+    ],
+    "yearWiseTrend": [
+      {
+        "year": 2021,
+        "avgPackageLPA": 18.4,
+        "peakPackageCR": 0.85,
+        "totalOffers": 620,
+        "placementPercent": 58
+      },
+      {
+        "year": 2022,
+        "avgPackageLPA": 20.8,
+        "peakPackageCR": 1,
+        "totalOffers": 720,
+        "placementPercent": 60
+      },
+      {
+        "year": 2023,
+        "avgPackageLPA": 22.5,
+        "peakPackageCR": 1.1,
+        "totalOffers": 780,
+        "placementPercent": 61
+      },
+      {
+        "year": 2024,
+        "avgPackageLPA": 24.1,
+        "peakPackageCR": 1.18,
+        "totalOffers": 840,
+        "placementPercent": 62
+      },
+      {
+        "year": 2025,
+        "avgPackageLPA": 25.21,
+        "peakPackageCR": 1.25,
+        "totalOffers": 891,
+        "placementPercent": 62
+      }
+    ]
+  },
+  "iit-hyderabad": {
+    "collegeId": "iit-hyderabad",
+    "year": 2025,
+    "totalOffers": 650,
+    "companiesRegistered": 280,
+    "companiesOffered": 210,
+    "internationalOffers": 28,
+    "placementPercent": 88,
+    "avgPackageLPA": 18,
+    "medianPackageLPA": 15,
+    "peakPackageCR": 0.9,
+    "mbdPlacedPercent": 100,
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Apple",
+      "Meta",
+      "Uber",
+      "Goldman Sachs",
+      "JP Morgan",
+      "Morgan Stanley",
+      "Deutsche Bank",
+      "McKinsey",
+      "BCG",
+      "Bain",
+      "Qualcomm",
+      "Nvidia",
+      "Samsung",
+      "Adobe",
+      "Oracle",
+      "Flipkart",
+      "PhonePe",
+      "HUL",
+      "P&G",
+      "ITC",
+      "Tata Steel",
+      "Reliance",
+      "Schlumberger",
+      "Shell",
+      "Intel",
+      "AMD",
+      "Texas Instruments"
+    ],
+    "sectorBreakdown": [
+      {
+        "sector": "Product / Tech",
+        "firms": 5,
+        "percentage": 45
+      },
+      {
+        "sector": "Finance / Banking",
+        "firms": 1,
+        "percentage": 18
+      },
+      {
+        "sector": "Consulting",
+        "firms": 2,
+        "percentage": 12
+      },
+      {
+        "sector": "Core / Manufacturing",
+        "firms": 3,
+        "percentage": 18
+      },
+      {
+        "sector": "Other",
+        "firms": 4,
+        "percentage": 7
+      }
+    ],
+    "yearWiseTrend": [
+      {
+        "year": 2021,
+        "avgPackageLPA": 13,
+        "peakPackageCR": 0.6,
+        "totalOffers": 450,
+        "placementPercent": 80
+      },
+      {
+        "year": 2022,
+        "avgPackageLPA": 14.5,
+        "peakPackageCR": 0.7,
+        "totalOffers": 520,
+        "placementPercent": 83
+      },
+      {
+        "year": 2023,
+        "avgPackageLPA": 15.5,
+        "peakPackageCR": 0.8,
+        "totalOffers": 580,
+        "placementPercent": 85
+      },
+      {
+        "year": 2024,
+        "avgPackageLPA": 16.5,
+        "peakPackageCR": 0.85,
+        "totalOffers": 620,
+        "placementPercent": 87
+      },
+      {
+        "year": 2025,
+        "avgPackageLPA": 18,
+        "peakPackageCR": 0.9,
+        "totalOffers": 650,
+        "placementPercent": 88
+      }
+    ]
+  },
+  "iit-bhu-varanasi": {
+    "collegeId": "iit-bhu-varanasi",
+    "year": 2025,
+    "totalOffers": 800,
+    "companiesRegistered": 350,
+    "companiesOffered": 260,
+    "internationalOffers": 30,
+    "placementPercent": 85,
+    "avgPackageLPA": 17,
+    "medianPackageLPA": 14.5,
+    "peakPackageCR": 0.55,
+    "mbdPlacedPercent": 100,
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Apple",
+      "Meta",
+      "Uber",
+      "Goldman Sachs",
+      "JP Morgan",
+      "Morgan Stanley",
+      "Deutsche Bank",
+      "McKinsey",
+      "BCG",
+      "Bain",
+      "Qualcomm",
+      "Nvidia",
+      "Samsung",
+      "Adobe",
+      "Oracle",
+      "Flipkart",
+      "PhonePe",
+      "HUL",
+      "P&G",
+      "ITC",
+      "Tata Steel",
+      "Reliance",
+      "Schlumberger",
+      "Shell",
+      "Intel",
+      "AMD",
+      "Texas Instruments"
+    ],
+    "sectorBreakdown": [
+      {
+        "sector": "Product / Tech",
+        "firms": 5,
+        "percentage": 38
+      },
+      {
+        "sector": "Finance / Banking",
+        "firms": 1,
+        "percentage": 20
+      },
+      {
+        "sector": "Consulting",
+        "firms": 2,
+        "percentage": 12
+      },
+      {
+        "sector": "Core / Manufacturing",
+        "firms": 3,
+        "percentage": 22
+      },
+      {
+        "sector": "Other",
+        "firms": 4,
+        "percentage": 8
+      }
+    ],
+    "yearWiseTrend": [
+      {
+        "year": 2021,
+        "avgPackageLPA": 12,
+        "peakPackageCR": 0.4,
+        "totalOffers": 550,
+        "placementPercent": 75
+      },
+      {
+        "year": 2022,
+        "avgPackageLPA": 13.5,
+        "peakPackageCR": 0.45,
+        "totalOffers": 650,
+        "placementPercent": 78
+      },
+      {
+        "year": 2023,
+        "avgPackageLPA": 14.5,
+        "peakPackageCR": 0.5,
+        "totalOffers": 720,
+        "placementPercent": 82
+      },
+      {
+        "year": 2024,
+        "avgPackageLPA": 15.5,
+        "peakPackageCR": 0.52,
+        "totalOffers": 760,
+        "placementPercent": 84
+      },
+      {
+        "year": 2025,
+        "avgPackageLPA": 17,
+        "peakPackageCR": 0.55,
+        "totalOffers": 800,
+        "placementPercent": 85
+      }
+    ]
+  },
+  "iit-indore": {
+    "collegeId": "iit-indore",
+    "year": 2025,
+    "totalOffers": 520,
+    "companiesRegistered": 240,
+    "companiesOffered": 180,
+    "internationalOffers": 22,
+    "placementPercent": 85,
+    "avgPackageLPA": 16,
+    "medianPackageLPA": 14,
+    "peakPackageCR": 0.5,
+    "mbdPlacedPercent": 100,
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Apple",
+      "Meta",
+      "Uber",
+      "Goldman Sachs",
+      "JP Morgan",
+      "Morgan Stanley",
+      "Deutsche Bank",
+      "McKinsey",
+      "BCG",
+      "Bain",
+      "Qualcomm",
+      "Nvidia",
+      "Samsung",
+      "Adobe",
+      "Oracle",
+      "Flipkart",
+      "PhonePe",
+      "HUL",
+      "P&G",
+      "ITC",
+      "Tata Steel",
+      "Reliance",
+      "Schlumberger",
+      "Shell",
+      "Intel",
+      "AMD",
+      "Texas Instruments"
+    ],
+    "sectorBreakdown": [
+      {
+        "sector": "Product / Tech",
+        "firms": 5,
+        "percentage": 40
+      },
+      {
+        "sector": "Finance / Banking",
+        "firms": 1,
+        "percentage": 18
+      },
+      {
+        "sector": "Consulting",
+        "firms": 2,
+        "percentage": 12
+      },
+      {
+        "sector": "Core / Manufacturing",
+        "firms": 3,
+        "percentage": 22
+      },
+      {
+        "sector": "Other",
+        "firms": 4,
+        "percentage": 8
+      }
+    ],
+    "yearWiseTrend": [
+      {
+        "year": 2021,
+        "avgPackageLPA": 11,
+        "peakPackageCR": 0.35,
+        "totalOffers": 350,
+        "placementPercent": 75
+      },
+      {
+        "year": 2022,
+        "avgPackageLPA": 12.5,
+        "peakPackageCR": 0.4,
+        "totalOffers": 420,
+        "placementPercent": 78
+      },
+      {
+        "year": 2023,
+        "avgPackageLPA": 13.5,
+        "peakPackageCR": 0.45,
+        "totalOffers": 470,
+        "placementPercent": 82
+      },
+      {
+        "year": 2024,
+        "avgPackageLPA": 14.5,
+        "peakPackageCR": 0.48,
+        "totalOffers": 500,
+        "placementPercent": 84
+      },
+      {
+        "year": 2025,
+        "avgPackageLPA": 16,
+        "peakPackageCR": 0.5,
+        "totalOffers": 520,
+        "placementPercent": 85
+      }
+    ]
+  },
+  "iit-ism-dhanbad": {
+    "collegeId": "iit-ism-dhanbad",
+    "year": 2025,
+    "totalOffers": 750,
+    "companiesRegistered": 320,
+    "companiesOffered": 240,
+    "internationalOffers": 28,
+    "placementPercent": 85,
+    "avgPackageLPA": 16,
+    "medianPackageLPA": 13.5,
+    "peakPackageCR": 0.5,
+    "mbdPlacedPercent": 100,
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Apple",
+      "Meta",
+      "Uber",
+      "Goldman Sachs",
+      "JP Morgan",
+      "Morgan Stanley",
+      "Deutsche Bank",
+      "McKinsey",
+      "BCG",
+      "Bain",
+      "Qualcomm",
+      "Nvidia",
+      "Samsung",
+      "Adobe",
+      "Oracle",
+      "Flipkart",
+      "PhonePe",
+      "HUL",
+      "P&G",
+      "ITC",
+      "Tata Steel",
+      "Reliance",
+      "Schlumberger",
+      "Shell",
+      "Intel",
+      "AMD",
+      "Texas Instruments"
+    ],
+    "sectorBreakdown": [
+      {
+        "sector": "Product / Tech",
+        "firms": 5,
+        "percentage": 35
+      },
+      {
+        "sector": "Finance / Banking",
+        "firms": 1,
+        "percentage": 20
+      },
+      {
+        "sector": "Consulting",
+        "firms": 2,
+        "percentage": 12
+      },
+      {
+        "sector": "Core / Manufacturing",
+        "firms": 3,
+        "percentage": 25
+      },
+      {
+        "sector": "Other",
+        "firms": 4,
+        "percentage": 8
+      }
+    ],
+    "yearWiseTrend": [
+      {
+        "year": 2021,
+        "avgPackageLPA": 11.5,
+        "peakPackageCR": 0.35,
+        "totalOffers": 500,
+        "placementPercent": 75
+      },
+      {
+        "year": 2022,
+        "avgPackageLPA": 12.5,
+        "peakPackageCR": 0.4,
+        "totalOffers": 600,
+        "placementPercent": 78
+      },
+      {
+        "year": 2023,
+        "avgPackageLPA": 13.5,
+        "peakPackageCR": 0.45,
+        "totalOffers": 680,
+        "placementPercent": 82
+      },
+      {
+        "year": 2024,
+        "avgPackageLPA": 14.5,
+        "peakPackageCR": 0.48,
+        "totalOffers": 720,
+        "placementPercent": 84
+      },
+      {
+        "year": 2025,
+        "avgPackageLPA": 16,
+        "peakPackageCR": 0.5,
+        "totalOffers": 750,
+        "placementPercent": 85
+      }
+    ]
+  },
+  "iit-gandhinagar": {
+    "collegeId": "iit-gandhinagar",
+    "year": 2025,
+    "totalOffers": 380,
+    "companiesRegistered": 180,
+    "companiesOffered": 135,
+    "internationalOffers": 18,
+    "placementPercent": 85,
+    "avgPackageLPA": 19.6,
+    "medianPackageLPA": 14,
+    "peakPackageCR": 0.6,
+    "mbdPlacedPercent": 100,
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Apple",
+      "Meta",
+      "Uber",
+      "Goldman Sachs",
+      "JP Morgan",
+      "Morgan Stanley",
+      "Deutsche Bank",
+      "McKinsey",
+      "BCG",
+      "Bain",
+      "Qualcomm",
+      "Nvidia",
+      "Samsung",
+      "Adobe",
+      "Oracle",
+      "Flipkart",
+      "PhonePe",
+      "HUL",
+      "P&G",
+      "ITC",
+      "Tata Steel",
+      "Reliance",
+      "Schlumberger",
+      "Shell",
+      "Intel",
+      "AMD",
+      "Texas Instruments"
+    ],
+    "sectorBreakdown": [
+      {
+        "sector": "Product / Tech",
+        "firms": 5,
+        "percentage": 42
+      },
+      {
+        "sector": "Finance / Banking",
+        "firms": 1,
+        "percentage": 18
+      },
+      {
+        "sector": "Consulting",
+        "firms": 2,
+        "percentage": 12
+      },
+      {
+        "sector": "Core / Manufacturing",
+        "firms": 3,
+        "percentage": 20
+      },
+      {
+        "sector": "Other",
+        "firms": 4,
+        "percentage": 8
+      }
+    ],
+    "yearWiseTrend": [
+      {
+        "year": 2021,
+        "avgPackageLPA": 13,
+        "peakPackageCR": 0.4,
+        "totalOffers": 250,
+        "placementPercent": 78
+      },
+      {
+        "year": 2022,
+        "avgPackageLPA": 14.5,
+        "peakPackageCR": 0.45,
+        "totalOffers": 300,
+        "placementPercent": 80
+      },
+      {
+        "year": 2023,
+        "avgPackageLPA": 16,
+        "peakPackageCR": 0.5,
+        "totalOffers": 340,
+        "placementPercent": 82
+      },
+      {
+        "year": 2024,
+        "avgPackageLPA": 17.5,
+        "peakPackageCR": 0.55,
+        "totalOffers": 360,
+        "placementPercent": 84
+      },
+      {
+        "year": 2025,
+        "avgPackageLPA": 19.6,
+        "peakPackageCR": 0.6,
+        "totalOffers": 380,
+        "placementPercent": 85
+      }
+    ]
+  },
+  "iit-mandi": {
+    "collegeId": "iit-mandi",
+    "year": 2025,
+    "totalOffers": 320,
+    "companiesRegistered": 150,
+    "companiesOffered": 115,
+    "internationalOffers": 15,
+    "placementPercent": 82,
+    "avgPackageLPA": 15,
+    "medianPackageLPA": 13,
+    "peakPackageCR": 0.45,
+    "mbdPlacedPercent": 100,
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Apple",
+      "Meta",
+      "Uber",
+      "Goldman Sachs",
+      "JP Morgan",
+      "Morgan Stanley",
+      "Deutsche Bank",
+      "McKinsey",
+      "BCG",
+      "Bain",
+      "Qualcomm",
+      "Nvidia",
+      "Samsung",
+      "Adobe",
+      "Oracle",
+      "Flipkart",
+      "PhonePe",
+      "HUL",
+      "P&G",
+      "ITC",
+      "Tata Steel",
+      "Reliance",
+      "Schlumberger",
+      "Shell",
+      "Intel",
+      "AMD",
+      "Texas Instruments"
+    ],
+    "sectorBreakdown": [
+      {
+        "sector": "Product / Tech",
+        "firms": 5,
+        "percentage": 38
+      },
+      {
+        "sector": "Finance / Banking",
+        "firms": 1,
+        "percentage": 18
+      },
+      {
+        "sector": "Consulting",
+        "firms": 2,
+        "percentage": 12
+      },
+      {
+        "sector": "Core / Manufacturing",
+        "firms": 3,
+        "percentage": 24
+      },
+      {
+        "sector": "Other",
+        "firms": 4,
+        "percentage": 8
+      }
+    ],
+    "yearWiseTrend": [
+      {
+        "year": 2021,
+        "avgPackageLPA": 10,
+        "peakPackageCR": 0.3,
+        "totalOffers": 200,
+        "placementPercent": 72
+      },
+      {
+        "year": 2022,
+        "avgPackageLPA": 11.5,
+        "peakPackageCR": 0.35,
+        "totalOffers": 250,
+        "placementPercent": 75
+      },
+      {
+        "year": 2023,
+        "avgPackageLPA": 12.5,
+        "peakPackageCR": 0.4,
+        "totalOffers": 290,
+        "placementPercent": 78
+      },
+      {
+        "year": 2024,
+        "avgPackageLPA": 13.5,
+        "peakPackageCR": 0.42,
+        "totalOffers": 310,
+        "placementPercent": 80
+      },
+      {
+        "year": 2025,
+        "avgPackageLPA": 15,
+        "peakPackageCR": 0.45,
+        "totalOffers": 320,
+        "placementPercent": 82
+      }
+    ]
+  },
+  "iit-ropar": {
+    "collegeId": "iit-ropar",
+    "year": 2025,
+    "totalOffers": 300,
+    "companiesRegistered": 140,
+    "companiesOffered": 105,
+    "internationalOffers": 14,
+    "placementPercent": 82,
+    "avgPackageLPA": 15,
+    "medianPackageLPA": 13,
+    "peakPackageCR": 0.45,
+    "mbdPlacedPercent": 100,
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Apple",
+      "Meta",
+      "Uber",
+      "Goldman Sachs",
+      "JP Morgan",
+      "Morgan Stanley",
+      "Deutsche Bank",
+      "McKinsey",
+      "BCG",
+      "Bain",
+      "Qualcomm",
+      "Nvidia",
+      "Samsung",
+      "Adobe",
+      "Oracle",
+      "Flipkart",
+      "PhonePe",
+      "HUL",
+      "P&G",
+      "ITC",
+      "Tata Steel",
+      "Reliance",
+      "Schlumberger",
+      "Shell",
+      "Intel",
+      "AMD",
+      "Texas Instruments"
+    ],
+    "sectorBreakdown": [
+      {
+        "sector": "Product / Tech",
+        "firms": 5,
+        "percentage": 38
+      },
+      {
+        "sector": "Finance / Banking",
+        "firms": 1,
+        "percentage": 18
+      },
+      {
+        "sector": "Consulting",
+        "firms": 2,
+        "percentage": 12
+      },
+      {
+        "sector": "Core / Manufacturing",
+        "firms": 3,
+        "percentage": 24
+      },
+      {
+        "sector": "Other",
+        "firms": 4,
+        "percentage": 8
+      }
+    ],
+    "yearWiseTrend": [
+      {
+        "year": 2021,
+        "avgPackageLPA": 10,
+        "peakPackageCR": 0.3,
+        "totalOffers": 180,
+        "placementPercent": 72
+      },
+      {
+        "year": 2022,
+        "avgPackageLPA": 11.5,
+        "peakPackageCR": 0.35,
+        "totalOffers": 230,
+        "placementPercent": 75
+      },
+      {
+        "year": 2023,
+        "avgPackageLPA": 12.5,
+        "peakPackageCR": 0.4,
+        "totalOffers": 270,
+        "placementPercent": 78
+      },
+      {
+        "year": 2024,
+        "avgPackageLPA": 13.5,
+        "peakPackageCR": 0.42,
+        "totalOffers": 290,
+        "placementPercent": 80
+      },
+      {
+        "year": 2025,
+        "avgPackageLPA": 15,
+        "peakPackageCR": 0.45,
+        "totalOffers": 300,
+        "placementPercent": 82
+      }
+    ]
+  },
+  "iit-patna": {
+    "collegeId": "iit-patna",
+    "year": 2025,
+    "totalOffers": 350,
+    "companiesRegistered": 160,
+    "companiesOffered": 120,
+    "internationalOffers": 16,
+    "placementPercent": 80,
+    "avgPackageLPA": 17,
+    "medianPackageLPA": 12,
+    "peakPackageCR": 0.82,
+    "mbdPlacedPercent": 100,
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Apple",
+      "Meta",
+      "Uber",
+      "Goldman Sachs",
+      "JP Morgan",
+      "Morgan Stanley",
+      "Deutsche Bank",
+      "McKinsey",
+      "BCG",
+      "Bain",
+      "Qualcomm",
+      "Nvidia",
+      "Samsung",
+      "Adobe",
+      "Oracle",
+      "Flipkart",
+      "PhonePe",
+      "HUL",
+      "P&G",
+      "ITC",
+      "Tata Steel",
+      "Reliance",
+      "Schlumberger",
+      "Shell",
+      "Intel",
+      "AMD",
+      "Texas Instruments"
+    ],
+    "sectorBreakdown": [
+      {
+        "sector": "Product / Tech",
+        "firms": 5,
+        "percentage": 38
+      },
+      {
+        "sector": "Finance / Banking",
+        "firms": 1,
+        "percentage": 18
+      },
+      {
+        "sector": "Consulting",
+        "firms": 2,
+        "percentage": 12
+      },
+      {
+        "sector": "Core / Manufacturing",
+        "firms": 3,
+        "percentage": 24
+      },
+      {
+        "sector": "Other",
+        "firms": 4,
+        "percentage": 8
+      }
+    ],
+    "yearWiseTrend": [
+      {
+        "year": 2021,
+        "avgPackageLPA": 10.5,
+        "peakPackageCR": 0.35,
+        "totalOffers": 220,
+        "placementPercent": 70
+      },
+      {
+        "year": 2022,
+        "avgPackageLPA": 12,
+        "peakPackageCR": 0.45,
+        "totalOffers": 270,
+        "placementPercent": 73
+      },
+      {
+        "year": 2023,
+        "avgPackageLPA": 13.5,
+        "peakPackageCR": 0.55,
+        "totalOffers": 310,
+        "placementPercent": 76
+      },
+      {
+        "year": 2024,
+        "avgPackageLPA": 15,
+        "peakPackageCR": 0.7,
+        "totalOffers": 330,
+        "placementPercent": 78
+      },
+      {
+        "year": 2025,
+        "avgPackageLPA": 17,
+        "peakPackageCR": 0.82,
+        "totalOffers": 350,
+        "placementPercent": 80
+      }
+    ]
+  },
+  "iit-jodhpur": {
+    "collegeId": "iit-jodhpur",
+    "year": 2025,
+    "totalOffers": 280,
+    "companiesRegistered": 130,
+    "companiesOffered": 98,
+    "internationalOffers": 13,
+    "placementPercent": 80,
+    "avgPackageLPA": 14,
+    "medianPackageLPA": 12,
+    "peakPackageCR": 0.4,
+    "mbdPlacedPercent": 100,
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Apple",
+      "Meta",
+      "Uber",
+      "Goldman Sachs",
+      "JP Morgan",
+      "Morgan Stanley",
+      "Deutsche Bank",
+      "McKinsey",
+      "BCG",
+      "Bain",
+      "Qualcomm",
+      "Nvidia",
+      "Samsung",
+      "Adobe",
+      "Oracle",
+      "Flipkart",
+      "PhonePe",
+      "HUL",
+      "P&G",
+      "ITC",
+      "Tata Steel",
+      "Reliance",
+      "Schlumberger",
+      "Shell",
+      "Intel",
+      "AMD",
+      "Texas Instruments"
+    ],
+    "sectorBreakdown": [
+      {
+        "sector": "Product / Tech",
+        "firms": 5,
+        "percentage": 38
+      },
+      {
+        "sector": "Finance / Banking",
+        "firms": 1,
+        "percentage": 18
+      },
+      {
+        "sector": "Consulting",
+        "firms": 2,
+        "percentage": 12
+      },
+      {
+        "sector": "Core / Manufacturing",
+        "firms": 3,
+        "percentage": 24
+      },
+      {
+        "sector": "Other",
+        "firms": 4,
+        "percentage": 8
+      }
+    ],
+    "yearWiseTrend": [
+      {
+        "year": 2021,
+        "avgPackageLPA": 9.5,
+        "peakPackageCR": 0.25,
+        "totalOffers": 180,
+        "placementPercent": 68
+      },
+      {
+        "year": 2022,
+        "avgPackageLPA": 10.5,
+        "peakPackageCR": 0.3,
+        "totalOffers": 220,
+        "placementPercent": 72
+      },
+      {
+        "year": 2023,
+        "avgPackageLPA": 11.5,
+        "peakPackageCR": 0.35,
+        "totalOffers": 250,
+        "placementPercent": 75
+      },
+      {
+        "year": 2024,
+        "avgPackageLPA": 12.5,
+        "peakPackageCR": 0.38,
+        "totalOffers": 270,
+        "placementPercent": 78
+      },
+      {
+        "year": 2025,
+        "avgPackageLPA": 14,
+        "peakPackageCR": 0.4,
+        "totalOffers": 280,
+        "placementPercent": 80
+      }
+    ]
+  },
+  "iit-bhubaneswar": {
+    "collegeId": "iit-bhubaneswar",
+    "year": 2025,
+    "totalOffers": 340,
+    "companiesRegistered": 155,
+    "companiesOffered": 117,
+    "internationalOffers": 15,
+    "placementPercent": 78,
+    "avgPackageLPA": 13,
+    "medianPackageLPA": 11,
+    "peakPackageCR": 0.35,
+    "mbdPlacedPercent": 100,
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Apple",
+      "Meta",
+      "Uber",
+      "Goldman Sachs",
+      "JP Morgan",
+      "Morgan Stanley",
+      "Deutsche Bank",
+      "McKinsey",
+      "BCG",
+      "Bain",
+      "Qualcomm",
+      "Nvidia",
+      "Samsung",
+      "Adobe",
+      "Oracle",
+      "Flipkart",
+      "PhonePe",
+      "HUL",
+      "P&G",
+      "ITC",
+      "Tata Steel",
+      "Reliance",
+      "Schlumberger",
+      "Shell",
+      "Intel",
+      "AMD",
+      "Texas Instruments"
+    ],
+    "sectorBreakdown": [
+      {
+        "sector": "Product / Tech",
+        "firms": 5,
+        "percentage": 36
+      },
+      {
+        "sector": "Finance / Banking",
+        "firms": 1,
+        "percentage": 18
+      },
+      {
+        "sector": "Consulting",
+        "firms": 2,
+        "percentage": 12
+      },
+      {
+        "sector": "Core / Manufacturing",
+        "firms": 3,
+        "percentage": 26
+      },
+      {
+        "sector": "Other",
+        "firms": 4,
+        "percentage": 8
+      }
+    ],
+    "yearWiseTrend": [
+      {
+        "year": 2021,
+        "avgPackageLPA": 9,
+        "peakPackageCR": 0.22,
+        "totalOffers": 220,
+        "placementPercent": 68
+      },
+      {
+        "year": 2022,
+        "avgPackageLPA": 10,
+        "peakPackageCR": 0.26,
+        "totalOffers": 260,
+        "placementPercent": 70
+      },
+      {
+        "year": 2023,
+        "avgPackageLPA": 11,
+        "peakPackageCR": 0.3,
+        "totalOffers": 300,
+        "placementPercent": 73
+      },
+      {
+        "year": 2024,
+        "avgPackageLPA": 12,
+        "peakPackageCR": 0.32,
+        "totalOffers": 320,
+        "placementPercent": 75
+      },
+      {
+        "year": 2025,
+        "avgPackageLPA": 13,
+        "peakPackageCR": 0.35,
+        "totalOffers": 340,
+        "placementPercent": 78
+      }
+    ]
+  },
+  "iit-tirupati": {
+    "collegeId": "iit-tirupati",
+    "year": 2025,
+    "totalOffers": 220,
+    "companiesRegistered": 110,
+    "companiesOffered": 82,
+    "internationalOffers": 10,
+    "placementPercent": 75,
+    "avgPackageLPA": 12,
+    "medianPackageLPA": 10,
+    "peakPackageCR": 0.3,
+    "mbdPlacedPercent": 100,
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Apple",
+      "Meta",
+      "Uber",
+      "Goldman Sachs",
+      "JP Morgan",
+      "Morgan Stanley",
+      "Deutsche Bank",
+      "McKinsey",
+      "BCG",
+      "Bain",
+      "Qualcomm",
+      "Nvidia",
+      "Samsung",
+      "Adobe",
+      "Oracle",
+      "Flipkart",
+      "PhonePe",
+      "HUL",
+      "P&G",
+      "ITC",
+      "Tata Steel",
+      "Reliance",
+      "Schlumberger",
+      "Shell",
+      "Intel",
+      "AMD",
+      "Texas Instruments"
+    ],
+    "sectorBreakdown": [
+      {
+        "sector": "Product / Tech",
+        "firms": 5,
+        "percentage": 36
+      },
+      {
+        "sector": "Finance / Banking",
+        "firms": 1,
+        "percentage": 18
+      },
+      {
+        "sector": "Consulting",
+        "firms": 2,
+        "percentage": 12
+      },
+      {
+        "sector": "Core / Manufacturing",
+        "firms": 3,
+        "percentage": 26
+      },
+      {
+        "sector": "Other",
+        "firms": 4,
+        "percentage": 8
+      }
+    ],
+    "yearWiseTrend": [
+      {
+        "year": 2021,
+        "avgPackageLPA": 8,
+        "peakPackageCR": 0.18,
+        "totalOffers": 130,
+        "placementPercent": 65
+      },
+      {
+        "year": 2022,
+        "avgPackageLPA": 9,
+        "peakPackageCR": 0.22,
+        "totalOffers": 160,
+        "placementPercent": 68
+      },
+      {
+        "year": 2023,
+        "avgPackageLPA": 10,
+        "peakPackageCR": 0.25,
+        "totalOffers": 190,
+        "placementPercent": 71
+      },
+      {
+        "year": 2024,
+        "avgPackageLPA": 11,
+        "peakPackageCR": 0.28,
+        "totalOffers": 210,
+        "placementPercent": 73
+      },
+      {
+        "year": 2025,
+        "avgPackageLPA": 12,
+        "peakPackageCR": 0.3,
+        "totalOffers": 220,
+        "placementPercent": 75
+      }
+    ]
+  },
+  "iit-palakkad": {
+    "collegeId": "iit-palakkad",
+    "year": 2025,
+    "totalOffers": 200,
+    "companiesRegistered": 100,
+    "companiesOffered": 75,
+    "internationalOffers": 9,
+    "placementPercent": 73,
+    "avgPackageLPA": 11,
+    "medianPackageLPA": 9.5,
+    "peakPackageCR": 0.28,
+    "mbdPlacedPercent": 100,
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Apple",
+      "Meta",
+      "Uber",
+      "Goldman Sachs",
+      "JP Morgan",
+      "Morgan Stanley",
+      "Deutsche Bank",
+      "McKinsey",
+      "BCG",
+      "Bain",
+      "Qualcomm",
+      "Nvidia",
+      "Samsung",
+      "Adobe",
+      "Oracle",
+      "Flipkart",
+      "PhonePe",
+      "HUL",
+      "P&G",
+      "ITC",
+      "Tata Steel",
+      "Reliance",
+      "Schlumberger",
+      "Shell",
+      "Intel",
+      "AMD",
+      "Texas Instruments"
+    ],
+    "sectorBreakdown": [
+      {
+        "sector": "Product / Tech",
+        "firms": 5,
+        "percentage": 36
+      },
+      {
+        "sector": "Finance / Banking",
+        "firms": 1,
+        "percentage": 18
+      },
+      {
+        "sector": "Consulting",
+        "firms": 2,
+        "percentage": 12
+      },
+      {
+        "sector": "Core / Manufacturing",
+        "firms": 3,
+        "percentage": 26
+      },
+      {
+        "sector": "Other",
+        "firms": 4,
+        "percentage": 8
+      }
+    ],
+    "yearWiseTrend": [
+      {
+        "year": 2021,
+        "avgPackageLPA": 7.5,
+        "peakPackageCR": 0.16,
+        "totalOffers": 120,
+        "placementPercent": 62
+      },
+      {
+        "year": 2022,
+        "avgPackageLPA": 8.5,
+        "peakPackageCR": 0.2,
+        "totalOffers": 150,
+        "placementPercent": 66
+      },
+      {
+        "year": 2023,
+        "avgPackageLPA": 9.5,
+        "peakPackageCR": 0.23,
+        "totalOffers": 175,
+        "placementPercent": 69
+      },
+      {
+        "year": 2024,
+        "avgPackageLPA": 10,
+        "peakPackageCR": 0.25,
+        "totalOffers": 190,
+        "placementPercent": 71
+      },
+      {
+        "year": 2025,
+        "avgPackageLPA": 11,
+        "peakPackageCR": 0.28,
+        "totalOffers": 200,
+        "placementPercent": 73
+      }
+    ]
+  },
+  "iit-goa": {
+    "collegeId": "iit-goa",
+    "year": 2025,
+    "totalOffers": 180,
+    "companiesRegistered": 90,
+    "companiesOffered": 68,
+    "internationalOffers": 8,
+    "placementPercent": 74,
+    "avgPackageLPA": 11,
+    "medianPackageLPA": 9,
+    "peakPackageCR": 0.28,
+    "mbdPlacedPercent": 100,
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Apple",
+      "Meta",
+      "Uber",
+      "Goldman Sachs",
+      "JP Morgan",
+      "Morgan Stanley",
+      "Deutsche Bank",
+      "McKinsey",
+      "BCG",
+      "Bain",
+      "Qualcomm",
+      "Nvidia",
+      "Samsung",
+      "Adobe",
+      "Oracle",
+      "Flipkart",
+      "PhonePe",
+      "HUL",
+      "P&G",
+      "ITC",
+      "Tata Steel",
+      "Reliance",
+      "Schlumberger",
+      "Shell",
+      "Intel",
+      "AMD",
+      "Texas Instruments"
+    ],
+    "sectorBreakdown": [
+      {
+        "sector": "Product / Tech",
+        "firms": 5,
+        "percentage": 36
+      },
+      {
+        "sector": "Finance / Banking",
+        "firms": 1,
+        "percentage": 18
+      },
+      {
+        "sector": "Consulting",
+        "firms": 2,
+        "percentage": 12
+      },
+      {
+        "sector": "Core / Manufacturing",
+        "firms": 3,
+        "percentage": 26
+      },
+      {
+        "sector": "Other",
+        "firms": 4,
+        "percentage": 8
+      }
+    ],
+    "yearWiseTrend": [
+      {
+        "year": 2021,
+        "avgPackageLPA": 7.5,
+        "peakPackageCR": 0.16,
+        "totalOffers": 100,
+        "placementPercent": 65
+      },
+      {
+        "year": 2022,
+        "avgPackageLPA": 8.5,
+        "peakPackageCR": 0.2,
+        "totalOffers": 130,
+        "placementPercent": 68
+      },
+      {
+        "year": 2023,
+        "avgPackageLPA": 9.5,
+        "peakPackageCR": 0.23,
+        "totalOffers": 155,
+        "placementPercent": 70
+      },
+      {
+        "year": 2024,
+        "avgPackageLPA": 10,
+        "peakPackageCR": 0.25,
+        "totalOffers": 170,
+        "placementPercent": 72
+      },
+      {
+        "year": 2025,
+        "avgPackageLPA": 11,
+        "peakPackageCR": 0.28,
+        "totalOffers": 180,
+        "placementPercent": 74
+      }
+    ]
+  },
+  "iit-jammu": {
+    "collegeId": "iit-jammu",
+    "year": 2025,
+    "totalOffers": 170,
+    "companiesRegistered": 85,
+    "companiesOffered": 64,
+    "internationalOffers": 7,
+    "placementPercent": 72,
+    "avgPackageLPA": 10,
+    "medianPackageLPA": 8.5,
+    "peakPackageCR": 0.25,
+    "mbdPlacedPercent": 100,
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Apple",
+      "Meta",
+      "Uber",
+      "Goldman Sachs",
+      "JP Morgan",
+      "Morgan Stanley",
+      "Deutsche Bank",
+      "McKinsey",
+      "BCG",
+      "Bain",
+      "Qualcomm",
+      "Nvidia",
+      "Samsung",
+      "Adobe",
+      "Oracle",
+      "Flipkart",
+      "PhonePe",
+      "HUL",
+      "P&G",
+      "ITC",
+      "Tata Steel",
+      "Reliance",
+      "Schlumberger",
+      "Shell",
+      "Intel",
+      "AMD",
+      "Texas Instruments"
+    ],
+    "sectorBreakdown": [
+      {
+        "sector": "Product / Tech",
+        "firms": 5,
+        "percentage": 36
+      },
+      {
+        "sector": "Finance / Banking",
+        "firms": 1,
+        "percentage": 18
+      },
+      {
+        "sector": "Consulting",
+        "firms": 2,
+        "percentage": 12
+      },
+      {
+        "sector": "Core / Manufacturing",
+        "firms": 3,
+        "percentage": 26
+      },
+      {
+        "sector": "Other",
+        "firms": 4,
+        "percentage": 8
+      }
+    ],
+    "yearWiseTrend": [
+      {
+        "year": 2021,
+        "avgPackageLPA": 7,
+        "peakPackageCR": 0.14,
+        "totalOffers": 90,
+        "placementPercent": 60
+      },
+      {
+        "year": 2022,
+        "avgPackageLPA": 8,
+        "peakPackageCR": 0.18,
+        "totalOffers": 120,
+        "placementPercent": 65
+      },
+      {
+        "year": 2023,
+        "avgPackageLPA": 8.5,
+        "peakPackageCR": 0.2,
+        "totalOffers": 145,
+        "placementPercent": 68
+      },
+      {
+        "year": 2024,
+        "avgPackageLPA": 9,
+        "peakPackageCR": 0.22,
+        "totalOffers": 160,
+        "placementPercent": 70
+      },
+      {
+        "year": 2025,
+        "avgPackageLPA": 10,
+        "peakPackageCR": 0.25,
+        "totalOffers": 170,
+        "placementPercent": 72
+      }
+    ]
+  },
+  "iit-bhilai": {
+    "collegeId": "iit-bhilai",
+    "year": 2025,
+    "totalOffers": 160,
+    "companiesRegistered": 80,
+    "companiesOffered": 60,
+    "internationalOffers": 7,
+    "placementPercent": 72,
+    "avgPackageLPA": 10,
+    "medianPackageLPA": 8.5,
+    "peakPackageCR": 0.25,
+    "mbdPlacedPercent": 100,
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Apple",
+      "Meta",
+      "Uber",
+      "Goldman Sachs",
+      "JP Morgan",
+      "Morgan Stanley",
+      "Deutsche Bank",
+      "McKinsey",
+      "BCG",
+      "Bain",
+      "Qualcomm",
+      "Nvidia",
+      "Samsung",
+      "Adobe",
+      "Oracle",
+      "Flipkart",
+      "PhonePe",
+      "HUL",
+      "P&G",
+      "ITC",
+      "Tata Steel",
+      "Reliance",
+      "Schlumberger",
+      "Shell",
+      "Intel",
+      "AMD",
+      "Texas Instruments"
+    ],
+    "sectorBreakdown": [
+      {
+        "sector": "Product / Tech",
+        "firms": 5,
+        "percentage": 36
+      },
+      {
+        "sector": "Finance / Banking",
+        "firms": 1,
+        "percentage": 18
+      },
+      {
+        "sector": "Consulting",
+        "firms": 2,
+        "percentage": 12
+      },
+      {
+        "sector": "Core / Manufacturing",
+        "firms": 3,
+        "percentage": 26
+      },
+      {
+        "sector": "Other",
+        "firms": 4,
+        "percentage": 8
+      }
+    ],
+    "yearWiseTrend": [
+      {
+        "year": 2021,
+        "avgPackageLPA": 7,
+        "peakPackageCR": 0.14,
+        "totalOffers": 80,
+        "placementPercent": 60
+      },
+      {
+        "year": 2022,
+        "avgPackageLPA": 8,
+        "peakPackageCR": 0.18,
+        "totalOffers": 110,
+        "placementPercent": 65
+      },
+      {
+        "year": 2023,
+        "avgPackageLPA": 8.5,
+        "peakPackageCR": 0.2,
+        "totalOffers": 135,
+        "placementPercent": 68
+      },
+      {
+        "year": 2024,
+        "avgPackageLPA": 9,
+        "peakPackageCR": 0.22,
+        "totalOffers": 150,
+        "placementPercent": 70
+      },
+      {
+        "year": 2025,
+        "avgPackageLPA": 10,
+        "peakPackageCR": 0.25,
+        "totalOffers": 160,
+        "placementPercent": 72
+      }
+    ]
+  },
+  "iit-dharwad": {
+    "collegeId": "iit-dharwad",
+    "year": 2025,
+    "totalOffers": 150,
+    "companiesRegistered": 75,
+    "companiesOffered": 56,
+    "internationalOffers": 6,
+    "placementPercent": 70,
+    "avgPackageLPA": 10,
+    "medianPackageLPA": 8.5,
+    "peakPackageCR": 0.25,
+    "mbdPlacedPercent": 100,
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Apple",
+      "Meta",
+      "Uber",
+      "Goldman Sachs",
+      "JP Morgan",
+      "Morgan Stanley",
+      "Deutsche Bank",
+      "McKinsey",
+      "BCG",
+      "Bain",
+      "Qualcomm",
+      "Nvidia",
+      "Samsung",
+      "Adobe",
+      "Oracle",
+      "Flipkart",
+      "PhonePe",
+      "HUL",
+      "P&G",
+      "ITC",
+      "Tata Steel",
+      "Reliance",
+      "Schlumberger",
+      "Shell",
+      "Intel",
+      "AMD",
+      "Texas Instruments"
+    ],
+    "sectorBreakdown": [
+      {
+        "sector": "Product / Tech",
+        "firms": 5,
+        "percentage": 36
+      },
+      {
+        "sector": "Finance / Banking",
+        "firms": 1,
+        "percentage": 18
+      },
+      {
+        "sector": "Consulting",
+        "firms": 2,
+        "percentage": 12
+      },
+      {
+        "sector": "Core / Manufacturing",
+        "firms": 3,
+        "percentage": 26
+      },
+      {
+        "sector": "Other",
+        "firms": 4,
+        "percentage": 8
+      }
+    ],
+    "yearWiseTrend": [
+      {
+        "year": 2021,
+        "avgPackageLPA": 6.5,
+        "peakPackageCR": 0.12,
+        "totalOffers": 70,
+        "placementPercent": 55
+      },
+      {
+        "year": 2022,
+        "avgPackageLPA": 7.5,
+        "peakPackageCR": 0.16,
+        "totalOffers": 100,
+        "placementPercent": 62
+      },
+      {
+        "year": 2023,
+        "avgPackageLPA": 8,
+        "peakPackageCR": 0.18,
+        "totalOffers": 125,
+        "placementPercent": 65
+      },
+      {
+        "year": 2024,
+        "avgPackageLPA": 8.5,
+        "peakPackageCR": 0.2,
+        "totalOffers": 140,
+        "placementPercent": 68
+      },
+      {
+        "year": 2025,
+        "avgPackageLPA": 10,
+        "peakPackageCR": 0.25,
+        "totalOffers": 150,
+        "placementPercent": 70
+      }
+    ]
+  },
+  "nit-trichy": {
+    "collegeId": "nit-trichy",
+    "year": 2025,
+    "totalOffers": 1245,
+    "companiesRegistered": 320,
+    "companiesOffered": 218,
+    "internationalOffers": 14,
+    "placementPercent": 88,
+    "avgPackageLPA": 17,
+    "medianPackageLPA": 12.5,
+    "peakPackageCR": 1.4,
+    "mbdPlacedPercent": 95,
+    "topRecruiters": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Qualcomm",
+      "Samsung",
+      "Cisco",
+      "Texas Instruments",
+      "Honeywell",
+      "Siemens",
+      "Caterpillar",
+      "Cummins",
+      "L&T",
+      "Tata Motors",
+      "ITC",
+      "HUL",
+      "Deloitte",
+      "Goldman Sachs",
+      "HSBC",
+      "Wells Fargo",
+      "BlackRock"
+    ],
+    "sectorBreakdown": [
+      {
+        "sector": "Product / Tech",
+        "firms": 4,
+        "percentage": 38
+      },
+      {
+        "sector": "Core / Manufacturing",
+        "firms": 5,
+        "percentage": 25
+      },
+      {
+        "sector": "Finance / Banking",
+        "firms": 3,
+        "percentage": 18
+      },
+      {
+        "sector": "Consulting",
+        "firms": 2,
+        "percentage": 11
+      },
+      {
+        "sector": "Other",
+        "firms": 2,
+        "percentage": 8
+      }
+    ],
+    "yearWiseTrend": [
+      {
+        "year": 2021,
+        "avgPackageLPA": 12.6,
+        "peakPackageCR": 0.98,
+        "totalOffers": 971,
+        "placementPercent": 79.2
+      },
+      {
+        "year": 2022,
+        "avgPackageLPA": 13.9,
+        "peakPackageCR": 1.09,
+        "totalOffers": 1058,
+        "placementPercent": 81.8
+      },
+      {
+        "year": 2023,
+        "avgPackageLPA": 15.1,
+        "peakPackageCR": 1.2,
+        "totalOffers": 1121,
+        "placementPercent": 83.6
+      },
+      {
+        "year": 2024,
+        "avgPackageLPA": 16.1,
+        "peakPackageCR": 1.3,
+        "totalOffers": 1195,
+        "placementPercent": 86.2
+      },
+      {
+        "year": 2025,
+        "avgPackageLPA": 17,
+        "peakPackageCR": 1.4,
+        "totalOffers": 1245,
+        "placementPercent": 88
+      }
+    ]
+  },
+  "nit-surathkal": {
+    "collegeId": "nit-surathkal",
+    "year": 2025,
+    "totalOffers": 980,
+    "companiesRegistered": 290,
+    "companiesOffered": 195,
+    "internationalOffers": 10,
+    "placementPercent": 85,
+    "avgPackageLPA": 20,
+    "medianPackageLPA": 13.2,
+    "peakPackageCR": 1,
+    "mbdPlacedPercent": 94,
+    "topRecruiters": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Flipkart",
+      "Cisco",
+      "Texas Instruments",
+      "National Instruments",
+      "Qualcomm",
+      "Bosch",
+      "L&T",
+      "Tata Steel",
+      "Wipro",
+      "Infosys",
+      "HDFC Bank",
+      "Axis Bank",
+      "EY",
+      "Deloitte",
+      "Capgemini",
+      "Oracle",
+      "SAP"
+    ],
+    "sectorBreakdown": [
+      {
+        "sector": "Product / Tech",
+        "firms": 4,
+        "percentage": 40
+      },
+      {
+        "sector": "Core / Manufacturing",
+        "firms": 4,
+        "percentage": 22
+      },
+      {
+        "sector": "Finance / Banking",
+        "firms": 3,
+        "percentage": 16
+      },
+      {
+        "sector": "Consulting",
+        "firms": 2,
+        "percentage": 12
+      },
+      {
+        "sector": "Other",
+        "firms": 2,
+        "percentage": 10
+      }
+    ],
+    "yearWiseTrend": [
+      {
+        "year": 2021,
+        "avgPackageLPA": 14.8,
+        "peakPackageCR": 0.7,
+        "totalOffers": 764,
+        "placementPercent": 76.5
+      },
+      {
+        "year": 2022,
+        "avgPackageLPA": 16.4,
+        "peakPackageCR": 0.78,
+        "totalOffers": 833,
+        "placementPercent": 79
+      },
+      {
+        "year": 2023,
+        "avgPackageLPA": 17.8,
+        "peakPackageCR": 0.86,
+        "totalOffers": 882,
+        "placementPercent": 80.8
+      },
+      {
+        "year": 2024,
+        "avgPackageLPA": 19,
+        "peakPackageCR": 0.93,
+        "totalOffers": 941,
+        "placementPercent": 83.3
+      },
+      {
+        "year": 2025,
+        "avgPackageLPA": 20,
+        "peakPackageCR": 1,
+        "totalOffers": 980,
+        "placementPercent": 85
+      }
+    ]
+  },
+  "nit-warangal": {
+    "collegeId": "nit-warangal",
+    "year": 2025,
+    "totalOffers": 1180,
+    "companiesRegistered": 305,
+    "companiesOffered": 207,
+    "internationalOffers": 9,
+    "placementPercent": 82,
+    "avgPackageLPA": 17,
+    "medianPackageLPA": 12,
+    "peakPackageCR": 0.98,
+    "mbdPlacedPercent": 93,
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Samsung",
+      "Qualcomm",
+      "Cisco",
+      "Texas Instruments",
+      "Bosch",
+      "L&T",
+      "Tata Steel",
+      "NTPC",
+      "BHEL",
+      "Wipro",
+      "TCS",
+      "Infosys",
+      "HCL",
+      "Deloitte",
+      "EY",
+      "ICICI Bank",
+      "Axis Bank"
+    ],
+    "sectorBreakdown": [
+      {
+        "sector": "Product / Tech",
+        "firms": 3,
+        "percentage": 36
+      },
+      {
+        "sector": "Core / Manufacturing",
+        "firms": 5,
+        "percentage": 26
+      },
+      {
+        "sector": "Finance / Banking",
+        "firms": 3,
+        "percentage": 17
+      },
+      {
+        "sector": "Consulting",
+        "firms": 2,
+        "percentage": 12
+      },
+      {
+        "sector": "Other",
+        "firms": 2,
+        "percentage": 9
+      }
+    ],
+    "yearWiseTrend": [
+      {
+        "year": 2021,
+        "avgPackageLPA": 12.6,
+        "peakPackageCR": 0.69,
+        "totalOffers": 920,
+        "placementPercent": 73.8
+      },
+      {
+        "year": 2022,
+        "avgPackageLPA": 13.9,
+        "peakPackageCR": 0.76,
+        "totalOffers": 1003,
+        "placementPercent": 76.3
+      },
+      {
+        "year": 2023,
+        "avgPackageLPA": 15.1,
+        "peakPackageCR": 0.84,
+        "totalOffers": 1062,
+        "placementPercent": 77.9
+      },
+      {
+        "year": 2024,
+        "avgPackageLPA": 16.1,
+        "peakPackageCR": 0.91,
+        "totalOffers": 1133,
+        "placementPercent": 80.4
+      },
+      {
+        "year": 2025,
+        "avgPackageLPA": 17,
+        "peakPackageCR": 0.98,
+        "totalOffers": 1180,
+        "placementPercent": 82
+      }
+    ]
+  },
+  "nit-calicut": {
+    "collegeId": "nit-calicut",
+    "year": 2025,
+    "totalOffers": 840,
+    "companiesRegistered": 260,
+    "companiesOffered": 174,
+    "internationalOffers": 8,
+    "placementPercent": 87,
+    "avgPackageLPA": 15.8,
+    "medianPackageLPA": 11.5,
+    "peakPackageCR": 0.95,
+    "mbdPlacedPercent": 92,
+    "topRecruiters": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "HCL",
+      "Cognizant",
+      "Capgemini",
+      "L&T",
+      "KPMG",
+      "Deloitte",
+      "EY",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Siemens",
+      "Bosch",
+      "ABB",
+      "Flipkart",
+      "Razorpay"
+    ],
+    "sectorBreakdown": [
+      {
+        "sector": "Product / Tech",
+        "firms": 3,
+        "percentage": 33
+      },
+      {
+        "sector": "IT Services",
+        "firms": 4,
+        "percentage": 28
+      },
+      {
+        "sector": "Core / Manufacturing",
+        "firms": 3,
+        "percentage": 18
+      },
+      {
+        "sector": "Finance / Banking",
+        "firms": 2,
+        "percentage": 13
+      },
+      {
+        "sector": "Other",
+        "firms": 2,
+        "percentage": 8
+      }
+    ],
+    "yearWiseTrend": [
+      {
+        "year": 2021,
+        "avgPackageLPA": 11.7,
+        "peakPackageCR": 0.66,
+        "totalOffers": 655,
+        "placementPercent": 78.3
+      },
+      {
+        "year": 2022,
+        "avgPackageLPA": 13,
+        "peakPackageCR": 0.74,
+        "totalOffers": 714,
+        "placementPercent": 80.9
+      },
+      {
+        "year": 2023,
+        "avgPackageLPA": 14.1,
+        "peakPackageCR": 0.82,
+        "totalOffers": 756,
+        "placementPercent": 82.6
+      },
+      {
+        "year": 2024,
+        "avgPackageLPA": 15,
+        "peakPackageCR": 0.88,
+        "totalOffers": 806,
+        "placementPercent": 85.3
+      },
+      {
+        "year": 2025,
+        "avgPackageLPA": 15.8,
+        "peakPackageCR": 0.95,
+        "totalOffers": 840,
+        "placementPercent": 87
+      }
+    ]
+  },
+  "iiit-hyderabad": {
+    "collegeId": "iiit-hyderabad",
+    "year": 2025,
+    "totalOffers": 620,
+    "companiesRegistered": 185,
+    "companiesOffered": 142,
+    "internationalOffers": 32,
+    "placementPercent": 92,
+    "avgPackageLPA": 28.4,
+    "medianPackageLPA": 20,
+    "peakPackageCR": 2.1,
+    "mbdPlacedPercent": 98,
+    "topRecruiters": [
+      "Google",
+      "Apple",
+      "Meta",
+      "Amazon",
+      "Microsoft",
+      "Uber",
+      "Jane Street",
+      "DE Shaw",
+      "Tower Research",
+      "Optiver",
+      "Goldman Sachs",
+      "JP Morgan",
+      "Atlassian",
+      "Adobe",
+      "Rubrik",
+      "Databricks",
+      "Coinbase",
+      "Sprinklr",
+      "Arcesium",
+      "Oracle"
+    ],
+    "sectorBreakdown": [
+      {
+        "sector": "Product / Tech",
+        "firms": 8,
+        "percentage": 58
+      },
+      {
+        "sector": "Quant / Finance",
+        "firms": 3,
+        "percentage": 20
+      },
+      {
+        "sector": "Finance / Banking",
+        "firms": 2,
+        "percentage": 12
+      },
+      {
+        "sector": "Consulting",
+        "firms": 1,
+        "percentage": 6
+      },
+      {
+        "sector": "Other",
+        "firms": 1,
+        "percentage": 4
+      }
+    ],
+    "yearWiseTrend": [
+      {
+        "year": 2021,
+        "avgPackageLPA": 21,
+        "peakPackageCR": 1.47,
+        "totalOffers": 484,
+        "placementPercent": 82.8
+      },
+      {
+        "year": 2022,
+        "avgPackageLPA": 23.3,
+        "peakPackageCR": 1.64,
+        "totalOffers": 527,
+        "placementPercent": 85.6
+      },
+      {
+        "year": 2023,
+        "avgPackageLPA": 25.3,
+        "peakPackageCR": 1.81,
+        "totalOffers": 558,
+        "placementPercent": 87.4
+      },
+      {
+        "year": 2024,
+        "avgPackageLPA": 27,
+        "peakPackageCR": 1.95,
+        "totalOffers": 595,
+        "placementPercent": 90.2
+      },
+      {
+        "year": 2025,
+        "avgPackageLPA": 28.4,
+        "peakPackageCR": 2.1,
+        "totalOffers": 620,
+        "placementPercent": 92
+      }
+    ]
+  },
+  "dtu-delhi": {
+    "collegeId": "dtu-delhi",
+    "year": 2025,
+    "totalOffers": 2100,
+    "companiesRegistered": 520,
+    "companiesOffered": 350,
+    "internationalOffers": 18,
+    "placementPercent": 78,
+    "avgPackageLPA": 12.5,
+    "medianPackageLPA": 8.2,
+    "peakPackageCR": 1,
+    "mbdPlacedPercent": 90,
+    "topRecruiters": [
+      "Amazon",
+      "Microsoft",
+      "Google",
+      "Samsung",
+      "Paytm",
+      "Wipro",
+      "TCS",
+      "Infosys",
+      "HCL",
+      "Cognizant",
+      "Capgemini",
+      "L&T",
+      "KPMG",
+      "EY",
+      "Deloitte",
+      "Bajaj Auto",
+      "Maruti Suzuki",
+      "NTPC",
+      "BHEL",
+      "SBI"
+    ],
+    "sectorBreakdown": [
+      {
+        "sector": "IT Services",
+        "firms": 5,
+        "percentage": 35
+      },
+      {
+        "sector": "Product / Tech",
+        "firms": 3,
+        "percentage": 24
+      },
+      {
+        "sector": "Core / Manufacturing",
+        "firms": 5,
+        "percentage": 20
+      },
+      {
+        "sector": "Finance / Banking",
+        "firms": 3,
+        "percentage": 13
+      },
+      {
+        "sector": "Other",
+        "firms": 2,
+        "percentage": 8
+      }
+    ],
+    "yearWiseTrend": [
+      {
+        "year": 2021,
+        "avgPackageLPA": 9.3,
+        "peakPackageCR": 0.7,
+        "totalOffers": 1638,
+        "placementPercent": 70.2
+      },
+      {
+        "year": 2022,
+        "avgPackageLPA": 10.3,
+        "peakPackageCR": 0.78,
+        "totalOffers": 1785,
+        "placementPercent": 72.5
+      },
+      {
+        "year": 2023,
+        "avgPackageLPA": 11.1,
+        "peakPackageCR": 0.86,
+        "totalOffers": 1890,
+        "placementPercent": 74.1
+      },
+      {
+        "year": 2024,
+        "avgPackageLPA": 11.9,
+        "peakPackageCR": 0.93,
+        "totalOffers": 2016,
+        "placementPercent": 76.4
+      },
+      {
+        "year": 2025,
+        "avgPackageLPA": 12.5,
+        "peakPackageCR": 1,
+        "totalOffers": 2100,
+        "placementPercent": 78
+      }
+    ]
+  },
+  "bits-pilani": {
+    "collegeId": "bits-pilani",
+    "year": 2025,
+    "totalOffers": 890,
+    "companiesRegistered": 395,
+    "companiesOffered": 275,
+    "internationalOffers": 40,
+    "placementPercent": 89,
+    "avgPackageLPA": 22,
+    "medianPackageLPA": 16.5,
+    "peakPackageCR": 2.2,
+    "mbdPlacedPercent": 97,
+    "topRecruiters": [
+      "Google",
+      "Microsoft",
+      "Uber",
+      "Amazon",
+      "Goldman Sachs",
+      "Morgan Stanley",
+      "DE Shaw",
+      "Qualcomm",
+      "Texas Instruments",
+      "Samsung",
+      "Adobe",
+      "Atlassian",
+      "Sprinklr",
+      "Tower Research",
+      "Jane Street",
+      "PhonePe",
+      "Razorpay",
+      "CRED",
+      "Groww",
+      "Coinbase"
+    ],
+    "sectorBreakdown": [
+      {
+        "sector": "Product / Tech",
+        "firms": 6,
+        "percentage": 48
+      },
+      {
+        "sector": "Quant / Finance",
+        "firms": 3,
+        "percentage": 22
+      },
+      {
+        "sector": "Finance / Banking",
+        "firms": 2,
+        "percentage": 14
+      },
+      {
+        "sector": "Core / Manufacturing",
+        "firms": 2,
+        "percentage": 10
+      },
+      {
+        "sector": "Other",
+        "firms": 1,
+        "percentage": 6
+      }
+    ],
+    "yearWiseTrend": [
+      {
+        "year": 2021,
+        "avgPackageLPA": 16.3,
+        "peakPackageCR": 1.54,
+        "totalOffers": 694,
+        "placementPercent": 80.1
+      },
+      {
+        "year": 2022,
+        "avgPackageLPA": 18,
+        "peakPackageCR": 1.72,
+        "totalOffers": 757,
+        "placementPercent": 82.8
+      },
+      {
+        "year": 2023,
+        "avgPackageLPA": 19.6,
+        "peakPackageCR": 1.89,
+        "totalOffers": 801,
+        "placementPercent": 84.5
+      },
+      {
+        "year": 2024,
+        "avgPackageLPA": 20.9,
+        "peakPackageCR": 2.05,
+        "totalOffers": 854,
+        "placementPercent": 87.2
+      },
+      {
+        "year": 2025,
+        "avgPackageLPA": 22,
+        "peakPackageCR": 2.2,
+        "totalOffers": 890,
+        "placementPercent": 89
+      }
+    ]
+  }
+}

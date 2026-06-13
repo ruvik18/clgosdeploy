@@ -1,0 +1,24 @@
+[
+  { "id": "josaa-r1-2026", "counsellingId": "josaa", "roundNumber": 1, "name": "Round 1", "registrationStart": "Jun 12, 2026", "registrationEnd": "Jun 18, 2026", "resultDate": "Jun 22, 2026", "year": 2026, "notes": "First round — most competitive seats filled here." },
+  { "id": "josaa-r2-2026", "counsellingId": "josaa", "roundNumber": 2, "name": "Round 2", "registrationStart": "Jun 23, 2026", "registrationEnd": "Jun 27, 2026", "resultDate": "Jul 01, 2026", "year": 2026, "notes": "Upgrades and fresh allotments." },
+  { "id": "josaa-r3-2026", "counsellingId": "josaa", "roundNumber": 3, "name": "Round 3", "registrationStart": "Jul 02, 2026", "registrationEnd": "Jul 06, 2026", "resultDate": "Jul 09, 2026", "year": 2026, "notes": null },
+  { "id": "josaa-r4-2026", "counsellingId": "josaa", "roundNumber": 4, "name": "Round 4", "registrationStart": "Jul 10, 2026", "registrationEnd": "Jul 14, 2026", "resultDate": "Jul 17, 2026", "year": 2026, "notes": null },
+  { "id": "josaa-r5-2026", "counsellingId": "josaa", "roundNumber": 5, "name": "Round 5", "registrationStart": "Jul 18, 2026", "registrationEnd": "Jul 21, 2026", "resultDate": "Jul 24, 2026", "year": 2026, "notes": null },
+  { "id": "josaa-r6-2026", "counsellingId": "josaa", "roundNumber": 6, "name": "Round 6 (Final)", "registrationStart": "Jul 25, 2026", "registrationEnd": "Jul 29, 2026", "resultDate": "Aug 01, 2026", "year": 2026, "notes": "Final round. No upgrades after this." },
+
+  { "id": "csab-r1-2026", "counsellingId": "csab", "roundNumber": 1, "name": "SFWE Round 1", "registrationStart": "Sep 10, 2026", "registrationEnd": "Sep 15, 2026", "resultDate": "Sep 20, 2026", "year": 2026, "notes": "First special round for vacant NIT/IIIT/GFTI seats." },
+  { "id": "csab-r2-2026", "counsellingId": "csab", "roundNumber": 2, "name": "SFWE Round 2", "registrationStart": "Sep 22, 2026", "registrationEnd": "Sep 27, 2026", "resultDate": "Oct 02, 2026", "year": 2026, "notes": "Final CSAB round." },
+
+  { "id": "jacd-r1-2026", "counsellingId": "jac-delhi", "roundNumber": 1, "name": "Round 1", "registrationStart": "Jul 05, 2026", "registrationEnd": "Jul 12, 2026", "resultDate": "Jul 18, 2026", "year": 2026, "notes": null },
+  { "id": "jacd-r2-2026", "counsellingId": "jac-delhi", "roundNumber": 2, "name": "Round 2", "registrationStart": "Jul 20, 2026", "registrationEnd": "Jul 24, 2026", "resultDate": "Jul 28, 2026", "year": 2026, "notes": null },
+  { "id": "jacd-r3-2026", "counsellingId": "jac-delhi", "roundNumber": 3, "name": "Round 3", "registrationStart": "Jul 30, 2026", "registrationEnd": "Aug 04, 2026", "resultDate": "Aug 08, 2026", "year": 2026, "notes": null },
+
+  { "id": "bits-i1-2026", "counsellingId": "bitsat", "roundNumber": 1, "name": "Iteration 1", "registrationStart": "Jul 12, 2026", "registrationEnd": "Jul 16, 2026", "resultDate": "Jul 20, 2026", "year": 2026, "notes": "First iteration — high cutoff programs fill here." },
+  { "id": "bits-i2-2026", "counsellingId": "bitsat", "roundNumber": 2, "name": "Iteration 2", "registrationStart": "Jul 28, 2026", "registrationEnd": "Aug 02, 2026", "resultDate": "Aug 05, 2026", "year": 2026, "notes": "Second and final iteration." },
+
+  { "id": "ape-r1-2026", "counsellingId": "apeapcet", "roundNumber": 1, "name": "Round 1", "registrationStart": "Jul 12, 2026", "registrationEnd": "Jul 22, 2026", "resultDate": "Aug 02, 2026", "year": 2026, "notes": null },
+  { "id": "ape-r2-2026", "counsellingId": "apeapcet", "roundNumber": 2, "name": "Round 2", "registrationStart": "Aug 05, 2026", "registrationEnd": "Aug 12, 2026", "resultDate": "Aug 20, 2026", "year": 2026, "notes": null },
+
+  { "id": "tge-r1-2026", "counsellingId": "tgeapcet", "roundNumber": 1, "name": "Round 1", "registrationStart": "Jul 14, 2026", "registrationEnd": "Jul 24, 2026", "resultDate": "Aug 05, 2026", "year": 2026, "notes": null },
+  { "id": "tge-r2-2026", "counsellingId": "tgeapcet", "roundNumber": 2, "name": "Round 2", "registrationStart": "Aug 08, 2026", "registrationEnd": "Aug 15, 2026", "resultDate": "Aug 22, 2026", "year": 2026, "notes": null }
+]

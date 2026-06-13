@@ -1,0 +1,592 @@
+{
+  "iit-guwahati": {
+    "collegeId": "iit-guwahati",
+    "year": 2025,
+    "totalInterns": 680,
+    "avgStipendPerMonth": 45000,
+    "peakStipendPerMonth": 250000,
+    "topCompanies": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Adobe",
+      "Samsung",
+      "Qualcomm",
+      "Goldman Sachs",
+      "Uber",
+      "Flipkart",
+      "Paytm"
+    ],
+    "internationalInternships": 22,
+    "conversionToFullTime": 42.5
+  },
+  "iit-bombay": {
+    "collegeId": "iit-bombay",
+    "year": 2025,
+    "totalInterns": 1100,
+    "avgStipendPerMonth": 75000,
+    "peakStipendPerMonth": 500000,
+    "topCompanies": [
+      "Google",
+      "Meta",
+      "Apple",
+      "Microsoft",
+      "Goldman Sachs",
+      "McKinsey",
+      "BCG",
+      "Two Sigma",
+      "Jane Street",
+      "Citadel"
+    ],
+    "internationalInternships": 85,
+    "conversionToFullTime": 55
+  },
+  "iit-delhi": {
+    "collegeId": "iit-delhi",
+    "year": 2025,
+    "totalInterns": 980,
+    "avgStipendPerMonth": 68000,
+    "peakStipendPerMonth": 450000,
+    "topCompanies": [
+      "Google",
+      "Microsoft",
+      "Goldman Sachs",
+      "McKinsey",
+      "BCG",
+      "Amazon",
+      "Meta",
+      "Qualcomm",
+      "D.E. Shaw",
+      "Morgan Stanley"
+    ],
+    "internationalInternships": 68,
+    "conversionToFullTime": 52
+  },
+  "iit-madras": {
+    "collegeId": "iit-madras",
+    "year": 2025,
+    "totalInterns": 1020,
+    "avgStipendPerMonth": 65000,
+    "peakStipendPerMonth": 420000,
+    "topCompanies": [
+      "Google",
+      "Qualcomm",
+      "Texas Instruments",
+      "Intel",
+      "Nvidia",
+      "Microsoft",
+      "Amazon",
+      "Goldman Sachs",
+      "McKinsey"
+    ],
+    "internationalInternships": 72,
+    "conversionToFullTime": 50
+  },
+  "nit-trichy": {
+    "collegeId": "nit-trichy",
+    "year": 2025,
+    "totalInterns": 850,
+    "avgStipendPerMonth": 32000,
+    "peakStipendPerMonth": 180000,
+    "topCompanies": [
+      "Amazon",
+      "Microsoft",
+      "Samsung",
+      "Qualcomm",
+      "TCS",
+      "Infosys",
+      "Goldman Sachs",
+      "Morgan Stanley"
+    ],
+    "internationalInternships": 18,
+    "conversionToFullTime": 38
+  },
+  "nit-surathkal": {
+    "collegeId": "nit-surathkal",
+    "year": 2025,
+    "totalInterns": 680,
+    "avgStipendPerMonth": 28000,
+    "peakStipendPerMonth": 140000,
+    "topCompanies": [
+      "Amazon",
+      "Microsoft",
+      "Cisco",
+      "Qualcomm",
+      "TCS",
+      "Goldman Sachs",
+      "Flipkart"
+    ],
+    "internationalInternships": 12,
+    "conversionToFullTime": 35
+  },
+  "nit-warangal": {
+    "collegeId": "nit-warangal",
+    "year": 2025,
+    "totalInterns": 720,
+    "avgStipendPerMonth": 28000,
+    "peakStipendPerMonth": 135000,
+    "topCompanies": [
+      "Amazon",
+      "Microsoft",
+      "Samsung",
+      "Qualcomm",
+      "TCS",
+      "Wipro",
+      "HSBC"
+    ],
+    "internationalInternships": 14,
+    "conversionToFullTime": 36
+  },
+  "iiit-hyderabad": {
+    "collegeId": "iiit-hyderabad",
+    "year": 2025,
+    "totalInterns": 520,
+    "avgStipendPerMonth": 55000,
+    "peakStipendPerMonth": 320000,
+    "topCompanies": [
+      "Google",
+      "Apple",
+      "Meta",
+      "Amazon",
+      "Microsoft",
+      "Nvidia",
+      "Qualcomm",
+      "Adobe"
+    ],
+    "internationalInternships": 45,
+    "conversionToFullTime": 62
+  },
+  "bits-pilani": {
+    "collegeId": "bits-pilani",
+    "year": 2025,
+    "totalInterns": 750,
+    "avgStipendPerMonth": 52000,
+    "peakStipendPerMonth": 380000,
+    "topCompanies": [
+      "Google",
+      "Microsoft",
+      "Uber",
+      "Amazon",
+      "Goldman Sachs",
+      "McKinsey",
+      "Qualcomm",
+      "Samsung"
+    ],
+    "internationalInternships": 55,
+    "conversionToFullTime": 48
+  },
+  "iit-bhu-varanasi": {
+    "collegeId": "iit-bhu-varanasi",
+    "year": 2025,
+    "totalInterns": 580,
+    "avgStipendPerMonth": 38000,
+    "peakStipendPerMonth": 200000,
+    "topCompanies": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Flipkart",
+      "Samsung",
+      "Goldman Sachs",
+      "BHEL",
+      "SAIL"
+    ],
+    "internationalInternships": 16,
+    "conversionToFullTime": 40
+  },
+  "nit-calicut": {
+    "collegeId": "nit-calicut",
+    "year": 2025,
+    "totalInterns": 540,
+    "avgStipendPerMonth": 25000,
+    "peakStipendPerMonth": 120000,
+    "topCompanies": [
+      "Amazon",
+      "Microsoft",
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Samsung",
+      "L&T"
+    ],
+    "internationalInternships": 8,
+    "conversionToFullTime": 32
+  },
+  "dtu-delhi": {
+    "collegeId": "dtu-delhi",
+    "year": 2025,
+    "totalInterns": 1400,
+    "avgStipendPerMonth": 22000,
+    "peakStipendPerMonth": 120000,
+    "topCompanies": [
+      "Amazon",
+      "Microsoft",
+      "Google",
+      "Zomato",
+      "Paytm",
+      "Flipkart",
+      "Samsung",
+      "Infosys"
+    ],
+    "internationalInternships": 8,
+    "conversionToFullTime": 28
+  },
+  "iit-kanpur": {
+    "collegeId": "iit-kanpur",
+    "year": 2025,
+    "totalInterns": 900,
+    "avgStipendPerMonth": 52000,
+    "peakStipendPerMonth": 300000,
+    "topCompanies": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Adobe",
+      "Qualcomm",
+      "Samsung",
+      "Flipkart",
+      "Meesho",
+      "PhonePe",
+      "Razorpay"
+    ],
+    "internationalInternships": 28,
+    "conversionToFullTime": 44
+  },
+  "iit-kharagpur": {
+    "collegeId": "iit-kharagpur",
+    "year": 2025,
+    "totalInterns": 1400,
+    "avgStipendPerMonth": 44000,
+    "peakStipendPerMonth": 280000,
+    "topCompanies": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Adobe",
+      "Qualcomm",
+      "Flipkart",
+      "Meesho",
+      "PhonePe",
+      "L&T",
+      "Tata Steel"
+    ],
+    "internationalInternships": 35,
+    "conversionToFullTime": 40
+  },
+  "iit-roorkee": {
+    "collegeId": "iit-roorkee",
+    "year": 2025,
+    "totalInterns": 850,
+    "avgStipendPerMonth": 48000,
+    "peakStipendPerMonth": 280000,
+    "topCompanies": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Adobe",
+      "Qualcomm",
+      "Samsung",
+      "Flipkart",
+      "Meesho",
+      "PhonePe",
+      "Razorpay"
+    ],
+    "internationalInternships": 25,
+    "conversionToFullTime": 41
+  },
+  "iit-hyderabad": {
+    "collegeId": "iit-hyderabad",
+    "year": 2025,
+    "totalInterns": 350,
+    "avgStipendPerMonth": 46000,
+    "peakStipendPerMonth": 260000,
+    "topCompanies": [
+      "Microsoft",
+      "Google",
+      "Amazon",
+      "Adobe",
+      "Qualcomm",
+      "Flipkart",
+      "PhonePe",
+      "DE Shaw",
+      "Arcesium"
+    ],
+    "internationalInternships": 18,
+    "conversionToFullTime": 38.5
+  },
+  "iit-indore": {
+    "collegeId": "iit-indore",
+    "year": 2025,
+    "totalInterns": 180,
+    "avgStipendPerMonth": 40000,
+    "peakStipendPerMonth": 220000,
+    "topCompanies": [
+      "Microsoft",
+      "Amazon",
+      "Adobe",
+      "Samsung",
+      "Flipkart",
+      "PhonePe",
+      "DRDO",
+      "BEL",
+      "Siemens"
+    ],
+    "internationalInternships": 12,
+    "conversionToFullTime": 36
+  },
+  "iit-ism-dhanbad": {
+    "collegeId": "iit-ism-dhanbad",
+    "year": 2025,
+    "totalInterns": 320,
+    "avgStipendPerMonth": 36000,
+    "peakStipendPerMonth": 200000,
+    "topCompanies": [
+      "ONGC",
+      "Coal India",
+      "Tata Steel",
+      "L&T",
+      "BHEL",
+      "DRDO",
+      "Wipro",
+      "TCS",
+      "Infosys",
+      "HCL"
+    ],
+    "internationalInternships": 10,
+    "conversionToFullTime": 32
+  },
+  "iit-patna": {
+    "collegeId": "iit-patna",
+    "year": 2025,
+    "totalInterns": 160,
+    "avgStipendPerMonth": 38000,
+    "peakStipendPerMonth": 200000,
+    "topCompanies": [
+      "Amazon",
+      "Microsoft",
+      "Samsung",
+      "L&T",
+      "DRDO",
+      "BEL",
+      "Infosys",
+      "TCS",
+      "Wipro"
+    ],
+    "internationalInternships": 8,
+    "conversionToFullTime": 32
+  },
+  "iit-ropar": {
+    "collegeId": "iit-ropar",
+    "year": 2025,
+    "totalInterns": 130,
+    "avgStipendPerMonth": 36000,
+    "peakStipendPerMonth": 180000,
+    "topCompanies": [
+      "Amazon",
+      "Microsoft",
+      "Samsung",
+      "Adobe",
+      "L&T",
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "DRDO"
+    ],
+    "internationalInternships": 6,
+    "conversionToFullTime": 30
+  },
+  "iit-gandhinagar": {
+    "collegeId": "iit-gandhinagar",
+    "year": 2025,
+    "totalInterns": 160,
+    "avgStipendPerMonth": 40000,
+    "peakStipendPerMonth": 210000,
+    "topCompanies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Adobe",
+      "Qualcomm",
+      "Flipkart",
+      "TCS",
+      "Infosys",
+      "ISRO"
+    ],
+    "internationalInternships": 10,
+    "conversionToFullTime": 34
+  },
+  "iit-mandi": {
+    "collegeId": "iit-mandi",
+    "year": 2025,
+    "totalInterns": 120,
+    "avgStipendPerMonth": 34000,
+    "peakStipendPerMonth": 170000,
+    "topCompanies": [
+      "Amazon",
+      "Microsoft",
+      "Samsung",
+      "Siemens",
+      "L&T",
+      "TCS",
+      "Infosys",
+      "DRDO",
+      "NTPC"
+    ],
+    "internationalInternships": 5,
+    "conversionToFullTime": 28
+  },
+  "iit-jodhpur": {
+    "collegeId": "iit-jodhpur",
+    "year": 2025,
+    "totalInterns": 160,
+    "avgStipendPerMonth": 36000,
+    "peakStipendPerMonth": 190000,
+    "topCompanies": [
+      "Amazon",
+      "Microsoft",
+      "Adobe",
+      "Qualcomm",
+      "Samsung",
+      "Infosys",
+      "TCS",
+      "DRDO",
+      "ISRO"
+    ],
+    "internationalInternships": 7,
+    "conversionToFullTime": 30
+  },
+  "iit-bhubaneswar": {
+    "collegeId": "iit-bhubaneswar",
+    "year": 2025,
+    "totalInterns": 160,
+    "avgStipendPerMonth": 36000,
+    "peakStipendPerMonth": 190000,
+    "topCompanies": [
+      "Amazon",
+      "Microsoft",
+      "Adobe",
+      "Tata Steel",
+      "L&T",
+      "TCS",
+      "Infosys",
+      "DRDO",
+      "NTPC"
+    ],
+    "internationalInternships": 6,
+    "conversionToFullTime": 29
+  },
+  "iit-tirupati": {
+    "collegeId": "iit-tirupati",
+    "year": 2025,
+    "totalInterns": 100,
+    "avgStipendPerMonth": 32000,
+    "peakStipendPerMonth": 160000,
+    "topCompanies": [
+      "Amazon",
+      "Microsoft",
+      "Samsung",
+      "L&T",
+      "Tata Steel",
+      "TCS",
+      "Infosys",
+      "DRDO"
+    ],
+    "internationalInternships": 4,
+    "conversionToFullTime": 25
+  },
+  "iit-palakkad": {
+    "collegeId": "iit-palakkad",
+    "year": 2025,
+    "totalInterns": 80,
+    "avgStipendPerMonth": 30000,
+    "peakStipendPerMonth": 150000,
+    "topCompanies": [
+      "Amazon",
+      "Microsoft",
+      "Infosys",
+      "TCS",
+      "Wipro",
+      "DRDO",
+      "L&T",
+      "Samsung"
+    ],
+    "internationalInternships": 3,
+    "conversionToFullTime": 22
+  },
+  "iit-dharwad": {
+    "collegeId": "iit-dharwad",
+    "year": 2025,
+    "totalInterns": 70,
+    "avgStipendPerMonth": 28000,
+    "peakStipendPerMonth": 140000,
+    "topCompanies": [
+      "Amazon",
+      "Infosys",
+      "TCS",
+      "Wipro",
+      "L&T",
+      "DRDO",
+      "Samsung",
+      "HCL"
+    ],
+    "internationalInternships": 2,
+    "conversionToFullTime": 20
+  },
+  "iit-bhilai": {
+    "collegeId": "iit-bhilai",
+    "year": 2025,
+    "totalInterns": 70,
+    "avgStipendPerMonth": 28000,
+    "peakStipendPerMonth": 140000,
+    "topCompanies": [
+      "Amazon",
+      "Infosys",
+      "TCS",
+      "Wipro",
+      "DRDO",
+      "Bhilai Steel Plant",
+      "L&T",
+      "HCL"
+    ],
+    "internationalInternships": 2,
+    "conversionToFullTime": 20
+  },
+  "iit-goa": {
+    "collegeId": "iit-goa",
+    "year": 2025,
+    "totalInterns": 70,
+    "avgStipendPerMonth": 28000,
+    "peakStipendPerMonth": 150000,
+    "topCompanies": [
+      "Amazon",
+      "Microsoft",
+      "Infosys",
+      "TCS",
+      "Wipro",
+      "DRDO",
+      "L&T",
+      "Samsung"
+    ],
+    "internationalInternships": 3,
+    "conversionToFullTime": 22
+  },
+  "iit-jammu": {
+    "collegeId": "iit-jammu",
+    "year": 2025,
+    "totalInterns": 65,
+    "avgStipendPerMonth": 26000,
+    "peakStipendPerMonth": 130000,
+    "topCompanies": [
+      "Amazon",
+      "Infosys",
+      "TCS",
+      "Wipro",
+      "DRDO",
+      "L&T",
+      "Samsung",
+      "HCL"
+    ],
+    "internationalInternships": 2,
+    "conversionToFullTime": 18
+  }
+}

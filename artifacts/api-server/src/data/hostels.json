@@ -1,0 +1,3393 @@
+{
+  "iit-guwahati": {
+    "collegeId": "iit-guwahati",
+    "totalHostels": 14,
+    "boysHostels": 11,
+    "girlsHostels": 3,
+    "totalCapacity": 5200,
+    "boysCapacity": 4200,
+    "girlsCapacity": 1000,
+    "feePerYear": 45000,
+    "description": "IIT Guwahati has 14 hostels on campus providing accommodation for all students. The hostels are well-maintained with modern amenities.",
+    "amenities": [
+      "Wi-Fi",
+      "Laundry",
+      "Common Room",
+      "Gym",
+      "Mess",
+      "Reading Room",
+      "24x7 Security"
+    ],
+    "hostels": [
+      {
+        "name": "Brahmaputra Hostel",
+        "type": "Boys",
+        "capacity": 450,
+        "feePerYear": 45000,
+        "floors": 5,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Siang Hostel",
+        "type": "Boys",
+        "capacity": 420,
+        "feePerYear": 45000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Lohit Hostel",
+        "type": "Boys",
+        "capacity": 400,
+        "feePerYear": 45000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room"
+        ]
+      },
+      {
+        "name": "Dibang Hostel",
+        "type": "Boys",
+        "capacity": 380,
+        "feePerYear": 45000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room"
+        ]
+      },
+      {
+        "name": "Manas Hostel",
+        "type": "Boys",
+        "capacity": 360,
+        "feePerYear": 44000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room"
+        ]
+      },
+      {
+        "name": "Subansiri Hostel",
+        "type": "Girls",
+        "capacity": 350,
+        "feePerYear": 45000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Security"
+        ]
+      },
+      {
+        "name": "Kameng Hostel",
+        "type": "Girls",
+        "capacity": 320,
+        "feePerYear": 45000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room"
+        ]
+      },
+      {
+        "name": "Dhansiri Hostel",
+        "type": "Girls",
+        "capacity": 330,
+        "feePerYear": 45000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room"
+        ]
+      }
+    ]
+  },
+  "nit-trichy": {
+    "collegeId": "nit-trichy",
+    "totalHostels": 16,
+    "boysHostels": 12,
+    "girlsHostels": 4,
+    "totalCapacity": 6500,
+    "boysCapacity": 5000,
+    "girlsCapacity": 1500,
+    "feePerYear": 40000,
+    "description": "NIT Trichy has 16 well-maintained hostels with excellent mess facilities and modern amenities.",
+    "amenities": [
+      "Wi-Fi",
+      "Laundry",
+      "Common Room",
+      "Mess",
+      "Reading Room",
+      "ATM",
+      "Medical"
+    ],
+    "hostels": [
+      {
+        "name": "Cauvery Hostel",
+        "type": "Boys",
+        "capacity": 500,
+        "feePerYear": 40000,
+        "floors": 5,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Sindhu Hostel",
+        "type": "Boys",
+        "capacity": 480,
+        "feePerYear": 40000,
+        "floors": 5,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room"
+        ]
+      },
+      {
+        "name": "Ganga Hostel",
+        "type": "Boys",
+        "capacity": 450,
+        "feePerYear": 40000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room"
+        ]
+      },
+      {
+        "name": "Godavari Hostel",
+        "type": "Girls",
+        "capacity": 420,
+        "feePerYear": 40000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Security"
+        ]
+      },
+      {
+        "name": "Pamba Hostel",
+        "type": "Girls",
+        "capacity": 380,
+        "feePerYear": 40000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room"
+        ]
+      }
+    ]
+  },
+  "iit-bombay": {
+    "collegeId": "iit-bombay",
+    "totalHostels": 18,
+    "boysHostels": 14,
+    "girlsHostels": 4,
+    "totalCapacity": 10500,
+    "boysCapacity": 8500,
+    "girlsCapacity": 2000,
+    "feePerYear": 55000,
+    "description": "IIT Bombay has 18 hostels (halls of residence) providing world-class accommodation on the sprawling Powai campus.",
+    "amenities": [
+      "Wi-Fi",
+      "AC",
+      "Laundry",
+      "Common Room",
+      "Gym",
+      "Mess",
+      "Reading Room",
+      "Games Room"
+    ],
+    "hostels": [
+      {
+        "name": "Hostel 1 (H1)",
+        "type": "Boys",
+        "capacity": 650,
+        "feePerYear": 55000,
+        "floors": 6,
+        "amenities": [
+          "Wi-Fi",
+          "AC",
+          "Gym",
+          "Common Room"
+        ]
+      },
+      {
+        "name": "Hostel 5 (H5)",
+        "type": "Boys",
+        "capacity": 620,
+        "feePerYear": 55000,
+        "floors": 6,
+        "amenities": [
+          "Wi-Fi",
+          "AC",
+          "Common Room"
+        ]
+      },
+      {
+        "name": "Hostel 10 (H10)",
+        "type": "Boys",
+        "capacity": 580,
+        "feePerYear": 55000,
+        "floors": 6,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room"
+        ]
+      },
+      {
+        "name": "Hostel 11 (H11)",
+        "type": "Girls",
+        "capacity": 520,
+        "feePerYear": 55000,
+        "floors": 5,
+        "amenities": [
+          "Wi-Fi",
+          "AC",
+          "Common Room",
+          "Security"
+        ]
+      }
+    ]
+  },
+  "iit-delhi": {
+    "collegeId": "iit-delhi",
+    "totalHostels": 13,
+    "boysHostels": 10,
+    "girlsHostels": 3,
+    "totalCapacity": 9800,
+    "boysCapacity": 7800,
+    "girlsCapacity": 2000,
+    "feePerYear": 52000,
+    "description": "IIT Delhi provides on-campus hostel accommodation for all first-year students and most others. Well-connected to South Delhi.",
+    "amenities": [
+      "Wi-Fi",
+      "Laundry",
+      "Common Room",
+      "Mess",
+      "Gym",
+      "Reading Room"
+    ],
+    "hostels": [
+      {
+        "name": "Aravali Hostel",
+        "type": "Boys",
+        "capacity": 680,
+        "feePerYear": 52000,
+        "floors": 6,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room"
+        ]
+      },
+      {
+        "name": "Shivalik Hostel",
+        "type": "Boys",
+        "capacity": 650,
+        "feePerYear": 52000,
+        "floors": 6,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room"
+        ]
+      },
+      {
+        "name": "Himadri Hostel",
+        "type": "Girls",
+        "capacity": 520,
+        "feePerYear": 52000,
+        "floors": 5,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Security"
+        ]
+      },
+      {
+        "name": "Vindhya Hostel",
+        "type": "Boys",
+        "capacity": 600,
+        "feePerYear": 52000,
+        "floors": 6,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room"
+        ]
+      }
+    ]
+  },
+  "nit-warangal": {
+    "collegeId": "nit-warangal",
+    "totalHostels": 12,
+    "boysHostels": 9,
+    "girlsHostels": 3,
+    "totalCapacity": 5600,
+    "boysCapacity": 4400,
+    "girlsCapacity": 1200,
+    "feePerYear": 38000,
+    "description": "NIT Warangal has 12 hostels with good facilities including common rooms, gym and mess.",
+    "amenities": [
+      "Wi-Fi",
+      "Laundry",
+      "Common Room",
+      "Gym",
+      "Mess"
+    ],
+    "hostels": [
+      {
+        "name": "Bhavani Hostel",
+        "type": "Boys",
+        "capacity": 520,
+        "feePerYear": 38000,
+        "floors": 5,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room"
+        ]
+      },
+      {
+        "name": "Godavari Hostel",
+        "type": "Boys",
+        "capacity": 480,
+        "feePerYear": 38000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room"
+        ]
+      },
+      {
+        "name": "Saraswathi Hostel",
+        "type": "Girls",
+        "capacity": 420,
+        "feePerYear": 38000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Security"
+        ]
+      }
+    ]
+  },
+  "iiit-hyderabad": {
+    "collegeId": "iiit-hyderabad",
+    "totalHostels": 6,
+    "boysHostels": 4,
+    "girlsHostels": 2,
+    "totalCapacity": 2800,
+    "boysCapacity": 2000,
+    "girlsCapacity": 800,
+    "feePerYear": 60000,
+    "description": "IIIT Hyderabad provides comfortable hostel accommodation with excellent amenities on its compact campus.",
+    "amenities": [
+      "Wi-Fi",
+      "AC",
+      "Laundry",
+      "Common Room",
+      "Gym",
+      "Mess",
+      "24x7 Security"
+    ],
+    "hostels": [
+      {
+        "name": "Nilgiri Hostel",
+        "type": "Boys",
+        "capacity": 500,
+        "feePerYear": 60000,
+        "floors": 5,
+        "amenities": [
+          "Wi-Fi",
+          "AC",
+          "Gym"
+        ]
+      },
+      {
+        "name": "Vindhya Hostel",
+        "type": "Boys",
+        "capacity": 480,
+        "feePerYear": 60000,
+        "floors": 5,
+        "amenities": [
+          "Wi-Fi",
+          "AC",
+          "Common Room"
+        ]
+      },
+      {
+        "name": "Himalaya Hostel",
+        "type": "Girls",
+        "capacity": 420,
+        "feePerYear": 60000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "AC",
+          "Security"
+        ]
+      }
+    ]
+  },
+  "bits-pilani": {
+    "collegeId": "bits-pilani",
+    "totalHostels": 14,
+    "boysHostels": 10,
+    "girlsHostels": 4,
+    "totalCapacity": 7200,
+    "boysCapacity": 5600,
+    "girlsCapacity": 1600,
+    "feePerYear": 72000,
+    "description": "BITS Pilani has 14 hostels with good amenities. The Pilani campus has a distinct old-world charm with its desert landscape.",
+    "amenities": [
+      "Wi-Fi",
+      "Laundry",
+      "Common Room",
+      "Gym",
+      "Mess",
+      "ATM"
+    ],
+    "hostels": [
+      {
+        "name": "Krishna Bhawan",
+        "type": "Boys",
+        "capacity": 600,
+        "feePerYear": 72000,
+        "floors": 5,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room"
+        ]
+      },
+      {
+        "name": "Vyas Bhawan",
+        "type": "Boys",
+        "capacity": 550,
+        "feePerYear": 72000,
+        "floors": 5,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room"
+        ]
+      },
+      {
+        "name": "Meera Bhawan",
+        "type": "Girls",
+        "capacity": 450,
+        "feePerYear": 72000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Security"
+        ]
+      }
+    ]
+  },
+  "iit-madras": {
+    "collegeId": "iit-madras",
+    "totalHostels": 18,
+    "boysHostels": 15,
+    "girlsHostels": 3,
+    "totalCapacity": 8500,
+    "boysCapacity": 6970,
+    "girlsCapacity": 1530,
+    "feePerYear": 42000,
+    "description": "IIT Madras provides on-campus residential accommodation for all students in well-maintained hostels.",
+    "amenities": [
+      "Wi-Fi",
+      "Mess",
+      "Common Room",
+      "Laundry",
+      "24×7 Security",
+      "Reading Room",
+      "Gym"
+    ],
+    "hostels": [
+      {
+        "name": "Godavari",
+        "type": "Boys",
+        "capacity": 498,
+        "feePerYear": 42000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Krishna",
+        "type": "Boys",
+        "capacity": 498,
+        "feePerYear": 42000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Ganga",
+        "type": "Boys",
+        "capacity": 498,
+        "feePerYear": 42000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Saraswati",
+        "type": "Boys",
+        "capacity": 498,
+        "feePerYear": 42000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Narmada",
+        "type": "Boys",
+        "capacity": 498,
+        "feePerYear": 42000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Tapti",
+        "type": "Boys",
+        "capacity": 498,
+        "feePerYear": 42000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Jamuna",
+        "type": "Boys",
+        "capacity": 498,
+        "feePerYear": 42000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Cauvery",
+        "type": "Boys",
+        "capacity": 498,
+        "feePerYear": 42000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Mahanadi",
+        "type": "Boys",
+        "capacity": 498,
+        "feePerYear": 42000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Sindhu",
+        "type": "Boys",
+        "capacity": 498,
+        "feePerYear": 42000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Alaknanda",
+        "type": "Boys",
+        "capacity": 498,
+        "feePerYear": 42000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Mandakini",
+        "type": "Boys",
+        "capacity": 498,
+        "feePerYear": 42000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Kshipra",
+        "type": "Boys",
+        "capacity": 498,
+        "feePerYear": 42000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Rewa",
+        "type": "Boys",
+        "capacity": 498,
+        "feePerYear": 42000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Sharavati",
+        "type": "Girls",
+        "capacity": 1530,
+        "feePerYear": 42000,
+        "floors": 3,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry",
+          "Security"
+        ]
+      }
+    ]
+  },
+  "iit-bhu-varanasi": {
+    "collegeId": "iit-bhu-varanasi",
+    "totalHostels": 14,
+    "boysHostels": 11,
+    "girlsHostels": 3,
+    "totalCapacity": 6200,
+    "boysCapacity": 5084,
+    "girlsCapacity": 1116,
+    "feePerYear": 38000,
+    "description": "IIT BHU provides on-campus residential accommodation for all students in well-maintained hostels.",
+    "amenities": [
+      "Wi-Fi",
+      "Mess",
+      "Common Room",
+      "Laundry",
+      "24×7 Security",
+      "Reading Room",
+      "Gym"
+    ],
+    "hostels": [
+      {
+        "name": "Limbdi",
+        "type": "Boys",
+        "capacity": 462,
+        "feePerYear": 38000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Rajputana",
+        "type": "Boys",
+        "capacity": 462,
+        "feePerYear": 38000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Birla",
+        "type": "Boys",
+        "capacity": 462,
+        "feePerYear": 38000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Morvi",
+        "type": "Boys",
+        "capacity": 462,
+        "feePerYear": 38000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Navsari",
+        "type": "Boys",
+        "capacity": 462,
+        "feePerYear": 38000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Veer",
+        "type": "Boys",
+        "capacity": 462,
+        "feePerYear": 38000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Kashi",
+        "type": "Boys",
+        "capacity": 462,
+        "feePerYear": 38000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Triveni",
+        "type": "Boys",
+        "capacity": 462,
+        "feePerYear": 38000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Rampur",
+        "type": "Boys",
+        "capacity": 462,
+        "feePerYear": 38000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Gondwana",
+        "type": "Boys",
+        "capacity": 462,
+        "feePerYear": 38000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Malviya",
+        "type": "Boys",
+        "capacity": 462,
+        "feePerYear": 38000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Vaishnavi",
+        "type": "Girls",
+        "capacity": 1116,
+        "feePerYear": 38000,
+        "floors": 3,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry",
+          "Security"
+        ]
+      }
+    ]
+  },
+  "nit-surathkal": {
+    "collegeId": "nit-surathkal",
+    "totalHostels": 15,
+    "boysHostels": 12,
+    "girlsHostels": 3,
+    "totalCapacity": 5800,
+    "boysCapacity": 4756,
+    "girlsCapacity": 1044,
+    "feePerYear": 35000,
+    "description": "NIT Surathkal provides on-campus residential accommodation for all students in well-maintained hostels.",
+    "amenities": [
+      "Wi-Fi",
+      "Mess",
+      "Common Room",
+      "Laundry",
+      "24×7 Security",
+      "Reading Room",
+      "Gym"
+    ],
+    "hostels": [
+      {
+        "name": "Platinum",
+        "type": "Boys",
+        "capacity": 432,
+        "feePerYear": 35000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Gold",
+        "type": "Boys",
+        "capacity": 432,
+        "feePerYear": 35000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Silver",
+        "type": "Boys",
+        "capacity": 432,
+        "feePerYear": 35000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Diamond",
+        "type": "Boys",
+        "capacity": 432,
+        "feePerYear": 35000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Ruby",
+        "type": "Boys",
+        "capacity": 432,
+        "feePerYear": 35000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Sapphire",
+        "type": "Boys",
+        "capacity": 432,
+        "feePerYear": 35000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Pearl",
+        "type": "Boys",
+        "capacity": 432,
+        "feePerYear": 35000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Emerald",
+        "type": "Boys",
+        "capacity": 432,
+        "feePerYear": 35000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Topaz",
+        "type": "Boys",
+        "capacity": 432,
+        "feePerYear": 35000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Amethyst",
+        "type": "Boys",
+        "capacity": 432,
+        "feePerYear": 35000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Opal",
+        "type": "Boys",
+        "capacity": 432,
+        "feePerYear": 35000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Garnet",
+        "type": "Girls",
+        "capacity": 1044,
+        "feePerYear": 35000,
+        "floors": 3,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry",
+          "Security"
+        ]
+      }
+    ]
+  },
+  "nit-calicut": {
+    "collegeId": "nit-calicut",
+    "totalHostels": 14,
+    "boysHostels": 11,
+    "girlsHostels": 3,
+    "totalCapacity": 5500,
+    "boysCapacity": 4510,
+    "girlsCapacity": 990,
+    "feePerYear": 33000,
+    "description": "NIT Calicut provides on-campus residential accommodation for all students in well-maintained hostels.",
+    "amenities": [
+      "Wi-Fi",
+      "Mess",
+      "Common Room",
+      "Laundry",
+      "24×7 Security",
+      "Reading Room",
+      "Gym"
+    ],
+    "hostels": [
+      {
+        "name": "LA",
+        "type": "Boys",
+        "capacity": 410,
+        "feePerYear": 33000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "LB",
+        "type": "Boys",
+        "capacity": 410,
+        "feePerYear": 33000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "LC",
+        "type": "Boys",
+        "capacity": 410,
+        "feePerYear": 33000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "LD",
+        "type": "Boys",
+        "capacity": 410,
+        "feePerYear": 33000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "LE",
+        "type": "Boys",
+        "capacity": 410,
+        "feePerYear": 33000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "LF",
+        "type": "Boys",
+        "capacity": 410,
+        "feePerYear": 33000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "LG",
+        "type": "Boys",
+        "capacity": 410,
+        "feePerYear": 33000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "LH",
+        "type": "Boys",
+        "capacity": 410,
+        "feePerYear": 33000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "LI",
+        "type": "Boys",
+        "capacity": 410,
+        "feePerYear": 33000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "LJ",
+        "type": "Boys",
+        "capacity": 410,
+        "feePerYear": 33000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "LK",
+        "type": "Boys",
+        "capacity": 410,
+        "feePerYear": 33000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "LL",
+        "type": "Girls",
+        "capacity": 990,
+        "feePerYear": 33000,
+        "floors": 3,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry",
+          "Security"
+        ]
+      }
+    ]
+  },
+  "dtu-delhi": {
+    "collegeId": "dtu-delhi",
+    "totalHostels": 10,
+    "boysHostels": 8,
+    "girlsHostels": 2,
+    "totalCapacity": 4000,
+    "boysCapacity": 3280,
+    "girlsCapacity": 720,
+    "feePerYear": 40000,
+    "description": "DTU Delhi provides on-campus residential accommodation for all students in well-maintained hostels.",
+    "amenities": [
+      "Wi-Fi",
+      "Mess",
+      "Common Room",
+      "Laundry",
+      "24×7 Security",
+      "Reading Room",
+      "Gym"
+    ],
+    "hostels": [
+      {
+        "name": "CV Raman",
+        "type": "Boys",
+        "capacity": 469,
+        "feePerYear": 40000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Vishwakarma",
+        "type": "Boys",
+        "capacity": 469,
+        "feePerYear": 40000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Bhaskaracharya",
+        "type": "Boys",
+        "capacity": 469,
+        "feePerYear": 40000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Faraday",
+        "type": "Boys",
+        "capacity": 469,
+        "feePerYear": 40000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Thomas Alva Edison",
+        "type": "Boys",
+        "capacity": 469,
+        "feePerYear": 40000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Nikola Tesla",
+        "type": "Boys",
+        "capacity": 469,
+        "feePerYear": 40000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Archimedes",
+        "type": "Boys",
+        "capacity": 469,
+        "feePerYear": 40000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Curie",
+        "type": "Girls",
+        "capacity": 720,
+        "feePerYear": 40000,
+        "floors": 3,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry",
+          "Security"
+        ]
+      }
+    ]
+  },
+  "iit-kanpur": {
+    "collegeId": "iit-kanpur",
+    "totalHostels": 15,
+    "boysHostels": 12,
+    "girlsHostels": 3,
+    "totalCapacity": 7500,
+    "boysCapacity": 6150,
+    "girlsCapacity": 1350,
+    "feePerYear": 44000,
+    "description": "IIT Kanpur provides on-campus residential accommodation for all students in well-maintained hostels.",
+    "amenities": [
+      "Wi-Fi",
+      "Mess",
+      "Common Room",
+      "Laundry",
+      "24×7 Security",
+      "Reading Room",
+      "Gym"
+    ],
+    "hostels": [
+      {
+        "name": "Hall 1",
+        "type": "Boys",
+        "capacity": 513,
+        "feePerYear": 44000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Hall 2",
+        "type": "Boys",
+        "capacity": 513,
+        "feePerYear": 44000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Hall 3",
+        "type": "Boys",
+        "capacity": 513,
+        "feePerYear": 44000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Hall 4",
+        "type": "Boys",
+        "capacity": 513,
+        "feePerYear": 44000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Hall 5",
+        "type": "Boys",
+        "capacity": 513,
+        "feePerYear": 44000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Hall 6",
+        "type": "Boys",
+        "capacity": 513,
+        "feePerYear": 44000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Hall 7",
+        "type": "Boys",
+        "capacity": 513,
+        "feePerYear": 44000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Hall 8",
+        "type": "Boys",
+        "capacity": 513,
+        "feePerYear": 44000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Hall 9",
+        "type": "Boys",
+        "capacity": 513,
+        "feePerYear": 44000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Hall 10",
+        "type": "Boys",
+        "capacity": 513,
+        "feePerYear": 44000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "New Hall 1",
+        "type": "Boys",
+        "capacity": 513,
+        "feePerYear": 44000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "New Hall 2",
+        "type": "Boys",
+        "capacity": 513,
+        "feePerYear": 44000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Girls Hostel",
+        "type": "Girls",
+        "capacity": 1350,
+        "feePerYear": 44000,
+        "floors": 3,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry",
+          "Security"
+        ]
+      }
+    ]
+  },
+  "iit-kharagpur": {
+    "collegeId": "iit-kharagpur",
+    "totalHostels": 22,
+    "boysHostels": 18,
+    "girlsHostels": 4,
+    "totalCapacity": 12000,
+    "boysCapacity": 9840,
+    "girlsCapacity": 2160,
+    "feePerYear": 36000,
+    "description": "IIT Kharagpur provides on-campus residential accommodation for all students in well-maintained hostels.",
+    "amenities": [
+      "Wi-Fi",
+      "Mess",
+      "Common Room",
+      "Laundry",
+      "24×7 Security",
+      "Reading Room",
+      "Gym"
+    ],
+    "hostels": [
+      {
+        "name": "RK",
+        "type": "Boys",
+        "capacity": 547,
+        "feePerYear": 36000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "RP",
+        "type": "Boys",
+        "capacity": 547,
+        "feePerYear": 36000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "LLR",
+        "type": "Boys",
+        "capacity": 547,
+        "feePerYear": 36000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "MMM",
+        "type": "Boys",
+        "capacity": 547,
+        "feePerYear": 36000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "MS",
+        "type": "Boys",
+        "capacity": 547,
+        "feePerYear": 36000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "VS",
+        "type": "Boys",
+        "capacity": 547,
+        "feePerYear": 36000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "KH",
+        "type": "Boys",
+        "capacity": 547,
+        "feePerYear": 36000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "MT",
+        "type": "Boys",
+        "capacity": 547,
+        "feePerYear": 36000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "HJB",
+        "type": "Boys",
+        "capacity": 547,
+        "feePerYear": 36000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "BC Roy",
+        "type": "Boys",
+        "capacity": 547,
+        "feePerYear": 36000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Nehru",
+        "type": "Boys",
+        "capacity": 547,
+        "feePerYear": 36000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Patel",
+        "type": "Boys",
+        "capacity": 547,
+        "feePerYear": 36000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Azad",
+        "type": "Boys",
+        "capacity": 547,
+        "feePerYear": 36000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "PGB",
+        "type": "Boys",
+        "capacity": 547,
+        "feePerYear": 36000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "JCB",
+        "type": "Boys",
+        "capacity": 547,
+        "feePerYear": 36000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "SAC",
+        "type": "Boys",
+        "capacity": 547,
+        "feePerYear": 36000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Technology",
+        "type": "Boys",
+        "capacity": 547,
+        "feePerYear": 36000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "NH 1",
+        "type": "Boys",
+        "capacity": 547,
+        "feePerYear": 36000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Nivedita",
+        "type": "Girls",
+        "capacity": 2160,
+        "feePerYear": 36000,
+        "floors": 3,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry",
+          "Security"
+        ]
+      }
+    ]
+  },
+  "iit-roorkee": {
+    "collegeId": "iit-roorkee",
+    "totalHostels": 17,
+    "boysHostels": 14,
+    "girlsHostels": 3,
+    "totalCapacity": 8000,
+    "boysCapacity": 6560,
+    "girlsCapacity": 1440,
+    "feePerYear": 40000,
+    "description": "IIT Roorkee provides on-campus residential accommodation for all students in well-maintained hostels.",
+    "amenities": [
+      "Wi-Fi",
+      "Mess",
+      "Common Room",
+      "Laundry",
+      "24×7 Security",
+      "Reading Room",
+      "Gym"
+    ],
+    "hostels": [
+      {
+        "name": "Cautley",
+        "type": "Boys",
+        "capacity": 469,
+        "feePerYear": 40000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Rajendra Bhawan",
+        "type": "Boys",
+        "capacity": 469,
+        "feePerYear": 40000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Radhakrishnan",
+        "type": "Boys",
+        "capacity": 469,
+        "feePerYear": 40000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Govind Bhawan",
+        "type": "Boys",
+        "capacity": 469,
+        "feePerYear": 40000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Jawahar Bhawan",
+        "type": "Boys",
+        "capacity": 469,
+        "feePerYear": 40000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Sarojini",
+        "type": "Boys",
+        "capacity": 469,
+        "feePerYear": 40000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Kasturba",
+        "type": "Boys",
+        "capacity": 469,
+        "feePerYear": 40000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Ganga",
+        "type": "Boys",
+        "capacity": 469,
+        "feePerYear": 40000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Yamuna",
+        "type": "Boys",
+        "capacity": 469,
+        "feePerYear": 40000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Bhagirathi",
+        "type": "Boys",
+        "capacity": 469,
+        "feePerYear": 40000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Alaknanda",
+        "type": "Boys",
+        "capacity": 469,
+        "feePerYear": 40000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Mandakini",
+        "type": "Boys",
+        "capacity": 469,
+        "feePerYear": 40000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Kosi",
+        "type": "Boys",
+        "capacity": 469,
+        "feePerYear": 40000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Ramganga",
+        "type": "Boys",
+        "capacity": 469,
+        "feePerYear": 40000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Saraswati",
+        "type": "Girls",
+        "capacity": 1440,
+        "feePerYear": 40000,
+        "floors": 3,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry",
+          "Security"
+        ]
+      }
+    ]
+  },
+  "iit-hyderabad": {
+    "collegeId": "iit-hyderabad",
+    "totalHostels": 10,
+    "boysHostels": 8,
+    "girlsHostels": 2,
+    "totalCapacity": 4000,
+    "boysCapacity": 3280,
+    "girlsCapacity": 720,
+    "feePerYear": 43000,
+    "description": "IIT Hyderabad provides on-campus residential accommodation for all students in well-maintained hostels.",
+    "amenities": [
+      "Wi-Fi",
+      "Mess",
+      "Common Room",
+      "Laundry",
+      "24×7 Security",
+      "Reading Room",
+      "Gym"
+    ],
+    "hostels": [
+      {
+        "name": "Pinnacle",
+        "type": "Boys",
+        "capacity": 469,
+        "feePerYear": 43000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Summit",
+        "type": "Boys",
+        "capacity": 469,
+        "feePerYear": 43000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Crest",
+        "type": "Boys",
+        "capacity": 469,
+        "feePerYear": 43000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Ridge",
+        "type": "Boys",
+        "capacity": 469,
+        "feePerYear": 43000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Mesa",
+        "type": "Boys",
+        "capacity": 469,
+        "feePerYear": 43000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Plateau",
+        "type": "Boys",
+        "capacity": 469,
+        "feePerYear": 43000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Butte",
+        "type": "Boys",
+        "capacity": 469,
+        "feePerYear": 43000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Aurora",
+        "type": "Girls",
+        "capacity": 720,
+        "feePerYear": 43000,
+        "floors": 3,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry",
+          "Security"
+        ]
+      }
+    ]
+  },
+  "iit-indore": {
+    "collegeId": "iit-indore",
+    "totalHostels": 8,
+    "boysHostels": 6,
+    "girlsHostels": 2,
+    "totalCapacity": 2000,
+    "boysCapacity": 1640,
+    "girlsCapacity": 360,
+    "feePerYear": 41000,
+    "description": "IIT Indore provides on-campus residential accommodation for all students in well-maintained hostels.",
+    "amenities": [
+      "Wi-Fi",
+      "Mess",
+      "Common Room",
+      "Laundry",
+      "24×7 Security",
+      "Reading Room",
+      "Gym"
+    ],
+    "hostels": [
+      {
+        "name": "Kshipra",
+        "type": "Boys",
+        "capacity": 273,
+        "feePerYear": 41000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Betwa",
+        "type": "Boys",
+        "capacity": 273,
+        "feePerYear": 41000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Chambal",
+        "type": "Boys",
+        "capacity": 273,
+        "feePerYear": 41000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Ken",
+        "type": "Boys",
+        "capacity": 273,
+        "feePerYear": 41000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Tapi",
+        "type": "Boys",
+        "capacity": 273,
+        "feePerYear": 41000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Mahi",
+        "type": "Boys",
+        "capacity": 273,
+        "feePerYear": 41000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Narmada",
+        "type": "Girls",
+        "capacity": 360,
+        "feePerYear": 41000,
+        "floors": 3,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry",
+          "Security"
+        ]
+      }
+    ]
+  },
+  "iit-ism-dhanbad": {
+    "collegeId": "iit-ism-dhanbad",
+    "totalHostels": 16,
+    "boysHostels": 13,
+    "girlsHostels": 3,
+    "totalCapacity": 5800,
+    "boysCapacity": 4756,
+    "girlsCapacity": 1044,
+    "feePerYear": 36000,
+    "description": "IIT ISM Dhanbad provides on-campus residential accommodation for all students in well-maintained hostels.",
+    "amenities": [
+      "Wi-Fi",
+      "Mess",
+      "Common Room",
+      "Laundry",
+      "24×7 Security",
+      "Reading Room",
+      "Gym"
+    ],
+    "hostels": [
+      {
+        "name": "Nehru",
+        "type": "Boys",
+        "capacity": 366,
+        "feePerYear": 36000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Patel",
+        "type": "Boys",
+        "capacity": 366,
+        "feePerYear": 36000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Azad",
+        "type": "Boys",
+        "capacity": 366,
+        "feePerYear": 36000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Rajendra",
+        "type": "Boys",
+        "capacity": 366,
+        "feePerYear": 36000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Gandhi",
+        "type": "Boys",
+        "capacity": 366,
+        "feePerYear": 36000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Shastri",
+        "type": "Boys",
+        "capacity": 366,
+        "feePerYear": 36000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Ambedkar",
+        "type": "Boys",
+        "capacity": 366,
+        "feePerYear": 36000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Tilak",
+        "type": "Boys",
+        "capacity": 366,
+        "feePerYear": 36000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Tagore",
+        "type": "Boys",
+        "capacity": 366,
+        "feePerYear": 36000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Vivekanand",
+        "type": "Boys",
+        "capacity": 366,
+        "feePerYear": 36000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "BR Singh",
+        "type": "Boys",
+        "capacity": 366,
+        "feePerYear": 36000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "JN Tata",
+        "type": "Boys",
+        "capacity": 366,
+        "feePerYear": 36000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "SPC Bose",
+        "type": "Boys",
+        "capacity": 366,
+        "feePerYear": 36000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Saraswati",
+        "type": "Girls",
+        "capacity": 1044,
+        "feePerYear": 36000,
+        "floors": 3,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry",
+          "Security"
+        ]
+      }
+    ]
+  },
+  "iit-patna": {
+    "collegeId": "iit-patna",
+    "totalHostels": 6,
+    "boysHostels": 5,
+    "girlsHostels": 1,
+    "totalCapacity": 1600,
+    "boysCapacity": 1312,
+    "girlsCapacity": 288,
+    "feePerYear": 39000,
+    "description": "IIT Patna provides on-campus residential accommodation for all students in well-maintained hostels.",
+    "amenities": [
+      "Wi-Fi",
+      "Mess",
+      "Common Room",
+      "Laundry",
+      "24×7 Security",
+      "Reading Room",
+      "Gym"
+    ],
+    "hostels": [
+      {
+        "name": "Ganga",
+        "type": "Boys",
+        "capacity": 328,
+        "feePerYear": 39000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Gandak",
+        "type": "Boys",
+        "capacity": 328,
+        "feePerYear": 39000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Sone",
+        "type": "Boys",
+        "capacity": 328,
+        "feePerYear": 39000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Punpun",
+        "type": "Boys",
+        "capacity": 328,
+        "feePerYear": 39000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Saptakoshi",
+        "type": "Girls",
+        "capacity": 288,
+        "feePerYear": 39000,
+        "floors": 3,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry",
+          "Security"
+        ]
+      }
+    ]
+  },
+  "iit-ropar": {
+    "collegeId": "iit-ropar",
+    "totalHostels": 5,
+    "boysHostels": 4,
+    "girlsHostels": 1,
+    "totalCapacity": 1400,
+    "boysCapacity": 1148,
+    "girlsCapacity": 252,
+    "feePerYear": 38000,
+    "description": "IIT Ropar provides on-campus residential accommodation for all students in well-maintained hostels.",
+    "amenities": [
+      "Wi-Fi",
+      "Mess",
+      "Common Room",
+      "Laundry",
+      "24×7 Security",
+      "Reading Room",
+      "Gym"
+    ],
+    "hostels": [
+      {
+        "name": "Sutlej",
+        "type": "Boys",
+        "capacity": 287,
+        "feePerYear": 38000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Beas",
+        "type": "Boys",
+        "capacity": 287,
+        "feePerYear": 38000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Ravi",
+        "type": "Boys",
+        "capacity": 287,
+        "feePerYear": 38000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Chenab",
+        "type": "Boys",
+        "capacity": 287,
+        "feePerYear": 38000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Indus",
+        "type": "Girls",
+        "capacity": 252,
+        "feePerYear": 38000,
+        "floors": 3,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry",
+          "Security"
+        ]
+      }
+    ]
+  },
+  "iit-gandhinagar": {
+    "collegeId": "iit-gandhinagar",
+    "totalHostels": 6,
+    "boysHostels": 5,
+    "girlsHostels": 1,
+    "totalCapacity": 1800,
+    "boysCapacity": 1476,
+    "girlsCapacity": 324,
+    "feePerYear": 42000,
+    "description": "IIT Gandhinagar provides on-campus residential accommodation for all students in well-maintained hostels.",
+    "amenities": [
+      "Wi-Fi",
+      "Mess",
+      "Common Room",
+      "Laundry",
+      "24×7 Security",
+      "Reading Room",
+      "Gym"
+    ],
+    "hostels": [
+      {
+        "name": "Sabarmati",
+        "type": "Boys",
+        "capacity": 295,
+        "feePerYear": 42000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Narmada",
+        "type": "Boys",
+        "capacity": 295,
+        "feePerYear": 42000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Tapi",
+        "type": "Boys",
+        "capacity": 295,
+        "feePerYear": 42000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Mahi",
+        "type": "Boys",
+        "capacity": 295,
+        "feePerYear": 42000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Rupen",
+        "type": "Boys",
+        "capacity": 295,
+        "feePerYear": 42000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Dhurva",
+        "type": "Girls",
+        "capacity": 324,
+        "feePerYear": 42000,
+        "floors": 3,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry",
+          "Security"
+        ]
+      }
+    ]
+  },
+  "iit-mandi": {
+    "collegeId": "iit-mandi",
+    "totalHostels": 5,
+    "boysHostels": 4,
+    "girlsHostels": 1,
+    "totalCapacity": 1400,
+    "boysCapacity": 1148,
+    "girlsCapacity": 252,
+    "feePerYear": 37000,
+    "description": "IIT Mandi provides on-campus residential accommodation for all students in well-maintained hostels.",
+    "amenities": [
+      "Wi-Fi",
+      "Mess",
+      "Common Room",
+      "Laundry",
+      "24×7 Security",
+      "Reading Room",
+      "Gym"
+    ],
+    "hostels": [
+      {
+        "name": "Uhl",
+        "type": "Boys",
+        "capacity": 287,
+        "feePerYear": 37000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Beas",
+        "type": "Boys",
+        "capacity": 287,
+        "feePerYear": 37000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Satluj",
+        "type": "Boys",
+        "capacity": 287,
+        "feePerYear": 37000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Ravi",
+        "type": "Boys",
+        "capacity": 287,
+        "feePerYear": 37000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Trishuli",
+        "type": "Girls",
+        "capacity": 252,
+        "feePerYear": 37000,
+        "floors": 3,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry",
+          "Security"
+        ]
+      }
+    ]
+  },
+  "iit-jodhpur": {
+    "collegeId": "iit-jodhpur",
+    "totalHostels": 6,
+    "boysHostels": 5,
+    "girlsHostels": 1,
+    "totalCapacity": 1800,
+    "boysCapacity": 1476,
+    "girlsCapacity": 324,
+    "feePerYear": 40000,
+    "description": "IIT Jodhpur provides on-campus residential accommodation for all students in well-maintained hostels.",
+    "amenities": [
+      "Wi-Fi",
+      "Mess",
+      "Common Room",
+      "Laundry",
+      "24×7 Security",
+      "Reading Room",
+      "Gym"
+    ],
+    "hostels": [
+      {
+        "name": "Luni",
+        "type": "Boys",
+        "capacity": 295,
+        "feePerYear": 40000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Banas",
+        "type": "Boys",
+        "capacity": 295,
+        "feePerYear": 40000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Chambal",
+        "type": "Boys",
+        "capacity": 295,
+        "feePerYear": 40000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Mahi",
+        "type": "Boys",
+        "capacity": 295,
+        "feePerYear": 40000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Sukri",
+        "type": "Boys",
+        "capacity": 295,
+        "feePerYear": 40000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Jawai",
+        "type": "Girls",
+        "capacity": 324,
+        "feePerYear": 40000,
+        "floors": 3,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry",
+          "Security"
+        ]
+      }
+    ]
+  },
+  "iit-bhubaneswar": {
+    "collegeId": "iit-bhubaneswar",
+    "totalHostels": 6,
+    "boysHostels": 5,
+    "girlsHostels": 1,
+    "totalCapacity": 1800,
+    "boysCapacity": 1476,
+    "girlsCapacity": 324,
+    "feePerYear": 38000,
+    "description": "IIT Bhubaneswar provides on-campus residential accommodation for all students in well-maintained hostels.",
+    "amenities": [
+      "Wi-Fi",
+      "Mess",
+      "Common Room",
+      "Laundry",
+      "24×7 Security",
+      "Reading Room",
+      "Gym"
+    ],
+    "hostels": [
+      {
+        "name": "Mahanadi",
+        "type": "Boys",
+        "capacity": 295,
+        "feePerYear": 38000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Brahmani",
+        "type": "Boys",
+        "capacity": 295,
+        "feePerYear": 38000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Indravati",
+        "type": "Boys",
+        "capacity": 295,
+        "feePerYear": 38000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Baitarani",
+        "type": "Boys",
+        "capacity": 295,
+        "feePerYear": 38000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Tel",
+        "type": "Boys",
+        "capacity": 295,
+        "feePerYear": 38000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Rushikulya",
+        "type": "Girls",
+        "capacity": 324,
+        "feePerYear": 38000,
+        "floors": 3,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry",
+          "Security"
+        ]
+      }
+    ]
+  },
+  "iit-tirupati": {
+    "collegeId": "iit-tirupati",
+    "totalHostels": 5,
+    "boysHostels": 4,
+    "girlsHostels": 1,
+    "totalCapacity": 1400,
+    "boysCapacity": 1148,
+    "girlsCapacity": 252,
+    "feePerYear": 38000,
+    "description": "IIT Tirupati provides on-campus residential accommodation for all students in well-maintained hostels.",
+    "amenities": [
+      "Wi-Fi",
+      "Mess",
+      "Common Room",
+      "Laundry",
+      "24×7 Security",
+      "Reading Room",
+      "Gym"
+    ],
+    "hostels": [
+      {
+        "name": "Swarnamukhi",
+        "type": "Boys",
+        "capacity": 287,
+        "feePerYear": 38000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Sagileru",
+        "type": "Boys",
+        "capacity": 287,
+        "feePerYear": 38000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Bhavanasi",
+        "type": "Boys",
+        "capacity": 287,
+        "feePerYear": 38000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Gayatri",
+        "type": "Boys",
+        "capacity": 287,
+        "feePerYear": 38000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Nandini",
+        "type": "Girls",
+        "capacity": 252,
+        "feePerYear": 38000,
+        "floors": 3,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry",
+          "Security"
+        ]
+      }
+    ]
+  },
+  "iit-palakkad": {
+    "collegeId": "iit-palakkad",
+    "totalHostels": 4,
+    "boysHostels": 3,
+    "girlsHostels": 1,
+    "totalCapacity": 1000,
+    "boysCapacity": 820,
+    "girlsCapacity": 180,
+    "feePerYear": 36000,
+    "description": "IIT Palakkad provides on-campus residential accommodation for all students in well-maintained hostels.",
+    "amenities": [
+      "Wi-Fi",
+      "Mess",
+      "Common Room",
+      "Laundry",
+      "24×7 Security",
+      "Reading Room",
+      "Gym"
+    ],
+    "hostels": [
+      {
+        "name": "Bharathapuzha",
+        "type": "Boys",
+        "capacity": 273,
+        "feePerYear": 36000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Gayatri",
+        "type": "Boys",
+        "capacity": 273,
+        "feePerYear": 36000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Kalpathy",
+        "type": "Boys",
+        "capacity": 273,
+        "feePerYear": 36000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Meenakshi",
+        "type": "Girls",
+        "capacity": 180,
+        "feePerYear": 36000,
+        "floors": 3,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry",
+          "Security"
+        ]
+      }
+    ]
+  },
+  "iit-dharwad": {
+    "collegeId": "iit-dharwad",
+    "totalHostels": 4,
+    "boysHostels": 3,
+    "girlsHostels": 1,
+    "totalCapacity": 900,
+    "boysCapacity": 738,
+    "girlsCapacity": 162,
+    "feePerYear": 35000,
+    "description": "IIT Dharwad provides on-campus residential accommodation for all students in well-maintained hostels.",
+    "amenities": [
+      "Wi-Fi",
+      "Mess",
+      "Common Room",
+      "Laundry",
+      "24×7 Security",
+      "Reading Room",
+      "Gym"
+    ],
+    "hostels": [
+      {
+        "name": "Malaprabha",
+        "type": "Boys",
+        "capacity": 246,
+        "feePerYear": 35000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Tungabhadra",
+        "type": "Boys",
+        "capacity": 246,
+        "feePerYear": 35000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Ghataprabha",
+        "type": "Boys",
+        "capacity": 246,
+        "feePerYear": 35000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Shalmala",
+        "type": "Girls",
+        "capacity": 162,
+        "feePerYear": 35000,
+        "floors": 3,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry",
+          "Security"
+        ]
+      }
+    ]
+  },
+  "iit-bhilai": {
+    "collegeId": "iit-bhilai",
+    "totalHostels": 4,
+    "boysHostels": 3,
+    "girlsHostels": 1,
+    "totalCapacity": 800,
+    "boysCapacity": 656,
+    "girlsCapacity": 144,
+    "feePerYear": 34000,
+    "description": "IIT Bhilai provides on-campus residential accommodation for all students in well-maintained hostels.",
+    "amenities": [
+      "Wi-Fi",
+      "Mess",
+      "Common Room",
+      "Laundry",
+      "24×7 Security",
+      "Reading Room",
+      "Gym"
+    ],
+    "hostels": [
+      {
+        "name": "Sheonath",
+        "type": "Boys",
+        "capacity": 219,
+        "feePerYear": 34000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Kelo",
+        "type": "Boys",
+        "capacity": 219,
+        "feePerYear": 34000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Arpa",
+        "type": "Boys",
+        "capacity": 219,
+        "feePerYear": 34000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Hasdeo",
+        "type": "Girls",
+        "capacity": 144,
+        "feePerYear": 34000,
+        "floors": 3,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry",
+          "Security"
+        ]
+      }
+    ]
+  },
+  "iit-goa": {
+    "collegeId": "iit-goa",
+    "totalHostels": 4,
+    "boysHostels": 3,
+    "girlsHostels": 1,
+    "totalCapacity": 900,
+    "boysCapacity": 738,
+    "girlsCapacity": 162,
+    "feePerYear": 36000,
+    "description": "IIT Goa provides on-campus residential accommodation for all students in well-maintained hostels.",
+    "amenities": [
+      "Wi-Fi",
+      "Mess",
+      "Common Room",
+      "Laundry",
+      "24×7 Security",
+      "Reading Room",
+      "Gym"
+    ],
+    "hostels": [
+      {
+        "name": "Mandovi",
+        "type": "Boys",
+        "capacity": 246,
+        "feePerYear": 36000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Zuari",
+        "type": "Boys",
+        "capacity": 246,
+        "feePerYear": 36000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Chapora",
+        "type": "Boys",
+        "capacity": 246,
+        "feePerYear": 36000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Sal",
+        "type": "Girls",
+        "capacity": 162,
+        "feePerYear": 36000,
+        "floors": 3,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry",
+          "Security"
+        ]
+      }
+    ]
+  },
+  "iit-jammu": {
+    "collegeId": "iit-jammu",
+    "totalHostels": 4,
+    "boysHostels": 3,
+    "girlsHostels": 1,
+    "totalCapacity": 800,
+    "boysCapacity": 656,
+    "girlsCapacity": 144,
+    "feePerYear": 34000,
+    "description": "IIT Jammu provides on-campus residential accommodation for all students in well-maintained hostels.",
+    "amenities": [
+      "Wi-Fi",
+      "Mess",
+      "Common Room",
+      "Laundry",
+      "24×7 Security",
+      "Reading Room",
+      "Gym"
+    ],
+    "hostels": [
+      {
+        "name": "Chenab",
+        "type": "Boys",
+        "capacity": 219,
+        "feePerYear": 34000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Tawi",
+        "type": "Boys",
+        "capacity": 219,
+        "feePerYear": 34000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Ujh",
+        "type": "Boys",
+        "capacity": 219,
+        "feePerYear": 34000,
+        "floors": 4,
+        "amenities": [
+          "Wi-Fi",
+          "Common Room",
+          "Laundry"
+        ]
+      },
+      {
+        "name": "Basantar",
+        "type": "Girls",
+        "capacity": 144,
+        "feePerYear": 34000,
+        "floors": 3,
+        "amenities": [
+          "Wi-Fi",
+          "Gym",
+          "Common Room",
+          "Laundry",
+          "Security"
+        ]
+      }
+    ]
+  }
+}

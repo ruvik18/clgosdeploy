@@ -1,0 +1,4 @@
+- [CounselIQ PP Neue Montreal tabular-nums](counseliq-font-tracking.md) — OTF tabular figures cause digit gaps; use tracking-widest/tracking-normal instead of tabular-nums on stats strips and marquees.
+- [CounselIQ JSON data path](counseliq-data-path.md) — API server bundles to dist/index.mjs; JSON files stay in src/data/; loader resolves via resolve(__dirname, '../src/data').
+- [Express 5 wildcard SPA fallback](express5-wildcard.md) — Express 5 path-to-regexp v8 rejects bare `*`; use `app.use(handler)` not `app.get("*", handler)` for SPA catch-all routes.
+- [CouncilOS data file structure](counselos-data-structure.md) — departments, hostels, internships are keyed objects (not arrays) keyed by collegeId; 30 unique colleges after dedup.
