@@ -1,6 +1,3 @@
-import { createRequire } from "module";
-
-const require = createRequire(import.meta.url);
 
 interface Counselling {
   id: string;
@@ -141,14 +138,23 @@ interface InternshipData {
   conversionToFullTime: number | null;
 }
 
-export const counsellings = require("./counsellings.json") as Counselling[];
-export const colleges = require("./colleges.json") as College[];
-export const rounds = require("./rounds.json") as Round[];
-export const cutoffs = require("./cutoffs.json") as Cutoff[];
-export const placements = require("./placements.json") as Record<string, PlacementData>;
-export const hostels = require("./hostels.json") as Record<string, HostelData>;
-export const departments = require("./departments.json") as Record<string, Department[]>;
-export const internships = require("./internships.json") as Record<string, InternshipData>;
+import counsellingsData from "./counsellings.json";
+import collegesData from "./colleges.json";
+import roundsData from "./rounds.json";
+import cutoffsData from "./cutoffs.json";
+import placementsData from "./placements.json";
+import hostelsData from "./hostels.json";
+import departmentsData from "./departments.json";
+import internshipsData from "./internships.json";
+
+export const counsellings = counsellingsData as Counselling[];
+export const colleges = collegesData as College[];
+export const rounds = roundsData as Round[];
+export const cutoffs = cutoffsData as Cutoff[];
+export const placements = placementsData as Record<string, PlacementData>;
+export const hostels = hostelsData as Record<string, HostelData>;
+export const departments = departmentsData as Record<string, Department[]>;
+export const internships = internshipsData as Record<string, InternshipData>;
 
 export const counsellingBySlug = new Map(counsellings.map((c) => [c.slug, c]));
 export const counsellingById = new Map(counsellings.map((c) => [c.id, c]));
