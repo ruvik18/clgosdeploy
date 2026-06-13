@@ -9,6 +9,8 @@ import {
   SlidersHorizontal,
 } from "lucide-react";
 
+const API_BASE = (import.meta.env.VITE_API_BASE_URL as string | undefined) ?? "";
+
 /* ── types ── */
 interface CutoffRow {
   id: string;
@@ -113,7 +115,7 @@ export default function Branches() {
         gender: "Gender-Neutral",
         year: "2026",
       });
-      const res = await fetch(`/api/cutoffs?${params}`);
+      const res = await fetch(`${API_BASE}/api/cutoffs?${params}`);
       if (!res.ok) throw new Error("Failed to fetch");
       return res.json();
     },

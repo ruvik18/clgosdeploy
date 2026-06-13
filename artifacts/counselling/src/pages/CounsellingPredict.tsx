@@ -5,6 +5,8 @@ import { Skeleton } from "@/components/ui/skeleton";
 import { AvatarLogo } from "@/components/ui/avatar-logo";
 import { ArrowLeft, ArrowRight, Pencil } from "lucide-react";
 
+const API_BASE = (import.meta.env.VITE_API_BASE_URL as string | undefined) ?? "";
+
 const INDIAN_STATES = [
   "Andhra Pradesh",
   "Arunachal Pradesh",
@@ -299,7 +301,7 @@ export default function CounsellingPredict({
     try {
       const qs = buildQs(activeRound);
       const resp = await fetch(
-        `/api/counsellings/${params.slug}/predict?${qs.toString()}`,
+        `${API_BASE}/api/counsellings/${params.slug}/predict?${qs.toString()}`,
       );
       if (!resp.ok) throw new Error("Prediction failed");
       const data: PredictResults = await resp.json();
@@ -321,7 +323,7 @@ export default function CounsellingPredict({
     try {
       const qs = buildQs(round);
       const resp = await fetch(
-        `/api/counsellings/${params.slug}/predict?${qs.toString()}`,
+        `${API_BASE}/api/counsellings/${params.slug}/predict?${qs.toString()}`,
       );
       if (!resp.ok) throw new Error();
       const data: PredictResults = await resp.json();

@@ -13,6 +13,8 @@ import {
   Info,
 } from "lucide-react";
 
+const API_BASE = (import.meta.env.VITE_API_BASE_URL as string | undefined) ?? "";
+
 /* ─── types ─── */
 interface College {
   id: string;
@@ -163,7 +165,7 @@ export default function JosaaList() {
         gender: "Gender-Neutral",
         year: "2026",
       });
-      const res = await fetch(`/api/cutoffs?${params}`);
+      const res = await fetch(`${API_BASE}/api/cutoffs?${params}`);
       const data: Cutoff[] = await res.json();
       const userRank = Number(rank);
 
