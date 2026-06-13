@@ -2,7 +2,10 @@
   "outputDirectory": "artifacts/counselling/dist/public",
   "rewrites": [
     { "source": "/api/:path*", "destination": "/api/:path*" },
-    { "source": "(.*)", "destination": "/index.html" }
+    {
+      "source": "^/(?!assets/|logos/|fonts/|favicon\\.png$|robots\\.txt$).*",
+      "destination": "/index.html"
+    }
   ]
 }
 
