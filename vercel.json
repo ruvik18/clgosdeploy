@@ -1,12 +1,6 @@
 {
   "outputDirectory": "artifacts/counselling/dist/public",
   "rewrites": [
-    { "source": "/api/(.*)", "destination": "/api" },
     { "source": "/(.*)", "destination": "/index.html" }
-  ],
-  "functions": {
-    "api/index.ts": {
-      "includeFiles": "artifacts/api-server/src/data/*.json"
-    }
-  }
+  ]
 }
